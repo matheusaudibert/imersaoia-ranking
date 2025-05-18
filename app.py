@@ -36,7 +36,7 @@ def show_details():
     st.markdown(f"### {project['nome']}")
     st.markdown(f"**Usuário Discord:** {project['usuario']}")
     st.markdown(f"**Descrição:** {project['descricao']}")
-    st.markdown(f"[Abrir no GitHub]({project['link']})")
+    st.markdown(f"[Abrir no Github]({project['link']})")
 
 def styles():
     st.markdown("""
@@ -157,8 +157,10 @@ def main():
         search_results = [p for p in projects if search_term in p['nome'].lower()]
         if search_results:
             for project in search_results:
+                # Encontra a posição do projeto no ranking
+                position = sorted_projects.index(project) + 1
                 st.sidebar.markdown("---")
-                st.sidebar.markdown(f"### {project['nome']}")
+                st.sidebar.markdown(f"### {position}. {project['nome']}")
                 st.sidebar.markdown(f"**Votos:** {project['votos']}")
                 st.sidebar.markdown(f"**Usuário Discord:** {project['usuario']}")
                 st.sidebar.markdown(f"**Descrição:** {project['descricao']}")
@@ -208,7 +210,7 @@ def main():
             st.markdown(f"**Votos:** **{project['votos']}**")
             col1, col2 = st.columns(2)
             with col1:
-                st.link_button("GitHub", url=project['link'], type="primary", use_container_width=True)
+                st.link_button("Github", url=project['link'], type="primary", use_container_width=True)
             with col2:
               if st.button("Detalhes", key=f"detalhes_{idx}", use_container_width=True):
                   st.session_state.selected_project = project
