@@ -14,7 +14,7 @@ def load_messages(filename="messages.txt"):
         
         nome_match = re.search(r'Nome: (.*?)(?:\n|$)', message)
         votos_match = re.search(r'Votos: (\d+)', message)
-        link_match = re.search(r'Link: (.*?)(?:\n|$)', message)
+        link_match = re.search(r'Link:\s*(https?://\S+)', message)
         desc_match = re.search(r'Descrição: (.*?)(?:\n|$)', message, re.DOTALL)
         user_match = re.search(r'Usuário: (.*?)(?:\n|$)', message)
         
@@ -29,16 +29,6 @@ def load_messages(filename="messages.txt"):
     
     return projects
   
-def truncar_nome(nome, limite=50):
-    partes = nome.split()
-    resultado = ''
-    for parte in partes:
-        if len(resultado + ' ' + parte) <= limite:
-            resultado += (' ' + parte if resultado else parte)
-        else:
-            break
-    return resultado
-
 # Define o diálogo uma única vez
 @st.dialog("Detalhes do Projeto")
 def show_details():
@@ -87,15 +77,56 @@ def main():
     for idx, project in enumerate(sorted_projects[:60]):
         col = cols[idx % 3]
         with col:
-            nome_truncado = truncar_nome(project['nome'])
-            st.markdown(
-                f"""
-                <div style='min-height: 4em; margin-bottom: 0.5em'>
-                    <h5>{idx + 1}. {nome_truncado}</h5>
-                </div>
-                """,
-                unsafe_allow_html=True
-            )
+            st.markdown("""
+<style>
+.gradient-text {
+    background: linear-gradient(
+        to right,
+        #ff0000,
+        #ff1a1a,
+        #ff0000,
+        #ff1a1a,
+        #8c000c,
+        #ff3333,
+        #940914,
+        #75060f,
+        #ff0000,
+        #ff1a1a
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow 16s linear infinite;
+    background-size: 200% 100%;
+    font-weight: bold;
+}
+
+@keyframes rainbow {
+    0% { background-position: 0% 50%; }
+    100% { background-position: -200% 50%; }
+}
+</style>
+""", unsafe_allow_html=True)
+
+            if project['nome'] == "Matheus Audibert":
+                st.markdown(
+                    f"""
+                    <div style='min-height: 4em; margin-bottom: 0.5em'>
+                        <h5>{idx + 1}. <span class="gradient-text">{project['nome']}</span></h5>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+            
+            else:
+                st.markdown(
+                    f"""
+                    <div style='min-height: 4em; margin-bottom: 0.5em'>
+                        <h5>{idx + 1}. {project['nome']}</h5>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
             st.markdown(f"**Votos:** **{project['votos']}**")
             col1, col2 = st.columns(2)
             with col1:
