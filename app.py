@@ -147,7 +147,7 @@ def main():
     # Pega o número de votos do 30º projeto
     min_votes = sorted_projects[29]['votos'] if len(sorted_projects) >= 30 else 0
     
-    st.info(f"O número mínimo para estar no ranking é de :blue[**{min_votes} votos**].")
+    st.info(f"O número mínimo para estar no **Top 30** é de :blue[**{min_votes} votos**].")
     
     st.sidebar.info("A votação se encerra às 23:59.")
     
@@ -173,7 +173,7 @@ def main():
             st.sidebar.warning("Nenhum projeto encontrado.")
 
     cols = st.columns(3)
-    for idx, project in enumerate(sorted_projects[:30]):
+    for idx, project in enumerate(sorted_projects[:60]):
         col = cols[idx % 3]
         with col:
             medal_class = ''
