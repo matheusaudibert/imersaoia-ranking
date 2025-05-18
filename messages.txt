@@ -567,7 +567,7 @@ Usuário: Levy
 ---
 
 Nome: Felipe Coelho Ribeiro Da Silva
-Votos: 13
+Votos: 14
 Link: https://github.com/feelps04/consultaPsiquiatra
 Descrição: Este projeto oferece uma experiência interativa e imersiva focada na sensibilização sobre a saúde mental e na desmistificação da busca por ajuda profissional.  A jornada começa em um menu de personalização, onde o usuário pode criar um avatar escolhendo gênero e cor de pele. Além disso, o usuário insere dados básicos como nome, idade, peso e altura, que são utilizados para tornar a experiência mais pessoal. Uma breve interação com uma IA de boas-vindas no menu introduz o tom acolhedor do projeto.  Após a personalização, o usuário inicia uma simulação visual da entrada em um hospital psiquiátrico. O avatar criado move-se pelo cenário, aproximando-se da entrada do hospital.  O ponto central da simulação é a interação via chat com uma Inteligência Artificial. Esta IA, que pode assumir o papel de uma enfermeira de triagem ou de um especialista (psicólogo/psiquiatra), guia o usuário através de uma conversa, abordando temas relacionados à saúde mental de forma empática e informativa. O estilo da conversa (curta ou
 Usuário: coelhos347609
@@ -847,7 +847,7 @@ Usuário: yasmin_43157
 ---
 
 Nome: Vilen Ouchi Takiuti
-Votos: 5
+Votos: 6
 Link: https://github.com/xVILENx/Chatbot-Yoda
 Descrição: Chatbot interativo na persona do Mestre Yoda, utilizando Google Gemini e Agent Development Kit (ADK). Apresenta uma arquitetura modular com Agente Mestre delegando tarefas (busca, histórias, conselhos) a agentes especialistas, sintetizando respostas do jeito icônico do Yoda.
 Usuário: vxcloudxv
@@ -1807,7 +1807,7 @@ Usuário: ogabrielzin
 ---
 
 Nome: André Torres
-Votos: 5
+Votos: 6
 Link: https://github.com/xJuggl3r/Edital-Hunter-ADK
 Descrição: Nunca mais perca uma oportunidade! O EditalHunter PRO usa o poder da Inteligência Artificial do Google Gemini para farejar e organizar os editais perfeitos para seus projetos, de forma rápida, inteligente e personalizada.
 Usuário: criptonauta
@@ -5295,7 +5295,7 @@ Usuário: abdiel0492
 ---
 
 Nome: vitor santos
-Votos: 6
+Votos: 7
 Link: https://github.com/engvittorsanttos/projeto-gemini-alura
 Descrição: ExplorAI representa uma evolução na forma como as pessoas descobrem e vivenciam atividades físicas ao ar livre. Trata-se de um sistema inteligente e intuitivo, impulsionado por uma arquitetura de múltiplos agentes de inteligência artificial, meticulosamente projetado para gerar rotas personalizadas de caminhada e corrida. Nosso objetivo é transcender as limitações das opções genéricas, oferecendo percursos que se alinham precisamente com as necessidades, preferências e o espírito explorador de cada usuário.  No coração do ExplorAI reside um processo colaborativo entre quatro agentes de IA especializados, cada um desempenhando um papel crucial na criação da rota perfeita:  O Explorador Digital (Agente Buscador de Informações de Rotas): Este agente atua como um detetive digital, vasculhando vastos oceanos de informação online. Ao receber a localização do usuário e suas preferências detalhadas (distância desejada, nível de dificuldade, tipo de terreno – plano, montanhoso, trilha – e preferências de paisagem – ur
 Usuário: vitorsantos8639
@@ -7239,7 +7239,7 @@ Usuário: samuelbovef
 ---
 
 Nome: Thiago Ribeiro Ramos Silva
-Votos: 4
+Votos: 5
 Link: https://github.com/thiago-ribeiro1/Travellin-AI
 Descrição: Travellin AI é um assistente de viagens inteligente que usa inteligência artificial para ajudar pessoas a descobrirem destinos ideais, com base no orçamento, época do ano, preferências pessoais e até o clima da cidade de destino. Tudo isso com uma interface responsiva e moderna, integrada com Google Gemini 1.5 Flash via backend em Python com FastAPI.
 Usuário: thiagoribeiro__
