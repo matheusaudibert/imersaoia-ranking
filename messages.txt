@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 94
+Votos: 95
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -87,7 +87,7 @@ Usuário: Leandro Filgueira
 ---
 
 Nome: Pablo Ribeiro
-Votos: 33
+Votos: 34
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -103,7 +103,7 @@ Usuário: leon.cardi
 ---
 
 Nome: Regiane Ribeiro
-Votos: 18
+Votos: 19
 Link: https://github.com/regihagn/MeuCompanheiroDigital
 Descrição: "Meu Companheiro Digital" é uma solução de IA, concebida para capacitar a população sênior, ajudando-os a manter a sua independência e qualidade de vida. Este sistema vestível utiliza uma abordagem de múltiplos agentes de IA para fornecer assistência personalizada, proativa e contínua. Ao monitorar a saúde do usuário, fornecer lembretes e facilitar a comunicação com cuidadores e familiares, "Meu Companheiro Digital" não é apenas um dispositivo de assistência, mas um companheiro digital que promove o envelhecimento ativo e seguro.
 Usuário: Regiribeiro
@@ -111,7 +111,7 @@ Usuário: Regiribeiro
 ---
 
 Nome: Douglas Floriano
-Votos: 25
+Votos: 26
 Link: https://github.com/dougfani/horta_inteligente/tree/main
 Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
 Usuário: doug27fani
@@ -127,7 +127,7 @@ Usuário: rodrigo_dos_santos
 ---
 
 Nome: Rodrigo Furtile
-Votos: 37
+Votos: 38
 Link: https://github.com/Furtile-Rodrigo/projeto_imersao_Alura
 Descrição: RPG no dia a dia para crianças e jovens neurotípicos
 Usuário: furtile27
@@ -2087,7 +2087,7 @@ Usuário: cripytou
 ---
 
 Nome: Nelson Marcondes
-Votos: 7
+Votos: 8
 Link: https://github.com/NelsonMarcondes/Agente_pesquisa_profissao_promissora
 Descrição: Descrição do Projeto: Descubra o Teu Superpoder! Chega de ficar só no talvez! 🚀 Tá na hora de você desvendar o mistério do seu talento e liberar o seu superpoder pro mundo! 💪 O "Descubra o Teu Superpoder" é o teste de aptidão que vai te dar o mapa do tesouro 🗺️ pra conquistar o futuro. Com perguntas que são mais suaves que um flow de trap, você vai descobrir se o seu negócio é lógica, arte, ciência, comunicação... ou tudo junto e misturado! 😉 Não perde essa chance de dar um GG na vida! 🎮 Clica aqui, faz o teste e bora dominar o mundo com o seu talento único! 💥 #DescubraSeuSuperpoder #TesteDeAptidao #TalentoRevelado #FuturoBrilhante
 Usuário: Nelson Marcondes
@@ -2431,7 +2431,7 @@ Usuário: João
 ---
 
 Nome: José Minelli
-Votos: 7
+Votos: 8
 Link: https://github.com/joseminelli/Veterinario-IA
 Descrição: O projeto se trata de um chatbot veterinário que pode ajudar com situações relacionadas a pet, tomando o cuidado de não fazer recomendações médicas para não afetar o trabalho de profissionais e nem para não incentivar uso de medicamentos sem prescrição
 Usuário: joseminelli
@@ -5927,7 +5927,7 @@ Usuário: renatoquintiliano
 ---
 
 Nome: Yaakov Israel Cypriano
-Votos: 8
+Votos: 9
 Link: https://github.com/Yaakov-Israel/imers-oalura
 Descrição: O projeto "Super Agente Olhos da Lei" aborda o desafio crítico da segurança urbana em um mundo com vigilância em massa. Com a proliferação de câmeras de segurança, a capacidade humana de monitorar e identificar atividades suspeitas em tempo real é sobrecarregada, criando lacunas significativas na resposta a incidentes.  Nossa solução é um protótipo de um Super Agente de Inteligência Artificial autônomo, desenvolvido utilizando o Google Agent Development Kit (ADK) e modelos Gemini. Este Super Agente opera como um sistema de vigilância inteligente, composto por múltiplos Agentes especializados que colaboram para analisar situações e tomar decisões informadas.  A arquitetura do Super Agente inclui:  Agente Visão: Responsável por processar informações sensoriais (simuladas via texto), identificando elementos e ações em uma cena. Agente Risco: Avalia o nível de ameaça de uma situação com base no relatório visual. Agente Investigação: Sugere e simula a busca por informações adicionais em fontes externas (como um ba
 Usuário: yaakov9392
@@ -6135,7 +6135,7 @@ Usuário: llsilva.suporte_99640
 ---
 
 Nome: Pedro Araujo de Andrade
-Votos: 25
+Votos: 26
 Link: https://github.com/peuweb/loopa
 Descrição: Imagine começar o dia sabendo exatamente o que fazer — sem abrir o Trello, ClickUp ou Google Calendar. O Loopa é um assistente virtual que se conecta às suas ferramentas de produtividade e envia um resumo inteligente das suas tarefas direto no WhatsApp. É clareza, foco e tempo livre — todos os dias, sem esforço.
 Usuário: peuweb
