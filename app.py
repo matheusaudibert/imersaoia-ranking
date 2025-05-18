@@ -129,8 +129,13 @@ def main():
     st.set_page_config(page_title="Projetos Imersão IA", layout="centered", initial_sidebar_state="expanded", page_icon="🏆")
     styles()
     
-    
-    st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
+    col1, col2 = st.columns([5,1])
+    with col1:
+        st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
+    with col2:
+        st.markdown("<div style='height:26px'></div>", unsafe_allow_html=True)
+        with st.popover("Sobre"):
+            st.markdown("**:red[Este ranking é uma simulação não oficial da votação.]**\n\n**A apuração dos votos atualiza a cada 5 minutos.**\n\n**Para votar em um projeto clique em _:blue[Detalhes]_ que o link para o _:green[Discord]_ aparecerá.**\n\n**🎉 :rainbow[Boa sorte a todos!]**\n\n**🤓 _Desenvoldido por [Audibert](https://www.youtube.com/@audibert)._**")
     st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
     col1, col2 = st.columns(2)
     with col1:
@@ -219,10 +224,6 @@ def main():
               if st.button("Detalhes", key=f"detalhes_{idx}", use_container_width=True):
                   st.session_state.selected_project = project
                   show_details()  # Chama o dialog aqui com o projeto certo
-            if project['nome'] == "Matheus Audibert":
-                st.link_button("Votar no projeto :material/call_made:", url=project['votar'], type="primary", use_container_width=True)
-            else:
-                st.link_button("Votar no projeto :material/call_made:", url=project['votar'], type="secondary", use_container_width=True)
     st.write("")
     st.write("")
     st.markdown("""
