@@ -1031,7 +1031,7 @@ Usuário: bob582
 ---
 
 Nome: Lucy Gama
-Votos: 11
+Votos: 12
 Link: https://github.com/LucyDotta/Assistente-Virtual-Wee
 Descrição: O Chatbot Wee é um assistente virtual inteligente desenvolvido para qualificar e acolher, de forma eficiente e humanizada, os leads do empreendimento MOVA.WF já no primeiro contato. Combinando agilidade, personalização e linguagem alinhada ao tom da marca, a Wee transforma o atendimento inicial em uma experiência fluida e envolvente, aproximando o lead da proposta única do empreendimento.
 Usuário: lucygama
@@ -3751,7 +3751,7 @@ Usuário: Jorge Ninja
 ---
 
 Nome: Julia Caroline M. de Farias
-Votos: 7
+Votos: 8
 Link: https://github.com/juliaf-dev/Projeto_gemini.git
 Descrição: A Plataforma de Geração de Conteúdo Educacional com Assistente de Estudos IA utiliza o Gemini para gerar materiais de estudo personalizados e oferecer suporte interativo. Estudantes inserem um tema e recebem conteúdo formatado em HTML, ajustado para os níveis básico, intermediário ou avançado. Um chat IA integrado responde a dúvidas sobre o tema, proporcionando assistência de estudo em tempo real. O projeto melhora a eficiência e a personalização do aprendizado, combinando geração de conteúdo inteligente com suporte interativo.
 Usuário: julia089060
@@ -4015,7 +4015,7 @@ Usuário: kg_12
 ---
 
 Nome: SILVIA HELENA ESCOLARIQUE
-Votos: 11
+Votos: 12
 Link: https://github.com/SHESCOLARIQUE/alura-imersao-gemini-desafio
 Descrição: Projeto: Chef IA Duo: Desvendando Sabores para Dietas Restritivas - Este projeto demonstra a colaboração inteligente entre dois agentes de inteligência artificial para auxiliar pessoas com dietas restritivas a planejarem suas refeições
 Usuário: Silvia Escolarique
@@ -4167,7 +4167,7 @@ Usuário: Matheus Gabriel Santana
 ---
 
 Nome: Daniele Karina dos Santos
-Votos: 6
+Votos: 7
 Link: https://github.com/danieleksantos/Bot-Dreams-Imersao-Alura-Gemini
 Descrição: 🧠 Bot Dreams – Um mergulho freudiano nos seus sonhos 💭✨ Já imaginou contar seu sonho para um bot e receber uma interpretação inspirada na psicanálise de Freud? Com o Bot Dreams, isso é possível!  Este projeto foi desenvolvido durante a Imersão Alura em parceria com o Google Gemini e tem como objetivo analisar seus sonhos a partir de uma perspectiva freudiana, explorando simbolismos, desejos inconscientes e emoções ocultas.  Basta digitar o que você sonhou, e o bot utiliza a API do Gemini para oferecer uma interpretação embasada na teoria de Freud, como se estivesse em uma sessão de divã... só que com inteligência artificial!
 Usuário: danieleksantos
@@ -4183,7 +4183,7 @@ Usuário: abademth
 ---
 
 Nome: João Zanata Neto
-Votos: 6
+Votos: 7
 Link: https://github.com/JZanataNeto/chatbot-banks
 Descrição: O Chatbot-banks é um chatbot empresarial de uso interno, alimentado com dados da empresa e dados externos. Sua função é auxiliar o atendente comercial na oferta de produtos e serviços, fornecendo informações adequadas ao perfil do cliente e argumentos de vendas.
 Usuário: Zanata
@@ -4207,7 +4207,7 @@ Usuário: mathgoms_
 ---
 
 Nome: Lucas Nakamura Cerejo
-Votos: 6
+Votos: 7
 Link: https://github.com/aikiesan/sera_que_e_golpe
 Descrição: Aqui está a descrição do seu projeto em formato de texto contínuo para a pequena caixa de texto do Google Forms: "Será Que é Golpe?" é uma solução inovadora que utiliza a IA do Google Gemini para combater golpes digitais, protegendo especialmente idosos. Desenvolvida para a Competição de AI Agents Google Gemini + Alura, nossa plataforma analisa mensagens suspeitas em tempo real, identificando padrões de fraudes com interface super amigável e acessível. Com 82% dos idosos brasileiros já tendo recebido tentativas de golpe por WhatsApp e prejuízos superiores a R$ 2,5 bilhões em 2023, nosso projeto oferece análise instantânea, suporte para texto e imagens, alertas claros e conteúdo educativo sobre segurança digital. Construído com HTML/CSS/JavaScript no frontend, Python/Flask no backend e a API do Google Gemini, nosso diferencial está na interface desenvolvida com participação de idosos reais e no sistema de aprendizado contínuo. Usando tecnologia para proteger quem amamos! ❤️
 Usuário: lucascherry
@@ -4247,7 +4247,7 @@ Usuário: sarahfigsouza
 ---
 
 Nome: Yan Machado de Souza
-Votos: 7
+Votos: 8
 Link: https://github.com/Yanmach/Colab
 Descrição: Este projeto cujo nome dei como "LookIA", inovador no Google Colab demonstra a aplicação prática de inteligência artificial  para análise de looks de roupa. O foco principal reside na automatização da identificação de peças, descrição de características, sugestão de ocasiões de uso e propostas de combinações, visando otimizar o processo de curadoria de moda e oferecer insights personalizados. O público-alvo primário inclui entusiastas de moda, stylists, plataformas de e-commerce de vestuário e indivíduos em busca de assistência virtual para aprimorar seu estilo pessoal. A expertise demonstrada abrange processamento de imagem, interação com APIs de IA e desenvolvimento de soluções inteligentes para o setor de moda.O chatbot também tem um grande potencial para ser uma ferramenta útil e prática no dia a dia das pessoas, facilitando decisões relacionadas a vestuário, otimizando o uso do guarda-roupa e até mesmo inspirando novas formas de se vestir. A capacidade de analisar imagens torna a interação muito intuitiv
 Usuário: yanmach
@@ -4775,7 +4775,7 @@ Usuário: samy_79576
 ---
 
 Nome: Larissa Motta Carrara
-Votos: 12
+Votos: 13
 Link: https://github.com/LarissaCarrara/SINALIA/blob/main/README.md
 Descrição: O Projeto SINALIA é uma ferramenta essencial para quem quer aprender a se comunicar em Libras. Ele traduz frases, descreve os gestos para você e, o melhor de tudo, te dá links diretos para vídeos e imagens que mostram como fazer os sinais na prática, focada em democratizar o conhecimento e promover a inclusão linguística.
 Usuário: carrara2027
@@ -5575,7 +5575,7 @@ Usuário: Winicius_007
 ---
 
 Nome: Rodrigo Eduardo De Almeida
-Votos: 8
+Votos: 9
 Link: https://github.com/rodrigo-ed/chatbot-finanbot
 Descrição: FinanBot é um chatbot de educação financeira que utiliza inteligência artificial (Google Gemini API) para ajudar pessoas a entender e gerenciar melhor suas finanças. O sistema responde perguntas como “Como sair das dívidas?”  A aplicação possui um frontend em HTML/CSS/JS puro e um backend em Python com Flask, conectados via API REST. O usuário envia sua dúvida pelo site, e o backend consulta a IA para gerar a resposta em tempo real.  O objetivo é democratizar o acesso ao conhecimento financeiro, principalmente para quem não tem acesso a consultoria profissional. É um projeto social, acessível, executável localmente e com potencial de expansão para web e mobile.
 Usuário: rodrigo_eduardoa_70153
@@ -6959,7 +6959,7 @@ Usuário: djonathankaiper
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 12
+Votos: 13
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
