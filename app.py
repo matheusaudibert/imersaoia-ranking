@@ -29,7 +29,7 @@ def load_messages(filename="messages.txt"):
     
     return projects
   
-def truncar_nome(nome, limite=26):
+def truncar_nome(nome, limite=50):
     partes = nome.split()
     resultado = ''
     for parte in partes:
