@@ -86,7 +86,7 @@ def main():
             st.sidebar.warning("Nenhum projeto encontrado.")
 
     cols = st.columns(3)
-    for idx, project in enumerate(sorted_projects[:30]):
+    for idx, project in enumerate(sorted_projects[:60]):
         col = cols[idx % 3]
         with col:
             nome_truncado = truncar_nome(project['nome'])
