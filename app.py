@@ -133,11 +133,11 @@ def main():
     with col1:
         st.markdown("⭐ Você pode retribuir e :orange[votar] no meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
     with col2:
-        st.markdown(":green-badge[:material/check: Atualizado] :violet-badge[:material/code: Open Source] :orange-badge[:material/star: Interface amigável]")
+        st.markdown(":green-badge[:material/check: Atualizado] :violet-badge[:material/code: Open Source] :orange-badge[:material/star: Interface Amigável]")
     with col1:
         st.markdown("👾 Acesse o repositório desse :green[app] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
     with col2:
-        st.link_button("🤿 Guia de Mergulho da Imersão", "https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb", use_container_width=True)
+        st.link_button("🤿 Guia de Mergulho da Imersão", "https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb", use_container_width=True, type="primary")
     projects = load_messages()
     sorted_projects = sorted(projects, key=lambda x: x['votos'], reverse=True)
     
