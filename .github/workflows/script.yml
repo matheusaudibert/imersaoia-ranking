@@ -2,7 +2,7 @@ name: Fetch Discord Messages and Commit
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # Executa a cada 5 minutos
+    - cron: "*/5 * * * *" # executa a cada 5 minutos
   workflow_dispatch:
 
 jobs:
@@ -33,12 +33,17 @@ jobs:
 
           if [ -f messages.txt ]; then
             git add messages.txt
+
             if git diff --staged --quiet; then
               echo "No changes to commit."
             else
               git commit -m "update: messages.txt em $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+
+              # Configura URL remota com token para autenticação
+              git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/matheusaudibert/imersaoia-ranking.git
+
               git pull --rebase
-              git push
+              git push origin main
             fi
           else
             echo "messages.txt was not created."
