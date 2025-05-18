@@ -1,9 +1,5 @@
 Nome: Luiz Felipe Lima
-<<<<<<< HEAD
 Votos: 120
-=======
-Votos: 119
->>>>>>> d5cf25bf99c556d43a4d82de574cac357713bd8c
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -39,7 +35,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 61
+Votos: 62
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -129,11 +125,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Douglas Floriano
-<<<<<<< HEAD
 Votos: 48
-=======
-Votos: 45
->>>>>>> d5cf25bf99c556d43a4d82de574cac357713bd8c
 Link: https://github.com/dougfani/horta_inteligente/tree/main
 Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
 Usuário: doug27fani
@@ -187,7 +179,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thomas Yuiti Yano
-Votos: 15
+Votos: 16
 Link: https://github.com/Thomas-Yano/Projeto_Alura.git
 Descrição: Sistema de Geração de Conteúdo Automatizado com Agentes
 Usuário: Yuu
@@ -205,7 +197,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thiago Waldowski Ralha
-Votos: 18
+Votos: 19
 Link: https://github.com/twralha/imersao-alura-gemini
 Descrição: Agente para sugerir locais a serem visitados com base em um local inicial e uma descrição de interesses do usuário.
 Usuário: twralha
@@ -223,7 +215,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Dérick Firmino da Silva
-Votos: 30
+Votos: 31
 Link: 8a8fe2a9823869232a57f9affc3cdc0c216e7fbc
 Descrição: Meu projeto é um Agente de IA professor. Escolhi esse projeto porque eu gosto muito de estudar usando IA, e, sempre que eu recomendava o uso de IA pra algum amigo, eles diziam não ter tido uma boa experiência nessas interações com IA. Os tópicos de reclamações eram sempre os mesmos, respostas muito longas; dificuldade de manter uma linha de estudos; alucinações com o decorrer do tempo; erros em algumas respostas e por ai vai. Tendo isso em vista, preparei e elaborei um professor, que fosse pré-definido para não cometer esses erros e mais, trazer uma didática e dinâmica no ensino que seja fluida e eficiente. Dividido em 5 chat-bots internos: (Chat-Bot_1, analisa seu prompt, identifica qual ou quais os temas que você deseja aprender e qual tipo de comando você enviou (pergunta, explicação, resumo…), identifica qual a profundidade da resposta que você espera e reformula seu prompt baseado na análise de desse conteúdo que ele coletou e estruturou em três etapas que eu as chamei de “tarefas”; Chat-Bot_2, esse rece
 Usuário: dk7845
@@ -1870,7 +1862,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Guilherme Luís Rodrigues Anselmo da Silva
-Votos: 16
+Votos: 17
 Link: https://github.com/GuiiLuiss/boris-casa-comigo/tree/main
 Descrição: Boris, Casa Comigo? é um agente inteligente desenvolvido com Google Gemini e Streamlit, que ajuda a planejar pedidos de casamento criativos, bem organizados e emocionantes.  Com linguagem descontraída, visual atrativo e fluxo orientado, o Boris coleta o perfil do casal e entrega sugestões personalizadas, planejamento financeiro, dicas de joias, discurso final, trilha sonora e até um checklist completo.  Mas não é só pra quem quer casar! Quem estiver planejando um encontro romântico, buscando ideias criativas para um date especial, comemorando um aniversário de namoro ou querendo sair da rotina com estilo, também pode contar com o Boris.  O projeto resolve um problema real de forma acessível: transformar momentos afetivos em experiências inesquecíveis, com apoio da IA.  Desenvolvido para a Imersão IA 2025 da Alura em parceria com o Google Gemini, o Boris se destaca pela criatividade, impacto emocional e potencial de aplicação no mundo real.  🔗 Acesse: https://boris-casa-comigo.streamlit.app
 Usuário: guiiluiss
@@ -2725,7 +2717,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Roberto Pavusa Junior
-Votos: 10
+Votos: 11
 Link: https://github.com/robdicoco/solid-robot
 Descrição: Morfeu é um oráculo digital que mergulha no subconsciente e interpreta sonhos através do simbolismo antigo, impulsionado pela IA moderna. Nomeado em homenagem a Morfeu, o deus grego dos sonhos, este intérprete faz a ponte entre seus mundos adormecido e desperto, oferecendo insights sobre a misteriosa linguagem de sua mente inconsciente. Morfeu emprega uma sinfonia de quatro agentes de IA especializados trabalhando em harmonia para desvendar os mistérios ocultos em seus sonhos!
 Usuário: kimiga_
@@ -3616,7 +3608,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Roberto Almeida Corrêa dos Santos Neto
-Votos: 10
+Votos: 11
 Link: https://github.com/robertogelobom/Nexus-Cognitivo/tree/main
 Descrição: IA revolucionária para estudo personalizado. Gemini impulsiona aprendizado dinâmico com técnicas e recursos inovadores sob demanda. Metas inteligentes e planos adaptáveis empoderam o estudante. Mais que um bot, um catalisador de ideias que redefine a educação com inteligência proativa. A faísca da inovação para um aprendizado eficaz!
 Usuário: gelobom
@@ -4759,7 +4751,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Lucas Vidal Silva
-Votos: 10
+Votos: 11
 Link: https://github.com/lucasvidalsilva/o-guardiao
 Descrição: 🛡️ O Guardião – Inteligência contra golpes digitais Golpes online crescem, mas o conhecimento pode ser mais rápido.  O Guardião é um agente de IA que transforma dados reais em proteção: ele investiga golpes,  mostra padrões em dashboards interativos, ensina como se defender com um chatbot educativo e  explica golpes de forma simples. Feito com Python, IA generativa e propósito social.  Um escudo digital que protege pessoas de verdade.
 Usuário: loukanoss
@@ -7099,7 +7091,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Claudio Paiva
-Votos: 9
+Votos: 10
 Link: https://github.com/pvclaudio/valid_medicao
 Descrição: sistema de auditoria automatizada e inteligente para análise de boletins de medição e contratos
 Usuário: Claudio Paiva
@@ -7783,7 +7775,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Igor Henrique Ferreira da Rocha
-Votos: 14
+Votos: 15
 Link: https://github.com/Igor27F/SmartZapAttendant
 Descrição: O Smart Zap Attendant é um bot inteligente que automatiza o atendimento ao cliente diretamente no WhatsApp, integrando a API oficial da Meta com a IA generativa Gemini, da Google.  Projetado para pequenos e médios negócios, o bot oferece respostas personalizadas com base no contexto do negócio, histórico de interações e preferências do cliente. Tudo isso de forma prática e acessível, sem exigir conhecimento técnico avançado.
 Usuário: igod99
@@ -7792,7 +7784,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Raul Marcos da Rocha
-Votos: 26
+Votos: 27
 Link: https://github.com/raulrocha/reporta-ai-prototipo
 Descrição: O "Reporta Aí" é um protótipo de aplicativo cívico inovador que utiliza o poder da Inteligência Artificial para simplificar e otimizar o processo de reporte de problemas urbanos
 Usuário: raulmrocha
@@ -7828,7 +7820,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Djonathan Kaiper
-Votos: 11
+Votos: 12
 Link: https://github.com/djonathank/SOSZAP
 Descrição: SOSZAP é um chat que analisa mensagens e ajuda no socorro em emergências reais.
 Usuário: djonathankaiper
@@ -8242,7 +8234,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Maysa Gonçalves Nascimento dos Anjos
-Votos: 32
+Votos: 33
 Link: https://github.com/maysagoncalves29/imersao-alura2025.git
 Descrição: IncluiAI nasceu do amor pela minha avó, que tem baixa visão. Embora o aplicativo ainda esteja em desenvolvimento, meu propósito é claro: incluir pessoas idosas e com baixa visão no universo da tecnologia. Usando a API Gemini, criei um assistente digital que oferece dicas simples, acessíveis e acolhedoras, para que esses usuários se sintam mais seguros, conectados e valorizados no mundo digital.
 Usuário: maysa29
@@ -8251,11 +8243,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Giovana Siqueira Santos
-<<<<<<< HEAD
 Votos: 33
-=======
-Votos: 32
->>>>>>> d5cf25bf99c556d43a4d82de574cac357713bd8c
 Link: https://github.com/giovxna/educa.lab
 Descrição: EducaLab é a revolução no jeito de aprender usando IA. Combinando tecnologia de ponta com uma abordagem personalizada e divertida, o EducaLab transforma qualquer conteúdo complexo em explicações acessíveis, adaptadas ao tempo e estilo de cada pessoa.  Quer aprender como se tivesse 5 anos? Ou prefere aquele tom de fofoca entre amigos? O EducaLab entrega o conhecimento do seu jeito – rápido, direto e do jeito que você entende melhor.  Além disso, testa seu aprendizado com quizzes e ainda sugere cursos para ir além. Tudo isso com uma interface simples no Google Colab, rodando com o poder da API Gemini.  EducaLab é mais do que um projeto, é um laboratório de aprendizado inteligente. Vote em quem está colocando a inteligência artificial a serviço da educação de verdade.
 Usuário: epyphxny
@@ -8264,7 +8252,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: ROBSON REIS
-Votos: 15
+Votos: 16
 Link: https://github.com/reisrf/DietaAjuda
 Descrição: ✨ Quer emagrecer de forma inteligente e sem complicação? 🤔 🏃‍♀️💨 Chega de esquecer as calorias! Apresento meu projeto de uma Auxiliar de Dietas com Inteligência Artificial! 🤖💬 📊 Com base nos seus dados (gênero, idade, altura, peso, atividade física e meta de perda de peso saudável), a IA calcula sua meta calórica diária personalizada. 🎯🍎 Você informa os alimentos e bebidas que consumiu e a IA vai calculando as calorias e somando. 📲 Imagine ter um chat inteligente te lembrando e te ajudando a não ultrapassar suas calorias! Menos preocupação e mais resultados! 💪✅ 💖 Vote no meu projeto e vamos juntos transformar a forma como as pessoas fazem dieta! Seu voto faz a diferença! 🙏🗳️
 Usuário: reisrf
