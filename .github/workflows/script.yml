@@ -43,3 +43,4 @@ jobs:
           else
             echo "messages.txt was not created."
             exit 1
+          fi
