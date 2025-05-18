@@ -1423,7 +1423,7 @@ Usuário: jeancarlos0818
 ---
 
 Nome: Dielson Mendes
-Votos: 5
+Votos: 6
 Link: https://github.com/DielsonM/Cora-Apoio-Inteligente-para-M-es-Solo.git
 Descrição: Cora: Apoio Inteligente para Mães Solo – Uma Mão Amiga em IA  Para muitas mães solo, a jornada da maternidade é marcada pela falta de apoio e inúmeras perguntas sem respostas. Cora nasceu para ser essa mão amiga digital, oferecendo suporte onde a ausência se faz mais sentida.  Cora: Apoio Inteligente para Mães Solo é uma assistente virtual de IA projetada para oferecer apoio informativo, emocional e prático. Com agentes especializados em áreas cruciais como questões jurídicas, bem-estar emocional, recursos sociais e comunicação parental, Cora busca ser um ponto de apoio acessível e constante.  Utilizando pesquisa integrada (google_search), Cora enriquece as respostas dos seus agentes, garantindo informações relevantes e atualizadas. Ela coordena o conhecimento para oferecer um diálogo acolhedor e útil para as usuárias.  Acreditamos no potencial de Cora para transformar a vida de mães solo, oferecendo um suporte essencial em sua jornada. Vote em Cora. Seu voto é um passo em direção a um futuro onde a maternida
 Usuário: dielsonboy
@@ -4878,14 +4878,6 @@ Usuário: danielvalentim_50765
 
 ---
 
-Nome: evandro moreira figueira
-Votos: 3
-Link: https://github.com/evanmeira/alfabetizacao-emocional
-Descrição: Alfabetização Emocional com Agentes GenAI
-Usuário: evandromef
-
----
-
 Nome: Marina Silva de Almeida
 Votos: 3
 Link: https://github.com/marinaalmeidas/AutoCareBot
@@ -6943,7 +6935,7 @@ Usuário: raulmrocha
 ---
 
 Nome: Pedro Oliveira Silva
-Votos: 4
+Votos: 5
 Link: https://github.com/MVPetrus/imersao-IA-Alura---Alfred
 Descrição: Alfred: AI amigo e estoico para suporte prático no seu crescimento pessoal.
 Usuário: lothur
@@ -6951,7 +6943,7 @@ Usuário: lothur
 ---
 
 Nome: Robson Volnei Silva
-Votos: 4
+Votos: 5
 Link: https://github.com/caralhorobson/Sugestao-de-livro-por-Gemini.git
 Descrição: Chat Bot que faz sugestão de livro para o usuario com entrada de tema, com até 5 indicações de livros, um resumo com data de lançamento e numero de paginas e ao fim mostra links dos livros na internet.
 Usuário: XXXXXX
@@ -6959,7 +6951,7 @@ Usuário: XXXXXX
 ---
 
 Nome: Edgard Tanaka
-Votos: 4
+Votos: 5
 Link: https://github.com/EdgardTanaka/Assistente-de-Ensino-IA-com-Google-ADK
 Descrição: Projeto de Assistente de Ensino IA desenvolvido com Google ADK e Google Gemini API, oferecendo aulas introdutórias, exercícios básicos e respostas a dúvidas sobre uma matéria escolhida, utilizando busca online para suporte.
 Usuário: tadao2817
@@ -6967,7 +6959,7 @@ Usuário: tadao2817
 ---
 
 Nome: Djonathan Kaiper
-Votos: 4
+Votos: 5
 Link: https://github.com/djonathank/SOSZAP
 Descrição: SOSZAP é um chat que analisa mensagens e ajuda no socorro em emergências reais.
 Usuário: djonathankaiper
@@ -6975,7 +6967,7 @@ Usuário: djonathankaiper
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 7
+Votos: 8
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
@@ -6983,7 +6975,7 @@ Usuário: sylksong
 ---
 
 Nome: Vinícius Polito Góes
-Votos: 6
+Votos: 7
 Link: https://github.com/vgoes19/imersao-ia-alura-projeto-bot-discord
 Descrição: Foi criado um bot de Discord projetado para aprimorar a experiência de jogadores e mestres de RPG de mesa, especialmente para o sistema de D&D 5ª Edição. Ele oferece funcionalidades como rolagem de dados e busca de informações sobre regras e informações do jogo.
 Usuário: goes19_04
@@ -6991,7 +6983,7 @@ Usuário: goes19_04
 ---
 
 Nome: João Gabriel da Silva Marques
-Votos: 9
+Votos: 10
 Link: https://github.com/jotgoodev/mecanico-IA
 Descrição: Meu amigo Mecânico é um assistente de IA, criado para ajudar motoristas com dúvidas sobre manutenção automóvel. Oferece diagnósticos preliminares de sintomas, informações sobre revisões comuns e auxílio para entender orçamentos de mecânicos, tornando a ida à oficina mais fácil, informada e justa. Nunca mais caia no golpe do mecânico, se informe sobre tudo desse assunto!
 Usuário: jotgoodgamee
@@ -6999,7 +6991,7 @@ Usuário: jotgoodgamee
 ---
 
 Nome: Bruno Valle
-Votos: 5
+Votos: 6
 Link: https://github.com/BruValle/Weather-Preview-GenAI
 Descrição: Monitoramento e Prevenção de Alagamentos: Automação do Acionamento de Bombas em Situações de Emergência, Evitando Desastres (como no Rio Grande do Sul).
 Usuário: brunovalle
@@ -7007,7 +6999,7 @@ Usuário: brunovalle
 ---
 
 Nome: Maria Eduarda Guardião
-Votos: 4
+Votos: 5
 Link: https://github.com/eduardaguardiao/projeto-imersao-IA
 Descrição: Agente inteligente desenvolvido para facilitar o acesso de cidadãos, especialmente pessoas mais velhas ou com pouca familiaridade com tecnologia, a informações e serviços públicos de forma simples, clara e humanizada.
 Usuário: eduardaguardiao
@@ -7015,7 +7007,7 @@ Usuário: eduardaguardiao
 ---
 
 Nome: Matheus Wendell Dantas Bezerra
-Votos: 6
+Votos: 7
 Link: https://github.com/MatheusWDB/centelha-de-ideias
 Descrição: O Centelha de Ideias é uma aplicação web interativa desenvolvida para estimular a criatividade dos usuários, gerando sugestões de projetos com base em seus temas, tipos de projeto e interesses.
 Usuário: hematsu1703
@@ -7023,7 +7015,7 @@ Usuário: hematsu1703
 ---
 
 Nome: Rejane Menezes Reis Gallotti Franceschinelli
-Votos: 7
+Votos: 8
 Link: https://github.com/rejanegallotti/AItem_PetCare
 Descrição: AI tem PetCare é um projeto que implementa um sistema de agentes de inteligência artificial utilizando o Google Gemini e o Google Agent Development Kit (ADK). Ele foi desenvolvido para auxiliar tutores de pets, oferecendo suporte básico em três áreas principais: avaliação preliminar de saúde baseada em sintomas, dicas de adestramento doméstico com reforço positivo e orientações sobre dieta natural e segurança alimentar para animais de estimação. O sistema busca ser uma ferramenta informativa e de apoio, sempre reforçando a importância da consulta a profissionais veterinários para diagnósticos e planos personalizados.
 Usuário: rejanegallotti
@@ -7031,7 +7023,7 @@ Usuário: rejanegallotti
 ---
 
 Nome: Daniel Marini Hirata
-Votos: 4
+Votos: 5
 Link: https://github.com/dnlhirataa/SomRecomenda
 Descrição: Este projeto surge da dificuldade de encontrar a trilha sonora ideal para vídeos (VTs) de forma rápida e eficiente. Normalmente editores sobrem frequentemente com falta de inspiração ou até uma dificuldade de conectar a música com o conteúdo. Esse projeto vem para resolver esse problema, podendo trazer uma gama de opções diferenciadas e personalizadas para cada tipo de conteúdo, sendo assim, uma ótima opção para criar uma inspiração e trazer opções que podem se aproximar do conteúdo e ser assertivo na comunicação.
 Usuário: _hirataaa
@@ -7039,7 +7031,7 @@ Usuário: _hirataaa
 ---
 
 Nome: Cézar de Souza Aguiar Viana
-Votos: 4
+Votos: 5
 Link: https://github.com/cezarviana/fake-news-no-more
 Descrição: O projeto Fake News No More implementa um sistema multi-agente utilizando o modelo de IA (Inteligência Artificial) Gemini para verificar a veracidade de informações online. O sistema é composto por cinco agentes especializados que colaboram para analisar notícias e determinar se são verdadeiras ou falsas.
 Usuário: flint042
@@ -7047,7 +7039,7 @@ Usuário: flint042
 ---
 
 Nome: Wallace Batista Schuindt
-Votos: 4
+Votos: 5
 Link: https://github.com/wallaceschuindt/detetive-de-golpes-ia
 Descrição: Apresento o Detetive de Golpes IA 🕵🤖🔎⚠! Um chatbot para te ajudar a identificar e evitar tentativas de fraude online.  Cansado de mensagens suspeitas? Eu analiso o texto e te dou um alerta!
 Usuário: wallaceschuindt
@@ -7055,7 +7047,7 @@ Usuário: wallaceschuindt
 ---
 
 Nome: Fabiola Almeida de Jesus
-Votos: 4
+Votos: 5
 Link: https://github.com/FabiolaAJ/chatbot-assistente-de-vagas
 Descrição: Assistente de vagas de emprego
 Usuário: Fabuilds
@@ -7063,7 +7055,7 @@ Usuário: Fabuilds
 ---
 
 Nome: Fabiola Almeida de Jesus
-Votos: 4
+Votos: 5
 Link: https://github.com/FabiolaAJ/chatbot-assistente-de-vagas
 Descrição: Assistente virtual de vagas de emprego
 Usuário: Fabuilds
