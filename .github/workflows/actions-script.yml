@@ -2,7 +2,6 @@ name: Fetch Discord Messages and Commit
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '*/5 * * * *'
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
