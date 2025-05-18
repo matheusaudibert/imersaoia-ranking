@@ -927,7 +927,7 @@ Usuário: adrigues
 ---
 
 Nome: Wallace Lopes
-Votos: 5
+Votos: 6
 Link: https://github.com/lopeswall/Roteiros-IA/tree/main
 Descrição: Agente de viagens para auxiliar na criação de roteiros.
 Usuário: lopeswall
@@ -1703,7 +1703,7 @@ Usuário: rportovanni
 ---
 
 Nome: Caio Souza
-Votos: 22
+Votos: 23
 Link: https://github.com/Fcsscoder/learnlite
 Descrição: LearnLite é uma aplicação web construída com Next.js que utiliza Inteligência Artificial Generativa para oferecer aos usuários resumos, flashcards e quizzes gerados a partir de documentos PDF enviados. A interface é limpa e moderna, desenvolvida com Tailwind CSS e componentes da ShadCN UI.
 Usuário: qwzito
@@ -2031,7 +2031,7 @@ Usuário: wesleymagari
 ---
 
 Nome: Jorge Eduardo Schaan Neto
-Votos: 6
+Votos: 7
 Link: https://github.com/JustMistaken/Chatbot-de-Briefing-de-Design
 Descrição: Este chatbot analisa informações sobre o cliente, área de atuação e referências para gerar um briefing de design completo e detalhado. Ele fornece perguntas-chave para o cliente e insights acionáveis para o designer, agilizando o processo de design.
 Usuário: justmistaken
@@ -2079,7 +2079,7 @@ Usuário: vitor_hamada
 ---
 
 Nome: Gabriel Henrique dos Anjos
-Votos: 9
+Votos: 10
 Link: https://github.com/Cripytou/RPG_Python_Alura.git
 Descrição: Meu projeto é um RPG de texto feito para ensinar programação básica de Python junto ao contexto de um mundo RPG. Onde vamos ter o Google Gemini de chat bot atuando como Mestre(GM) e professor de Python. Podendo jogar a partir do terminal e dando as respostas e vendo as mecânicas na hora. Feito com Google Colab.
 Usuário: cripytou
@@ -3183,7 +3183,7 @@ Usuário: kaiqueez
 ---
 
 Nome: Juhann Carlos Moreira de Souza
-Votos: 7
+Votos: 8
 Link: https://github.com/378129378239/Projeto-IA-Alura/tree/main
 Descrição: Oferecer uma ferramenta de auto-observação para que o usuário possa acompanhar a frequência e intensidade de um hábito/vício. Fornecer perguntas reflexivas diárias geradas por IA para engajar o usuário. Apresentar feedbacks mensais (gerados por IA) baseados nos relatos, oferecendo suporte, encorajamento e informações gerais. Sugerir a busca por acompanhamento terapêutico profissional e fornecer informações básicas sobre abordagens psicológicas e onde buscar ajuda (CAPS, etc.). Respeitar a privacidade do usuário, não coletando dados pessoais identificáveis diretamente e focando no tratamento de dados sensíveis com o devido cuidado, conforme a LGPD (simulado no protótipo).
 Usuário: Juhann.S
@@ -3191,7 +3191,7 @@ Usuário: Juhann.S
 ---
 
 Nome: Kaue Guimaraes
-Votos: 8
+Votos: 9
 Link: https://github.com/Kaueodev/imersaoIA_Alura.git
 Descrição: LexIA é uma aplicação web desenvolvida para simplificar a compreensão de textos jurídicos, que frequentemente se caracterizam por sua linguagem complexa e vocabulário técnico. A ferramenta permite aos usuários inserir conteúdo textual diretamente ou fazer upload de documentos em formato PDF, os quais são processados para extrair o texto. Utilizando inteligência artificial, LexIA analisa o texto jurídico e o reescreve em uma linguagem mais clara e acessível, facilitando o entendimento dos conceitos e informações apresentadas.    O principal objetivo da LexIA é democratizar o acesso à informação jurídica, tornando-a compreensível para estudantes de direito, profissionais da área e o público em geral. Ao simplificar a linguagem, a aplicação contribui para que os usuários possam entender seus direitos, deveres e obrigações legais de forma autônoma, sem a necessidade de recorrer a especialistas para interpretar documentos e contratos.   A aplicação foi desenvolvida utilizando tecnologias como Python, Flask, e a AP
 Usuário: kaueodev
@@ -3535,7 +3535,7 @@ Usuário: matheusbnas
 ---
 
 Nome: Rodrigo Marinho Jorge
-Votos: 6
+Votos: 7
 Link: https://github.com/rofisio/IMERSAOIA_Alura_GoogleGemini/tree/main
 Descrição: O ChatBot Reabilita Fácil é um projeto de comunicação, desenvolvido com o objetivo de fornecer instruções de reabilitação não supervisionada para pacientes que sofreram Acidente Vascular Cerebral (AVC). A iniciativa busca atender cuidadores familiares que enfrentam dificuldades no acesso à fisioterapia convencional, seja pela falta de serviços disponíveis no Sistema Único de Saúde (SUS), pela impossibilidade de deslocamento do paciente, ou pela ausência de recursos para custear atendimento domiciliar particular (HomeCare).
 Usuário: Rodrigo Marinho
@@ -3567,7 +3567,7 @@ Usuário: ananiclevicz4666
 ---
 
 Nome: Eyshila Inácio de Oliveira
-Votos: 6
+Votos: 7
 Link: https://github.com/oliveiraeyshila/projetoimersaoiagoogle.git
 Descrição: Criei um chatbot chamado Ampara, que ajuda mulheres em situação de violência doméstica, disponibilizando informações como: vagas de emprego, ciclo menstrual e dores relacionadas, previsão do tempo e um quiz para saber se ela está em um relacionamento abusivo. Ele também pode agir como um amigo, escutando os desabafos e anseios da mulher.
 Usuário: eyshilaoliveira
@@ -3751,7 +3751,7 @@ Usuário: Jorge Ninja
 ---
 
 Nome: Julia Caroline M. de Farias
-Votos: 8
+Votos: 9
 Link: https://github.com/juliaf-dev/Projeto_gemini.git
 Descrição: A Plataforma de Geração de Conteúdo Educacional com Assistente de Estudos IA utiliza o Gemini para gerar materiais de estudo personalizados e oferecer suporte interativo. Estudantes inserem um tema e recebem conteúdo formatado em HTML, ajustado para os níveis básico, intermediário ou avançado. Um chat IA integrado responde a dúvidas sobre o tema, proporcionando assistência de estudo em tempo real. O projeto melhora a eficiência e a personalização do aprendizado, combinando geração de conteúdo inteligente com suporte interativo.
 Usuário: julia089060
@@ -3791,7 +3791,7 @@ Usuário: Beltrao
 ---
 
 Nome: Rui Chissano
-Votos: 6
+Votos: 7
 Link: https://github.com/Rui-Chissano/Agrismart-Imers-o-Alura
 Descrição: AgriSmart é um sistema multiagente desenvolvido para imersão Alura + Google gemini, que utiliza inteligência artificial para fornecer consultoria agrícola especializada. O sistema é composto por um agente gerente central que coordena  nove agentes especialistas, cada um com conhecimentos específicos em diferentes áreas da agricultura.
 Usuário: Rui Chissano
@@ -3975,7 +3975,7 @@ Usuário: .bruu.
 ---
 
 Nome: Rodrigo de Abreu Godinho
-Votos: 7
+Votos: 8
 Link: https://github.com/rodrigogodinho/jargemini
 Descrição: JarGemini é um assistente especializado em jardinagem, que possibilita que você faça consultas e até envie fotos, para que ele te ajude a marter seu jardim, horta ou pomar sempre saudáveis. Feito com carinho e Gemini!
 Usuário: rodrigogodinho.
@@ -5479,7 +5479,7 @@ Usuário: acamilasarmento
 ---
 
 Nome: Gabriel Denardi
-Votos: 10
+Votos: 12
 Link: https://github.com/GabrielDenardi/mentor-ai
 Descrição: Mentor AI é uma plataforma educacional inteligente que transforma a forma como os alunos organizam seus estudos. Utilizando tecnologias como IA generativa (Gemini), Next.js e Google Agenda, o sistema gera planos de estudos personalizados com base nas dificuldades e preferências do estudante.  Com um bate-papo simples, o aluno recebe um cronograma interativo com tarefas, resumos, quizzes e simulados. É possível marcar atividades como concluídas, receber explicações alternativas com exemplos do cotidiano e exportar o plano em PDF. A interface é leve, intuitiva e pensada para colocar o aluno no centro do seu aprendizado.  A proposta vai além de um chatbot comum: o Mentor AI une tecnologia de ponta com princípios pedagógicos, ajudando o estudante a estudar com propósito, foco e clareza.
 Usuário: gabriel_ng
@@ -7063,7 +7063,7 @@ Usuário: diegosonnenthal_92249
 ---
 
 Nome: Cristiano Franco
-Votos: 16
+Votos: 17
 Link: https://github.com/infofranco2005/googleAlexaAI
 Descrição: integração da Alexa com Goole Gemini , onde eu usei o projeto em pyton para que consiga fazer essa interface
 Usuário: cfranco3133
