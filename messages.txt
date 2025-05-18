@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 95
+Votos: 97
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -7,7 +7,7 @@ Usuário: limalf
 ---
 
 Nome: Vitor Oliveira
-Votos: 30
+Votos: 31
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -31,7 +31,7 @@ Usuário: ehrikr
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 41
+Votos: 42
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -183,7 +183,7 @@ Usuário: twralha
 ---
 
 Nome: JOSUE MONTEIRO UCHOA ALVES
-Votos: 25
+Votos: 26
 Link: https://github.com/JosueMonteiroUchoaAlves/aluraChallenge
 Descrição: O Mentor de Impacto Social por IA é uma aplicação Python que ajuda usuários a criar planos para enfrentar problemas sociais locais, como insegurança alimentar ou falta de água. Usando a interface Textual e a API Gemini, o usuário informa o problema, orçamento, tempo e local, e o sistema gera um plano de ação, sugere ONGs próximas e oferece mensagens motivacionais. Inspirado em iniciativas comunitárias, o projeto promove mudanças reais, abordando desigualdades no Brasil de forma acessível e prática.
 Usuário: _josuemonteiro
@@ -255,7 +255,7 @@ Usuário: xfuuuuuuuuuury97
 ---
 
 Nome: Luiza Pinheiro
-Votos: 15
+Votos: 16
 Link: https://github.com/lupinheiro1/imersao-alura-google-public/blob/main/Projeto_Alura_e_Google_Achar_Prontos_socorros_perto_da_sua_localiza%C3%A7%C3%A3o_Luiza_Pinheiro.ipynb
 Descrição: Atenção, Mães e Pais! Em momentos de urgência, cada segundo conta. Você já se viu em pânico, sem saber qual pronto-socorro escolher para seu filho? Qual o menos cheio? Qual aceita seu convênio?  🚀 Pronto-Socorro Inteligente: Seu Guia Essencial em Emergências Médicas! 🚀 Apresentamos um projeto inovador nascido da Imersão Alura Google Gemini Python que promete revolucionar a forma como você lida com emergências de saúde! De mãe para mãe (e para toda a família!), entendemos a dor e a aflição de buscar o melhor atendimento agora.  ✨ A Solução que Você Sempre Quis: Paz de Espírito na Palma da Sua Mão! ✨ Nosso sistema é a resposta para a dúvida crucial de "qual pronto-socorro está melhor AGORA?". Ele vai além da simples localização:  Recomendação Assertiva: Descubra o pronto-socorro mais adequado para sua necessidade, com base em sua localização. Transparência de Convênios: Saiba instantaneamente quais convênios cada hospital aceita, evitando surpresas e agilizando o atendimento. Informação Detalhada: Tenha acess
 Usuário: luiza_37776
@@ -1095,7 +1095,7 @@ Usuário: fromsarahf
 ---
 
 Nome: Pedro Léda
-Votos: 8
+Votos: 9
 Link: https://github.com/pedrinholeda/Alfie-AI
 Descrição: Hey! Tá nervoso pra entrevista? Relaxa, o Alfie AI chegou pra ser seu parceiro de treino mais gente boa (e eficiente!). Pensa nele como aquele seu amigo que manja tudo de entrevista e te dá os toques certos pra você brilhar. Com o Alfie, você vai chegar lá confiante e preparado pra arrasar!
 Usuário: pedrinholeda
@@ -2039,7 +2039,7 @@ Usuário: justmistaken
 ---
 
 Nome: Renan Moura
-Votos: 5
+Votos: 6
 Link: https://github.com/RenanLM/nbagent-system
 Descrição: NBAgent – Inteligência Artificial para Análise e Previsão de Jogadores da NBA
 Usuário: Renan Moura
@@ -2351,7 +2351,7 @@ Usuário: gabrielbarros_.
 ---
 
 Nome: Aline Rhanny
-Votos: 22
+Votos: 23
 Link: https://github.com/alinerhanny/CodeBuddy.AI
 Descrição: O CodeBuddy.AI é uma plataforma inteligente de apoio à aprendizagem de programação, criada para proporcionar uma experiência interativa e personalizada. Com ele, usuários de todos os níveis podem tirar dúvidas, obter explicações detalhadas e receber ajuda prática na hora de programar — tudo isso com a fluidez e agilidade de um assistente virtual alimentado por inteligência artificial.  O propósito desse projeto é democratizar o ensino da programação, tornando-o acessível, eficiente e engajador. Seja você um iniciante buscando entender os conceitos básicos ou um desenvolvedor experiente que precisa de um suporte rápido, o CodeBuddy.AI está aqui para te ajudar.
 Usuário: rhannyz
@@ -3087,7 +3087,7 @@ Usuário: mandyel.
 ---
 
 Nome: Bruno Francisco Pereira Correa
-Votos: 16
+Votos: 17
 Link: https://github.com/Bernardinense/me-ajuda-a-reclamar.git
 Descrição: Projeto para ajudar cidadãos (DE FORMA FACIL) a registrar reclamações formais nos órgãos competentes do Brasil, utilizando agentes de IA da Google ADK para classificar, formalizar e indicar o canal correto para envio.
 Usuário: bernardinense
@@ -3135,7 +3135,7 @@ Usuário: aryvitorss
 ---
 
 Nome: Leonardo Oliveira Das Neves
-Votos: 8
+Votos: 9
 Link: https://github.com/Leonardo-oliver/ChatBot-IA/
 Descrição: 🤖 Projeto: Chatbot Inteligente de Assistência em Desastres Naturais ⚠️ Este projeto desenvolve um chatbot interativo, impulsionado pela inteligência artificial do Google Gemini, com o objetivo de fornecer informações cruciais e suporte em tempo real para a população em relação a desastres naturais. O chatbot oferece orientações sobre ações imediatas durante emergências, dicas de preparação e montagem de kits, sugestões genéricas sobre locais seguros (com forte ênfase na verificação de fontes oficiais), auxílio na verificação de segurança de entes queridos e direcionamento para recursos e informações governamentais. A iniciativa busca capacitar a comunidade com conhecimento, reduzir o pânico e a desinformação, e, em última instância, contribuir para a segurança e resiliência em face de eventos adversos.
 Usuário: leonardooliveira_33891
@@ -3183,7 +3183,7 @@ Usuário: kaiqueez
 ---
 
 Nome: Juhann Carlos Moreira de Souza
-Votos: 8
+Votos: 9
 Link: https://github.com/378129378239/Projeto-IA-Alura/tree/main
 Descrição: Oferecer uma ferramenta de auto-observação para que o usuário possa acompanhar a frequência e intensidade de um hábito/vício. Fornecer perguntas reflexivas diárias geradas por IA para engajar o usuário. Apresentar feedbacks mensais (gerados por IA) baseados nos relatos, oferecendo suporte, encorajamento e informações gerais. Sugerir a busca por acompanhamento terapêutico profissional e fornecer informações básicas sobre abordagens psicológicas e onde buscar ajuda (CAPS, etc.). Respeitar a privacidade do usuário, não coletando dados pessoais identificáveis diretamente e focando no tratamento de dados sensíveis com o devido cuidado, conforme a LGPD (simulado no protótipo).
 Usuário: Juhann.S
@@ -3343,7 +3343,7 @@ Usuário: joaoaugustoud
 ---
 
 Nome: Valquiria Matos
-Votos: 9
+Votos: 10
 Link: https://github.com/valquiria30/My-First-Baby.git
 Descrição: My First Baby e um projeto de cuidados maternos para atuais e futuras mamães.
 Usuário: Valquiria matos rocha
@@ -3623,7 +3623,7 @@ Usuário: lkourinho
 ---
 
 Nome: Natalia Santiago
-Votos: 8
+Votos: 7
 Link: https://github.com/natysant/imersao_ia_alura
 Descrição: Um bot inteligente que responde se um item é reciclável e como descartá-lo corretamente, usando agentes baseados no Google Gemini. Este projeto une tecnologia e sustentabilidade em uma solução prática acessível via Telegram.
 Usuário: natysant
@@ -3719,7 +3719,7 @@ Usuário: barbosa7304
 ---
 
 Nome: Talita Cristina L Santos
-Votos: 7
+Votos: 8
 Link: Cópia_de_Cópia_de_Untitled4.ipynb
 Descrição: A minha ideia foi criar um assistente de estudos para crianças com dificuldades, criei ele como se fosse um personagem, um Golden Retriever alegre, paciente e fiel.
 Usuário: 816437_
@@ -4359,7 +4359,7 @@ Usuário: botinha_a
 ---
 
 Nome: Samuel Arruda
-Votos: 25
+Votos: 26
 Link: https://github.com/StalkerDogs/Miaozao
 Descrição: O MiauzãoAI é um chatbot assistente que utiliza inteligência artificial (Google Gemini) para auxiliar usuários a gerenciar e reduzir o consumo de energia elétrica em suas residências. Com uma personalidade única e cheia de gírias, o bot faz análises personalizadas baseadas nos dados fornecidos pelo usuário.
 Usuário: Samuel
@@ -4415,7 +4415,7 @@ Usuário: ruylovato
 ---
 
 Nome: Caroline Zeppellini dos Santos Emiliozzi
-Votos: 9
+Votos: 10
 Link: https://github.com/carolinezep/projeto
 Descrição: Assistente Virtual para Pais e Mães de Bebês Este projeto é um assistente virtual desenvolvido para fornecer apoio a pais e mães de bebês. Ele oferece informações sobre cuidados com bebês, agendamentos de vacinas e interação direta com um chat para tirar dúvidas ou desabafar.  Minha Experiência como Mãe Como mãe de duas meninas, sei que ter uma rede de apoio para tirar dúvidas torna a maternidade mais tranquila. Com minha segunda filha, o conhecimento prévio sobre a maternidade me deu mais tranquilidade e me permitiu aproveitar mais cada momento.  Este é uma versão inicial do projeto, e espero que ele seja útil para muitas famílias!
 Usuário: Caroline Zep
@@ -4439,7 +4439,7 @@ Usuário: kiwi_igor
 ---
 
 Nome: Patricia Cristina Freitas Silva
-Votos: 8
+Votos: 9
 Link: https://github.com/patyfreitasbr/educaAI-agente-educacional
 Descrição: O EducaAI é um sistema de recomendação inteligente voltado para o ensino personalizado, utilizando agentes autônomos que trabalham em conjunto para criar trilhas de aprendizado sob medida. Seja você um estudante buscando dominar um novo tema ou um educador querendo oferecer recursos mais assertivos, o EducaAI transforma o processo de aprendizagem em uma experiência mais efetiva, personalizada e interativa.
 Usuário: patyfreitasbr
@@ -4479,7 +4479,7 @@ Usuário: carolinesouzaoffice
 ---
 
 Nome: Rogério Graciano
-Votos: 7
+Votos: 8
 Link: https://github.com/rogeriograciano/logistica_cod
 Descrição: Logística com Agentes para e-Commerce de Afiliados com COD
 Usuário: rogeriograciano_19164
@@ -4551,7 +4551,7 @@ Usuário: maffart
 ---
 
 Nome: João Gabriel Lucas Pinheiro de LIma
-Votos: 9
+Votos: 10
 Link: https://github.com/Lohan15/Imers-o-IA/blob/main/.gitignore
 Descrição: # 🤖 EmoMusic AI - Chatbot de Recomendação Musical com Gemini 2.0 Flash  ## 🔍 Visão Técnica  Código Python que implementa um sistema de recomendação musical baseado em emoções utilizando:  ### ✨ Principais Características - **Modelo Gemini 2.0 Flash** para:   - Classificação emocional precisa   - Geração de respostas contextualizadas   - Análise de sentimentos em tempo real  - **Arquitetura do Sistema**:   ```python   # Núcleo Principal   detectar_emocao(texto) -> str          # Classificação com Gemini 2.0   responder_usuario()     # Respostas empáticas   buscar_musica()     # Integração Spotify 🎯 Funcionamento Recebe input do usuário  Classifica emoção usando Gemini 2.0 Flash  Gera:  Resposta humanizada  Recomendação musical personalizada  🛠️ Diferenciais Técnicos Otimizado para Gemini 2.0 Flash (baixa latência)  Sistema de cache para músicas  Tratamento de 10+ emoções distintas  Fallbacks robustos para erros de API 💻 Tecnologias Python 3.10+  Google Generative AI (Gemini 2.0 Flash)  Spotipy (Spotify AP
 Usuário: lohanmands
@@ -4559,7 +4559,7 @@ Usuário: lohanmands
 ---
 
 Nome: Maicosuel Dos Santos
-Votos: 6
+Votos: 7
 Link: https://github.com/Maicosolaa/Projeto-Alura-WEB
 Descrição: Olá, este é meu primeiro projeto , ficou básico,mais até que eu gostei, ele sempre vai tentar te ajudar, de uma forma feliz e fofa, bom é isso😸
 Usuário: maicosolaaa
@@ -4607,7 +4607,7 @@ Usuário: zeddbr#2171
 ---
 
 Nome: Vitor Augusto Ungro
-Votos: 8
+Votos: 9
 Link: https://github.com/Zentalion/Concurso-Alura/
 Descrição: Um m projeto de agente de IA culinário para ajudar pessoas a encontrarer receitas boas, com uma ideia de quanto irão custar e seua valores nutricionais de uma maneira simples, saudável e divertida
 Usuário: vitorpsyknight
@@ -4895,7 +4895,7 @@ Usuário: fabiomartini_42359
 ---
 
 Nome: Simon Flock
-Votos: 8
+Votos: 9
 Link: https://github.com/Flockeng/alura-imersao-ia
 Descrição: Consulta Transparente de Preços de Medicamentos é uma solução que visa empoderar o consumidor brasileiro, revelando o valor real dos medicamentos sem impostos. Utilizando a API do Google Gemini, nossa ferramenta extrai, organiza e apresenta informações detalhadas das planilhas oficiais, permitindo que qualquer pessoa compreenda exatamente o valor de um medicamento sem impostos.
 Usuário: simon_86913
@@ -5151,7 +5151,7 @@ Usuário: marcioribeiror
 ---
 
 Nome: Felipe Caires Jaques
-Votos: 6
+Votos: 7
 Link: https://github.com/FelipeCJ07/Projeto_Alura_BurnoutCheck-IA-Multimodal
 Descrição: Este projeto implementa uma ferramenta experimental de check-in de bem-estar que explora o poder da Inteligência Artificial Multimodal e técnicas de Visão Computacional. Desenvolvido como parte de um desafio de imersão em IA, o objetivo é criar um protótipo funcional que permite ao usuário realizar um "check-in" sobre seu estado emocional e físico, utilizando descrição textual e uma selfie, para receber uma análise cautelosa e não-diagnóstica gerada por IA.
 Usuário: felps_cj_00323
@@ -5191,7 +5191,7 @@ Usuário: frantiscopc
 ---
 
 Nome: Estevão Gonçalves
-Votos: 6
+Votos: 7
 Link: https://github.com/estevaorev/Agente-Coach-Espiritual-Pessoal-git/blob/main/Imers%C3%A3o_IA_Alura_%2B_Google_Gemini_CoachAI_Espiritual.ipynb
 Descrição: O CoachAI Espiritual é um assistente pessoal em formato de chatbot dedicado a oferecer suporte espiritual acessível e personalizado. Nosso objetivo é auxiliar usuários em sua jornada de bem-estar interior, fornecendo mensagens de direcionamento, reflexão e conforto adaptadas ao seu humor e necessidade do momento.
 Usuário: estevaorev
@@ -5223,7 +5223,7 @@ Usuário: meirafelipe
 ---
 
 Nome: EDUARDO VICTOR
-Votos: 6
+Votos: 7
 Link: https://github.com/Eduardo-2502/A-SEXTA-FEIRA-https-colab.research.google.com-drive-1KJRja3ioeTeyMpUWkNJOKNdCX7Qcq4e5-usp-sharing-.git
 Descrição: Imagine ter um assistente pessoal inteligente, ágil e cheio de personalidade, pronto para te ajudar em programação, organização, vida pessoal e muito mais — tudo isso com respostas rápidas, didáticas, descontraídas e até um toque sutil de sarcasmo para deixar tudo mais divertido. Esse é o projeto da “Sexta-feira”: um chatbot digital superinteligente que conversa com você como se fosse um amigo expert, pronto para simplificar sua rotina e transformar suas dúvidas em respostas claras e objetivas.  Construído com as tecnologias mais modernas de IA, como os modelos Gemini da Google, este assistente não é apenas funcional — ele tem estilo e jeito próprio. Seja para explicar conceitos complexos de forma leve ou para te ajudar a programar sem estresse, a “Sexta-feira” está sempre ali, esperando seu comando.  Perfeito para quem quer produtividade com uma pitada de bom humor e eficiência, este projeto é a fusão ideal entre tecnologia avançada e experiência de usuário humanizada.
 Usuário: allydua_80829
@@ -5231,7 +5231,7 @@ Usuário: allydua_80829
 ---
 
 Nome: Claudiomiro
-Votos: 6
+Votos: 7
 Link: https://github.com/claudiomiromarques/irbot.git
 Descrição: IRBot é um agente de inteligência artificial construído com API do Google AI Studio, Gemini e Google Colab, voltado para tirar dúvidas sobre o Imposto de Renda Pessoa Física (IRPF) no Brasil. Este projeto foi desenvolvido com foco em linguagem simples, acessível a qualquer pessoa, mesmo leiga no assunto.
 Usuário: marques2546
@@ -6239,7 +6239,7 @@ Usuário: r_morais_03765
 ---
 
 Nome: Erick Barbosa
-Votos: 8
+Votos: 9
 Link: https://github.com/3rbarba/AINoticies
 Descrição: Um site gerador de noticias com IA
 Usuário: 3r1cck
@@ -6815,7 +6815,7 @@ Usuário: condvin
 ---
 
 Nome: Alan Goncalves
-Votos: 9
+Votos: 10
 Link: https://github.com/Alangonc/healthBot
 Descrição: Este projeto demonstra a criação de um chatbot interativo utilizando a API Google Gemini para auxiliar usuários a entenderem suas receitas médicas. O chatbot é capaz de processar documentos PDF (receitas), extrair informações sobre medicamentos e insumos, e fornecer uma estimativa de custos simulada com base em consultas (simuladas) a três grandes redes de farmácias brasileiras.
 Usuário: Alan Goncalves
@@ -6951,7 +6951,7 @@ Usuário: tadao2817
 ---
 
 Nome: Djonathan Kaiper
-Votos: 8
+Votos: 9
 Link: https://github.com/djonathank/SOSZAP
 Descrição: SOSZAP é um chat que analisa mensagens e ajuda no socorro em emergências reais.
 Usuário: djonathankaiper
@@ -6999,7 +6999,7 @@ Usuário: eduardaguardiao
 ---
 
 Nome: Matheus Wendell Dantas Bezerra
-Votos: 9
+Votos: 10
 Link: https://github.com/MatheusWDB/centelha-de-ideias
 Descrição: O Centelha de Ideias é uma aplicação web interativa desenvolvida para estimular a criatividade dos usuários, gerando sugestões de projetos com base em seus temas, tipos de projeto e interesses.
 Usuário: hematsu1703
@@ -7079,7 +7079,7 @@ Usuário: douglas_modesto
 ---
 
 Nome: Angélica Alves Viana
-Votos: 26
+Votos: 27
 Link: https://github.com/angelica-ti/project-avia.git
 Descrição: No cenário digital atual, garantir que websites e aplicações sejam acessíveis é mais do que uma exigência legal ou uma boa prática; é um imperativo para a inclusão de milhões de pessoas. No entanto, a complexidade das diretrizes de acessibilidade, como a WCAG 2.2, pode representar um desafio significativo para desenvolvedores, designers e equipes que buscam construir ambientes online verdadeiramente universais.  É para atender a essa necessidade que surge o AVIA (Accessible Virtual Interface Assistant).  AVIA é uma assistente virtual especializada em acessibilidade digital, criada especificamente para apoiar desenvolvedores, designers e equipes no processo de construção de uma web mais inclusiva. A missão do AVIA é descomplicar as complexas diretrizes da WCAG 2.2, transformando um documento técnico em um diálogo prático e acionável.  Funcionando como uma ferramenta de suporte inteligente, AVIA permite que desenvolvedores, designers e equipes tirem dúvidas em tempo real sobre critérios de acessibilidade especí
 Usuário: angelica_viana
@@ -7087,7 +7087,7 @@ Usuário: angelica_viana
 ---
 
 Nome: Ieda Ferreira Alves Flock
-Votos: 6
+Votos: 7
 Link: https://github.com/ieda-ia/imersao-ia-alura-gemini/blob/main/Imersao_IA_Alura_%2B_Google_Gemini_Projeto_Final_Agentes_IEDA.ipynb
 Descrição: O projeto é um agente que cria exercícios para treinamento e reabilitação cognitivos com exercícios de memorização, atenção e linguagem.
 Usuário: majestic_kitten_02755
@@ -7103,7 +7103,7 @@ Usuário: leonardoflach_49236
 ---
 
 Nome: Denilson Correa
-Votos: 11
+Votos: 12
 Link: https://github.com/denilsonluan/Projeto-Diversidade
 Descrição: Oi Pessoas! Foi um prazer apreender com vocês. Meu projeto é voltado ao tema diversidade e inclusão! Que consiste em um chabot baseado na  personalidade da Vera Verão, aquela drag queen icônica da "Praça é Nossa", sabe?  Ele foi criado para ser seu guia divo no universo da diversidade corporativa que vai ajudar corporações a apreender sobre o tema em um formato dinâmico e inclusivo. Um abraço e espero que gostem!
 Usuário: ranniii
