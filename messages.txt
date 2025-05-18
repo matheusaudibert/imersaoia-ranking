@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 78
+Votos: 82
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -7,7 +7,7 @@ Usuário: limalf
 ---
 
 Nome: Vitor Oliveira
-Votos: 22
+Votos: 24
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -31,7 +31,7 @@ Usuário: ehrikr
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 33
+Votos: 34
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -55,7 +55,7 @@ Usuário: rahmai
 ---
 
 Nome: Luis Henrique Figueiredo Germano
-Votos: 22
+Votos: 24
 Link: https://github.com/Dev-Ls-07/Projeto_Canvas/tree/main
 Descrição: É um Projeto sobre o Modelo De Negócios Canvas
 Usuário: ls04936
@@ -167,7 +167,7 @@ Usuário: Yuu
 ---
 
 Nome: Lucas Trajano
-Votos: 10
+Votos: 11
 Link: https://github.com/CoddeLk/Projeto_Lume.git
 Descrição: Este projeto é um chatbot chamado LUME, desenvolvido em Python, com o propósito de atuar como uma psicóloga virtual de apoio emocional.  Aqui está uma descrição detalhada de seus componentes e funcionalidades:  Objetivo Principal: LUME é projetada para:  Ajudar usuários a identificar e compreender suas emoções. Oferecer um espaço seguro e acolhedor para escuta. Sugerir técnicas leves de bem-estar emocional, como exercícios de respiração, journaling (escrita terapêutica) e escuta ativa. Indicar a importância de procurar um profissional de saúde mental quando necessário. Enfatizar que não substitui terapia profissional nem pode fornecer diagnósticos. Personalidade e Tom de Voz: LUME busca ter um tom de voz:  Acolhedor, calmo, gentil e humano. Evita uma linguagem robótica, utilizando palavras simples, informais e compassivas. Usa emojis com moderação para tornar a conversa mais leve. Funcionamento e Lógica:  Baseado em Fluxos de Conversa: A interação é guiada por "fluxos" pré-definidos que são ativados por "gati
 Usuário: menorlk_59278
@@ -183,7 +183,7 @@ Usuário: twralha
 ---
 
 Nome: JOSUE MONTEIRO UCHOA ALVES
-Votos: 20
+Votos: 21
 Link: https://github.com/JosueMonteiroUchoaAlves/aluraChallenge
 Descrição: O Mentor de Impacto Social por IA é uma aplicação Python que ajuda usuários a criar planos para enfrentar problemas sociais locais, como insegurança alimentar ou falta de água. Usando a interface Textual e a API Gemini, o usuário informa o problema, orçamento, tempo e local, e o sistema gera um plano de ação, sugere ONGs próximas e oferece mensagens motivacionais. Inspirado em iniciativas comunitárias, o projeto promove mudanças reais, abordando desigualdades no Brasil de forma acessível e prática.
 Usuário: _josuemonteiro
@@ -199,7 +199,7 @@ Usuário: dk7845
 ---
 
 Nome: Gabriel Henrique Carvalho
-Votos: 11
+Votos: 12
 Link: https://github.com/gabriel-hc-dev/duvida-zero-alura
 Descrição: O projeto "Dúvida Zero" é um agente inteligente desenvolvido durante a Imersão IA da Alura que simplifica textos complexos usando a API do Google Gemini. Ele identifica se o texto está completo, classifica sua área de conhecimento (como jurídico, científico, filosófico etc.) e oferece uma explicação acessível e didática em linguagem simples. Além disso, conta com agentes auxiliares que sugerem sinônimos mais fáceis e fazem perguntas ao usuário quando o texto está incompleto. Essa ferramenta é extremamente relevante por democratizar o acesso ao conhecimento, tornando conteúdos técnicos compreensíveis para qualquer pessoa — e por isso, merece seu voto!
 Usuário: goufinho_
@@ -247,7 +247,7 @@ Usuário: pamela_70802
 ---
 
 Nome: Jose Enoque Costa de Sousa
-Votos: 10
+Votos: 11
 Link: https://github.com/ESousa97/readme-generate
 Descrição: O Gerador de README.md Inteligente é uma aplicação desktop que utiliza a API do Google Gemini para automatizar a criação de arquivos README.md para projetos de software. Ele analisa os arquivos do projeto fornecidos em um arquivo .zip e usa a IA para gerar uma documentação inicial completa e bem estruturada. Ele cria até mesmo a estrutura de pastas no Readme.
 Usuário: xfuuuuuuuuuury97
@@ -263,7 +263,7 @@ Usuário: luiza_37776
 ---
 
 Nome: Diogo Santoro Costa da Silva
-Votos: 10
+Votos: 11
 Link: https://github.com/diogoscsilva/Agentes_Gemini_Fibromialgia.git
 Descrição: Projeto para linkar vídeos profissionais e portadores de fibromialgia para auxílio no alívio dos sintomas.
 Usuário: Diogosantoro
@@ -287,7 +287,7 @@ Usuário: dbsanches
 ---
 
 Nome: Camila Forlin Cavalcanti
-Votos: 10
+Votos: 11
 Link: https://github.com/CamilaForlin22/7DaysofCode/blob/main/JogoDeVestir.ipynb
 Descrição: Apesar de não ter conseguido finalizar por falta de tempo o projeto essa minha ideia visa corrigir o problema de alimentação das ias, para que no futuro elas recebam sempre conteudos novos criados por humanos, usei uma imagem da internet mas a intenção é que pessoas coloquem seus artesanatos e que caso vire um jogo maior possam alimentar também com suas vozes, faces e criar uma versão sua e de suas coisas de maneira virtual. Se for atrelado às redes sociais ainda isso pode acabar virando um jogo multiplayer.
 Usuário: CamilaForlin22
@@ -335,7 +335,7 @@ Usuário: mateus_peres
 ---
 
 Nome: Pâmella Santos Fialho
-Votos: 10
+Votos: 11
 Link: https://github.com/pamsfih/descomplicafood
 Descrição: Um chatbot inteligente que oferece informações acessíveis e dicas práticas para pessoas com intolerância a glúten e lactose, visando facilitar o dia a dia, aumentar a confiança e promover uma vida social ativa, sem que as restrições alimentares sejam um obstáculo.
 Usuário: pamsfih
@@ -343,7 +343,7 @@ Usuário: pamsfih
 ---
 
 Nome: Fernanda Müller Ennes
-Votos: 13
+Votos: 14
 Link: https://github.com/FerEnnes/GerminAi/tree/main
 Descrição: GerminAI é um assistente inteligente desenvolvido para ajudar produtores, estudantes e entusiastas da agricultura sintrópica a planejarem e executarem sistemas agroflorestais regenerativos, seguindo os princípios de Ernst Götsch. A ferramenta utiliza modelos de linguagem (LLMs) e APIs geográficas para gerar planos personalizados de agrofloresta com base na localização, clima, solo, relevo e objetivos de cada usuário.
 Usuário: ferennes
@@ -351,7 +351,7 @@ Usuário: ferennes
 ---
 
 Nome: David Teixeira de Masin
-Votos: 8
+Votos: 9
 Link: https://github.com/davidtmasin/agent_qa
 Descrição: Chatbot que vai ajudar com o contexto de QA
 Usuário: David Teixeira
@@ -367,7 +367,7 @@ Usuário: pri7002
 ---
 
 Nome: Ettiene Sabrina Almeida
-Votos: 10
+Votos: 11
 Link: https://github.com/esabrina/RecipeAssistantAgent
 Descrição: Um agente de Inteligência Artificial conversacional capaz de auxiliar usuários a descobrir e adaptar receitas culinárias com base nos ingredientes disponíveis e restrições alimentares. O projeto também explorará, como bônus, algumas preferências básicas como uso de Airfryer para uma vida mais saudável
 Usuário: n/a
@@ -375,7 +375,7 @@ Usuário: n/a
 ---
 
 Nome: Livia Ferreira dos Santos
-Votos: 8
+Votos: 9
 Link: https://github.com/LiviaTi/ZenBot.git
 Descrição: Estude com foco, cuide da mente e supere o estresse. ZenBot te ajuda a manter equilíbrio e motivação todos os dias!
 Usuário: LiviaTi
@@ -407,7 +407,7 @@ Usuário: RodrigoC
 ---
 
 Nome: vanessa santos de almeida
-Votos: 9
+Votos: 10
 Link: https://github.com/vane-adiemla/agentAI_adocao_animais
 Descrição: Este projeto é um agente de IA criado para ajudar ONGs, protetores independentes e pessoas interessadas em adotar animais de forma responsável. O agente faz a triagem de adotantes, responde dúvidas sobre adoção, vacinação, castração, guarda responsável e outros temas.
 Usuário: vane.adiemla
@@ -415,7 +415,7 @@ Usuário: vane.adiemla
 ---
 
 Nome: Victor Novoli Mendonça
-Votos: 9
+Votos: 10
 Link: https://github.com/VictorNovoli/help.lgbtqiapn-
 Descrição: É um projeto de apoio a pessoas da comunidade LGBTQIAPN+, residentes em São Paulo. O chatbot conversa com o usuário (como se fosse um psicólogo bem básico) e através de palavras-chave o chatbot responderá ao usuário com indicação de psicólogos, casas de apoio (caso estejam sofrendo com exclusão) e técnicas de relaxamento para ansiedade. Vale ressaltar que se o usuário digitar alguma palavra sensível o sistema recomendará que ele ligue para a emergência. Ao pressionar "sair" uma mensagem de "tchau" é imprimida na tela com dicas de coisas (como artistas e series) que podem ajudar no autoaceitamento e empoderamento dessas pessoas durante esse período.
 Usuário: victor
@@ -1223,7 +1223,7 @@ Usuário: matteusmoroni1272
 ---
 
 Nome: Carlos Augusto Costa Bastos
-Votos: 7
+Votos: 8
 Link: https://github.com/caugustocbastos/app-vai-passar-onde
 Descrição: "Vai Passar Onde?" é uma aplicação inteligente desenvolvida em Python que utiliza um sistema de múltiplos agentes para fornecer a você o guia mais rápido e prático dos jogos de futebol e seus canais de transmissão no Brasil. Cansado de procurar onde assistir o jogo do seu time ou os principais confrontos do dia? Este projeto resolve isso para você!
 Usuário: caugustocbastos9502
@@ -1727,7 +1727,7 @@ Usuário: julioecarla
 ---
 
 Nome: João Victor Nazareth de Souza
-Votos: 8
+Votos: 9
 Link: https://github.com/jvictordev7/Enfermagem-IA
 Descrição: O Enfermagem IA é um assistente virtual criado para apoiar profissionais e estudantes de enfermagem, fornecendo respostas rápidas, objetivas e técnicas para dúvidas clínicas, interpretação de prescrições, evolução de prontuário, cuidados, diluições e muito mais. O projeto nasceu da vivência prática de uma enfermeira, com o objetivo de facilitar o cotidiano na área da saúde, promovendo agilidade, segurança e atualização constante.
 Usuário: devjoao7
@@ -4463,7 +4463,7 @@ Usuário: t1d3s.
 ---
 
 Nome: Wellington da Silva
-Votos: 7
+Votos: 8
 Link: https://github.com/wellsabinogp/Well_ImersaoIA/tree/main
 Descrição: "Imagine ter um time de 5 especialistas em IA, prontos para otimizar sua experiência na Imersão Alura e impulsionar sua carreira. Apresento meu projeto: um sistema inteligente que identifica suas habilidades, gera um post matador para o LinkedIn, refina sua mensagem, encontra aplicações práticas na sua área (como Direito, no meu caso!), e ainda te indica os melhores caminhos de aprendizado na Alura. Queremos mostrar o poder da IA generativa na prática! #ImersaoIAAlura #GoogleGemini #IAemAção"
 Usuário: Wellington Sabino (wellingtonsabino0753)
@@ -7159,7 +7159,7 @@ Usuário: leof9566
 ---
 
 Nome: Mayara Almeida Soares
-Votos: 9
+Votos: 10
 Link: https://github.com/Mayaralmeid23/guia-da-bolsa.git
 Descrição: O Guia da Bolsa é um assistente de investimentos com IA, projetado especialmente para quem está dando os primeiros passos na renda variável. Ele une educação financeira acessível, aconselhamento emocional e dados reais da Bolsa de Valores, em uma experiência de conversa leve e humanizada.  ✨ Diferenciais 🔍 IA com múltiplos agentes especializados O chat entende o que você precisa e ativa um agente com foco em:  Explicações simples de termos técnicos  Decisões conscientes sobre ativos  Apoio emocional para lidar com inseguranças financeiras  📈 Consulta de dados reais da B3 Com integração ao Yahoo Finance, o bot consegue trazer preços atualizados de ativos como PETR4, VALE3 e IVVB11 — tudo com uma linguagem que até quem nunca investiu entende.  🧭 Suporte para perfis iniciantes A conversa é adaptada para quem tem pouco dinheiro para investir, sente medo de perder e precisa de alguém para "pegar na mão" com empatia, sem julgamentos.  💬 Memória de curto prazo O chat lembra o que foi dito nas últimas interações,
 Usuário: mayaralmeid7198
@@ -7215,7 +7215,7 @@ Usuário: bruna_sant
 ---
 
 Nome: Laredo Nunes
-Votos: 8
+Votos: 9
 Link: https://github.com/laredonunes/geminai_2025.git
 Descrição: O Chatbot Universitário (EducAI) é um assistente virtual desenvolvido em Python e Flask, integrado à API Google Gemini, que auxilia estudantes brasileiros no processo de preparação para vestibulares e ENEM. O sistema injeta contexto temporal e notícias em tempo real, mantém histórico de conversas e utiliza cache para otimizar o desempenho. A interface, inspirada no estilo TikTok, é responsiva e voltada ao público jovem.
 Usuário: laredo_nunes
