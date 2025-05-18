@@ -1,5 +1,4 @@
-name: Fetch Discord Messages and Commit
-
+name: update messages.txt
 on:
   schedule:
     - cron: "*/5 * * * *" # executa a cada 5 minutos
