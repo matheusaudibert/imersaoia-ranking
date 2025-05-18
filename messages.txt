@@ -1887,7 +1887,7 @@ Usuário: lmazai3660
 ---
 
 Nome: Luiz Eduardo Silva Neves
-Votos: 14
+Votos: 15
 Link: https://github.com/luizneves9/Projeto_Chatbot-Alura.git
 Descrição: Projeto: Chatbot com Busca em Dados Próprios --> Como fazer uma IA responder perguntas usando uma base de dados sua? Este projeto é um chatbot que usa o Google Gemini e busca vetorial (com Retriever) para encontrar informações na sua própria base de dados. Usamos dados da ALURA como exemplo. Essa base funciona para criar bots que respondem usando dados internos ou arquivos de texto.
 Usuário: luiz.eduardo204
@@ -2479,7 +2479,7 @@ Usuário: brunoalbcs
 ---
 
 Nome: Gustavo Lopes dos Santos
-Votos: 24
+Votos: 25
 Link: https://github.com/Gust01-coder/TravelGemini
 Descrição: TravelGemini é um planejador de viagens com inteligência artificial que utiliza a API Gemini do Google para criar roteiros personalizados com base nas preferências do usuário. A aplicação foi desenvolvida com Next.js e oferece uma interface moderna para planejar todos os aspectos da sua viagem.
 Usuário: cowboyace
@@ -2815,7 +2815,7 @@ Usuário: BrunaDantas
 ---
 
 Nome: Stephanni Cavalcante Rocha
-Votos: 10
+Votos: 11
 Link: https://github.com/stephannica/Alura-google-Projeto-IAcessibilidade
 Descrição: Vivemos em um mundo cada vez mais conectado e baseado em informações textuais. Acessar um site, ler uma matéria, interagir com conteúdo online – ou até mesmo poder ler algo físico que você tem dificuldade de entender; tudo isso pressupõe a habilidade de leitura. O IAcessibilidade busca diminuir essa exclusão e oferece uma ponte auditiva para o vasto universo do texto.  É um projeto movido pela empatia, pela certeza de que a acessibilidade não é um diferencial, mas um direito fundamental e de que todos deveriam poder usufruir.
 Usuário: xte_
@@ -3295,7 +3295,7 @@ Usuário: NathanSoares
 ---
 
 Nome: Tatiane Martins Bistulfi
-Votos: 8
+Votos: 9
 Link: https://github.com/tatibistulfi/Neuron_Health
 Descrição: Um ecossistema de múltiplos agentes de IA especializados que trabalham como uma "orquestra neural", cada um responsável por um sistema do corpo humano. Os agentes colaboram em tempo real, compartilhando insights e detectando padrões sutis que indicam doenças em estágios iniciais. Diferencial: Em vez de um único modelo analisando todos os dados, cada agente se especializa profundamente em um sistema (cardiovascular, neurológico, endócrino, etc.) e "conversa" com os outros, simulando como os sistemas do corpo interagem. Isso permite identificar condições complexas que afetam múltiplos sistemas antes que se manifestem clinicamente.
 Usuário: tatibistulfi
@@ -4007,7 +4007,7 @@ Usuário: HelderV
 ---
 
 Nome: Kauã Gomes da Rocha
-Votos: 6
+Votos: 7
 Link: https://github.com/kauagomess1/imers-o-alura-google.git
 Descrição: Um ChatBot desenvolvido para iniciantes na área da programação Back-end e Front-End. Vamos poder pedir explicações, curiosidades e mais nas linguagens : Python, HMTL e CSS, JavaScript  e C++.
 Usuário: kg_12
@@ -4015,7 +4015,7 @@ Usuário: kg_12
 ---
 
 Nome: SILVIA HELENA ESCOLARIQUE
-Votos: 8
+Votos: 9
 Link: https://github.com/SHESCOLARIQUE/alura-imersao-gemini-desafio
 Descrição: Projeto: Chef IA Duo: Desvendando Sabores para Dietas Restritivas - Este projeto demonstra a colaboração inteligente entre dois agentes de inteligência artificial para auxiliar pessoas com dietas restritivas a planejarem suas refeições
 Usuário: Silvia Escolarique
@@ -6639,7 +6639,7 @@ Usuário: andershow011969
 ---
 
 Nome: Anéria Menezes Guimarães
-Votos: 7
+Votos: 8
 Link: https://github.com/172327/Geladeira-Inteligente-Colaborativa
 Descrição: Geladeira Inteligente Colaborativa: Combatendo o Desperdício e Facilitando o Dia a Dia O projeto "Geladeira Inteligente Colaborativa" surge como uma solução inovadora para desafios cotidianos relacionados à gestão de alimentos em casa. Inspirado pela dificuldade em planejar refeições, gerenciar sobras e evitar o desperdício, o projeto propõe uma geladeira conectada e interativa. Esse projeto se destaca de outros envolvendo organização de geladeira por ser mais abrangente e completo. A principal proposta é oferecer um inventário visual e inteligente dos alimentos armazenados, permitindo adicionar e remover itens facilmente através de fotos, comandos de voz ou sugestões da inteligência artificial. A geladeira responderá a perguntas por voz sobre o conteúdo, categorias de alimentos como por exemplo: “quais verduras eu tenho na geladeira? Quantos ovos ainda tenho?, e até sugerir receitas com base nos ingredientes ou especificamente nas sobras de comidas disponíveis.  Além de otimizar o planejamento de refeições e
 Usuário: Anéria
@@ -6663,7 +6663,7 @@ Usuário: willyan_10_walker
 ---
 
 Nome: Fabio Pereira da Rocha Lopes
-Votos: 6
+Votos: 7
 Link: https://github.com/FabioLo464/Imersao_Alura-AI-25
 Descrição: ClaritySec: Chatbot educativo sobre cibersegurança, oferecendo informações sobre ameaças comuns (phishing, malware, engenharia social), dicas de prevenção, um quiz interativo e respostas a perguntas frequentes para ajudar os usuários a se protegerem no ambiente digital.
 Usuário: fvalleys - Fabio
@@ -6679,7 +6679,7 @@ Usuário: noobu1234
 ---
 
 Nome: Bruno Martins dos Santos
-Votos: 8
+Votos: 9
 Link: https://github.com/bnomartins/sanguebom
 Descrição: Sangue Bom é mais que um app — é a sua convocação para se tornar um herói da vida real. Com perguntas iniciais rápidas ou tirar par tirar dúvida, ele avalia sua aptidão inicial para doar sangue e medula óssea. Ao final, você recebe um certificado digital de aptidão, provando que está pronto para salvar vidas. Desenvolvido com 💻 Python, ❤️ empatia e 💡 inteligência artificial Gemini, este projeto é uma ponte entre você e quem mais precisa.
 Usuário: bruno92821
@@ -6719,7 +6719,7 @@ Usuário: robicastilho
 ---
 
 Nome: Christian Almeida
-Votos: 7
+Votos: 8
 Link: https://github.com/ChristianRaio/PesqueBot-agente-virtual-de-pesca
 Descrição: Olá! Eu sou o PesqueBot, seu amigo virtual na pescaria! Estou aqui para te ajudar a ter mais sucesso e diversão nas suas aventuras de pesca, disponível 24 horas por dia, direto do seu celular ou tablet.
 Usuário: o_raio
@@ -6743,7 +6743,7 @@ Usuário: prof_victor
 ---
 
 Nome: Victor Rodrigues Vaz
-Votos: 8
+Votos: 9
 Link: https://github.com/vaz-victor/Gemini-Project
 Descrição: Assistente Social - Uma esteira automatizada que viabiliza o acesso a projetos sociais na comunidade (trabalhos voluntários, ongs, ajuda a comunidade, eventos, etc). No fim da esteira, o usuário tem a opção de receber um arquivo .csv com a lista de todos os projetos sociais, filtrados por área, baseados na localização, assim como sugestões de possíveis novos projetos baseado no que já tem na região. Foram desenvolvidas duas versões do assistente, uma em Jupyter Notebook puro no Colab só com python, e uma versão mais visual web desenvolvido e testado com flask, html, css e javascript. A ideia era sair da zona de conforto com um projeto que causasse algum tipo de impacto na sociedade, mesmo que pequeno no início, e trouxesse uma maneira mais simples e rápida de termos acesso ao que já existe na região e como podemos ajudar o próximo.
 Usuário: vaaz3524
@@ -6975,7 +6975,7 @@ Usuário: goes19_04
 ---
 
 Nome: João Gabriel da Silva Marques
-Votos: 14
+Votos: 15
 Link: https://github.com/jotgoodev/mecanico-IA
 Descrição: Meu amigo Mecânico é um assistente de IA, criado para ajudar motoristas com dúvidas sobre manutenção automóvel. Oferece diagnósticos preliminares de sintomas, informações sobre revisões comuns e auxílio para entender orçamentos de mecânicos, tornando a ida à oficina mais fácil, informada e justa. Nunca mais caia no golpe do mecânico, se informe sobre tudo desse assunto!
 Usuário: jotgoodgamee
@@ -7319,7 +7319,7 @@ Usuário: .kureito
 ---
 
 Nome: Maysa Gonçalves Nascimento dos Anjos
-Votos: 26
+Votos: 27
 Link: https://github.com/maysagoncalves29/imersao-alura2025.git
 Descrição: IncluiAI nasceu do amor pela minha avó, que tem baixa visão. Embora o aplicativo ainda esteja em desenvolvimento, meu propósito é claro: incluir pessoas idosas e com baixa visão no universo da tecnologia. Usando a API Gemini, criei um assistente digital que oferece dicas simples, acessíveis e acolhedoras, para que esses usuários se sintam mais seguros, conectados e valorizados no mundo digital.
 Usuário: maysa29
@@ -7327,7 +7327,7 @@ Usuário: maysa29
 ---
 
 Nome: Giovana Siqueira Santos
-Votos: 22
+Votos: 23
 Link: https://github.com/giovxna/educa.lab
 Descrição: EducaLab é a revolução no jeito de aprender usando IA. Combinando tecnologia de ponta com uma abordagem personalizada e divertida, o EducaLab transforma qualquer conteúdo complexo em explicações acessíveis, adaptadas ao tempo e estilo de cada pessoa.  Quer aprender como se tivesse 5 anos? Ou prefere aquele tom de fofoca entre amigos? O EducaLab entrega o conhecimento do seu jeito – rápido, direto e do jeito que você entende melhor.  Além disso, testa seu aprendizado com quizzes e ainda sugere cursos para ir além. Tudo isso com uma interface simples no Google Colab, rodando com o poder da API Gemini.  EducaLab é mais do que um projeto, é um laboratório de aprendizado inteligente. Vote em quem está colocando a inteligência artificial a serviço da educação de verdade.
 Usuário: epyphxny
