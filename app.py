@@ -50,13 +50,11 @@ def show_details():
 
 def main():
     st.set_page_config(page_title="Projetos Imersão IA", layout="centered", initial_sidebar_state="expanded", page_icon="🏆")
+    
     st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
-    st.markdown("Ranking dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
-    col1, col2, col3, col4 = st.columns([1,1,1,1])
-    with col1:
-        st.link_button("Vote no meu projeto!", "https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749", type='primary', use_container_width=True)
-    with col2:
-        st.link_button("Acesse o meu projeto!", "https://projeto-aprova.streamlit.app", type='primary', use_container_width=True)
+    st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
+    st.markdown("⭐ Você retribuir e :orange[curtir] meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
+    st.markdown("👾 Acesse o código desse :green[open-source] [aqui](https://github.com/matheusaudibert/projeto-aprova).")
     st.info("Os votos são atualizados a cada 5 minutos.")
     
     if "selected_project" not in st.session_state:
@@ -90,7 +88,14 @@ def main():
         col = cols[idx % 3]
         with col:
             nome_truncado = truncar_nome(project['nome'])
-            st.markdown(f"##### {idx + 1}. {nome_truncado}")
+            st.markdown(
+                f"""
+                <div style='min-height: 4em; margin-bottom: 0.5em'>
+                    <h5>{idx + 1}. {nome_truncado}</h5>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
             st.markdown(f"**Votos:** **{project['votos']}**")
             col1, col2 = st.columns(2)
             with col1:
