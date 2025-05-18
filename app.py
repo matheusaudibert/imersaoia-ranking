@@ -82,47 +82,113 @@ def main():
 .gradient-text {
     background: linear-gradient(
         to right,
-        #ff0000,
-        #ff1a1a,
-        #ff0000,
-        #ff1a1a,
-        #8c000c,
-        #ff3333,
-        #940914,
-        #75060f,
-        #ff0000,
-        #ff1a1a
+        #f8cdda,  /* rosa pastel */
+        #fbc2eb,  /* lavanda rosado */
+        #c2e9fb,  /* azul bebê */
+        #d4fc79,  /* verde-limão suave */
+        #fff6b7,  /* amarelo claro */
+        #a1c4fd,  /* azul céu */
+        #d3cce3,  /* lilás suave */
+        #fde2e4,  /* rosa-chá */
+        #f8edeb,  /* bege claro */
+        #fbc2eb,  /* repete lavanda */
+        #f8cdda   /* fecha com rosa pastel */
     );
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    animation: rainbow 16s linear infinite;
+    animation: rainbow 7s linear infinite;
     background-size: 200% 100%;
     font-weight: bold;
+}
+
+.gold-text {
+    background: linear-gradient(45deg, #FFD700, #FDB931, #F0C419);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+}
+
+.silver-text {
+    background: linear-gradient(45deg, #C0C0C0, #E8E8E8, #A8A8A8);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(192, 192, 192, 0.2);
+}
+
+.bronze-text {
+    background: linear-gradient(45deg, #CD7F32, #B87333, #E59F54);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(205, 127, 50, 0.2);
 }
 
 @keyframes rainbow {
     0% { background-position: 0% 50%; }
     100% { background-position: -200% 50%; }
 }
+
+@keyframes shine {
+    to {
+        background-position: 200% center;
+    }
+}
+
+.project-name-container {
+    min-height: 4.5em;
+    max-height: 4.5em;
+    margin-bottom: 0.5em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.project-name {
+    margin: 0;
+    line-height: 1.2;
+    font-size: 1.1em;
+}
 </style>
 """, unsafe_allow_html=True)
+
+            medal_class = ''
+            if idx == 0:
+                medal_class = 'gold-text'
+            elif idx == 1:
+                medal_class = 'silver-text'
+            elif idx == 2:
+                medal_class = 'bronze-text'
 
             if project['nome'] == "Matheus Audibert":
                 st.markdown(
                     f"""
-                    <div style='min-height: 4em; margin-bottom: 0.5em'>
-                        <h5>{idx + 1}. <span class="gradient-text">{project['nome']}</span></h5>
+                    <div class="project-name-container">
+                        <h5 class="project-name">{idx + 1}. <span class="gradient-text">{project['nome']}</span></h5>
                     </div>
                     """,
                     unsafe_allow_html=True
                 )
-            
+            elif medal_class:
+                st.markdown(
+                    f"""
+                    <div class="project-name-container">
+                        <h5 class="project-name">{idx + 1}. <span class="{medal_class}">{project['nome']}</span></h5>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
             else:
                 st.markdown(
                     f"""
-                    <div style='min-height: 4em; margin-bottom: 0.5em'>
-                        <h5>{idx + 1}. {project['nome']}</h5>
+                    <div class="project-name-container">
+                        <h5 class="project-name">{idx + 1}. {project['nome']}</h5>
                     </div>
                     """,
                     unsafe_allow_html=True
