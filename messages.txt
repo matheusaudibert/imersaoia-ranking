@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 100
+Votos: 101
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -7,7 +7,7 @@ Usuário: limalf
 ---
 
 Nome: Vitor Oliveira
-Votos: 33
+Votos: 34
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -87,7 +87,7 @@ Usuário: Leandro Filgueira
 ---
 
 Nome: Pablo Ribeiro
-Votos: 38
+Votos: 39
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -127,7 +127,7 @@ Usuário: rodrigo_dos_santos
 ---
 
 Nome: Rodrigo Furtile
-Votos: 40
+Votos: 41
 Link: https://github.com/Furtile-Rodrigo/projeto_imersao_Alura
 Descrição: RPG no dia a dia para crianças e jovens neurotípicos
 Usuário: furtile27
@@ -327,7 +327,7 @@ Usuário: kiwk
 ---
 
 Nome: Mateus Peres
-Votos: 11
+Votos: 12
 Link: https://github.com/mateusplima/imersao-alura-google.git
 Descrição: Encontre o emprego perfeito para VOCÊ! Busca inteligente com Gemini, baseada no seu perfil.
 Usuário: mateus_peres
@@ -367,7 +367,7 @@ Usuário: pri7002
 ---
 
 Nome: Ettiene Sabrina Almeida
-Votos: 13
+Votos: 14
 Link: https://github.com/esabrina/RecipeAssistantAgent
 Descrição: Um agente de Inteligência Artificial conversacional capaz de auxiliar usuários a descobrir e adaptar receitas culinárias com base nos ingredientes disponíveis e restrições alimentares. O projeto também explorará, como bônus, algumas preferências básicas como uso de Airfryer para uma vida mais saudável
 Usuário: n/a
@@ -663,7 +663,7 @@ Usuário: Natalia Brunelli
 ---
 
 Nome: André Moraes
-Votos: 8
+Votos: 9
 Link: https://github.com/andreLTMoraes/Socio-IA
 Descrição: Crie um sócio com IA para lhe ajudar a empreender.
 Usuário: andre.tmoraes
@@ -903,7 +903,7 @@ Usuário: ph_ancelotti
 ---
 
 Nome: Tcharles Sousa Coutinho
-Votos: 13
+Votos: 14
 Link: https://github.com/Tchacor/mao_na_roda.git
 Descrição: O projeto "Mão na Roda - Seu Faz-Tudo Digital" é um assistente inteligente e conversacional de IA. Ele visa democratizar o conhecimento em reparos domésticos básicos e DIY, empoderando usuários a resolverem problemas comuns em casa de forma autônoma, segura e eficiente. Atuando como um "Faz-Tudo Digital", guia passo a passo, diagnostica situações, sugere materiais e fornece instruções claras, promovendo autossuficiência, economia e sustentabilidade ao incentivar o reparo em vez do descarte.
 Usuário: tchacor
@@ -919,7 +919,7 @@ Usuário: tatianicoimbra
 ---
 
 Nome: Alexandre Rodrigues Ramos
-Votos: 6
+Votos: 7
 Link: https://github.com/ADRIGUES/DesTretaBot-CNV
 Descrição: 🤖 DesTretaBot-CNV: Assistente IA p/ comunicação online empática e sem tretas! Usa Google Gemini e Python p/ aplicar CNV (Comunicação Não Violenta), reformulando msgs e evitando conflitos com diálogos construtivos. Menos "pedras de tropeço", mais pontes!
 Usuário: adrigues
@@ -935,7 +935,7 @@ Usuário: lopeswall
 ---
 
 Nome: Iranildo Alves Sales
-Votos: 7
+Votos: 8
 Link: https://github.com/Iranildot/agentlab
 Descrição: AgentLab é um aplicativo intuitivo projetado para facilitar a criação e otimização de agentes autônomos, utilizando a API do Google Gemini para acesso a modelos LLM (Large Language Models). Ele oferece um ambiente completo para automação de tarefas, experimentação e testes, permitindo o desenvolvimento ágil e eficiente de agentes inteligentes.
 Usuário: iranildoalvessales6704
@@ -975,7 +975,7 @@ Usuário: lnbentes
 ---
 
 Nome: Luiz Guilherme Monteiro Padilha
-Votos: 7
+Votos: 8
 Link: https://github.com/Corvonauta-dev/Fakebusters
 Descrição: Fakebusters é uma ferramenta inteligente e interativa que utiliza o poder da Inteligência Artificial do Google Gemini para identificar rapidamente fake news e combater a desinformação na internet. A aplicação analisa notícias através de URLs ou imagens enviadas pelos usuários, extraindo informações essenciais e realizando uma checagem profunda de fatos com agentes especializados que buscam evidências diretamente da web.
 Usuário: .guinks
@@ -991,7 +991,7 @@ Usuário: bagre_yellow
 ---
 
 Nome: João Pedro de Lima Teixeira
-Votos: 11
+Votos: 12
 Link: https://github.com/pedro-delima/Protected-World
 Descrição: A Protected World democratiza o acesso à informação climática crucial, capacitando indivíduos e comunidades a se prepararem e agirem proativamente contra desastres naturais. Através da informação, promovemos a resiliência e a construção de um futuro mais seguro.
 Usuário: pedrolima_9
@@ -1071,7 +1071,7 @@ Usuário: ghribas
 ---
 
 Nome: Ricardo Luiz Gomes
-Votos: 7
+Votos: 8
 Link: https://github.com/RicardoLuizGomes/Alura/commit/55c2f32ece285f4666d5262e6ad4fc13d908dc5d
 Descrição: Checador de Conteúdo: Apenas inserindo a URL de notícias ou imagens. Notícias: Encontra cobertura similar em outros portais e busca por checagens de fatos e fontes originais. Imagens: Gera links para busca reversa imediata.
 Usuário: Ricardo Gomes
@@ -1255,7 +1255,7 @@ Usuário: erivaldosilva
 ---
 
 Nome: Igor Almeida
-Votos: 10
+Votos: 11
 Link: https://github.com/tiigortadeu/orum-todolist
 Descrição: ORUM TO-DO LIST é uma ferramenta de gestão de tempo, que com a ajuda de agente inteligentes cria chats personalizados e contextualizados para sua tarefa.
 Usuário: itt
@@ -1279,7 +1279,7 @@ Usuário: _vvsn
 ---
 
 Nome: Marcos José do carmo ribeiro
-Votos: 11
+Votos: 12
 Link: https://github.com/Marcos-Xportall/alura-google-2025.git
 Descrição: Nossa plataforma utiliza o poder da Inteligência Artificial do Google Gemini para oferecer suporte personalizado e colaborativo, tornando o desenvolvimento infantil uma jornada mais leve, divertida e eficaz.  1. Perfil Detalhado e Inteligente Você nos conta sobre a criança: idade, interesses, habilidades, desafios e, se aplicável, diagnóstico e nível de suporte. Quanto mais detalhes, melhor a mágica!  2. Mágica da IA (Gemini) Nossa IA analisa as informações e, com base em conhecimento especializado e nas melhores práticas, gera sugestões de atividades lúdicas, de estímulo e pedagógicas.  3. Atividades Sob Medida e Prontas para Usar Receba planos de atividades criativas e prontas para aplicar, adaptadas ao perfil único da criança, com materiais acessíveis e foco total no engajamento familiar e terapêutico.
 Usuário: portalgamer
@@ -1319,7 +1319,7 @@ Usuário: Thaac
 ---
 
 Nome: Silvio Morais
-Votos: 9
+Votos: 10
 Link: https://github.com/silviomorais/triagem-sindrome-down
 Descrição: Descrição do Produto O Sistema de Triagem para Síndrome de Down é uma aplicação baseada em aprendizado de máquina desenvolvida para auxiliar profissionais de saúde na identificação precoce e triagem de pacientes com potencial diagnóstico de Síndrome de Down. O sistema utiliza algoritmos de inteligência artificial para analisar dados clínicos, biomarcadores e características fenotípicas, fornecendo uma avaliação probabilística que apoia o processo de diagnóstico.
 Usuário: silviomorais
@@ -1383,7 +1383,7 @@ Usuário: Katita
 ---
 
 Nome: Rogério de Cerqueira Lario
-Votos: 12
+Votos: 13
 Link: https://github.com/rclario/Imersao_IA_Alura-GoogleGemini
 Descrição: A melhor oportunidade de trabalho para mim
 Usuário: Lario
@@ -1631,7 +1631,7 @@ Usuário: Leonardo Demartini
 ---
 
 Nome: Issao Yamazaki
-Votos: 8
+Votos: 9
 Link: https://github.com/yissao/alura-gemini
 Descrição: 'Sumarizador' Inteligente de Vídeos do YouTube
 Usuário: yissao
@@ -1727,7 +1727,7 @@ Usuário: julioecarla
 ---
 
 Nome: João Victor Nazareth de Souza
-Votos: 10
+Votos: 12
 Link: https://github.com/jvictordev7/Enfermagem-IA
 Descrição: O Enfermagem IA é um assistente virtual criado para apoiar profissionais e estudantes de enfermagem, fornecendo respostas rápidas, objetivas e técnicas para dúvidas clínicas, interpretação de prescrições, evolução de prontuário, cuidados, diluições e muito mais. O projeto nasceu da vivência prática de uma enfermeira, com o objetivo de facilitar o cotidiano na área da saúde, promovendo agilidade, segurança e atualização constante.
 Usuário: devjoao7
@@ -1791,7 +1791,7 @@ Usuário: millersantos.br
 ---
 
 Nome: Arthur de Quadros do Nascimento
-Votos: 5
+Votos: 6
 Link: https://github.com/Arthur-Q-N/FuturoForjado
 Descrição: Este projeto é um sistema de inteligência artificial multi-agente construído com Gemini. Ele busca e analisa as tendências mais recentes em tecnologia, identifica áreas de estudo promissoras e prevê habilidades emergentes. O sistema processa essas informações através de agentes especializados e entrega um resumo claro, conciso e classificado em formato de texto, servindo como um guia rápido para quem deseja se manter atualizado sobre o futuro da tecnologia e para onde direcionar seus esforços de aprendizado.
 Usuário: Arthur de Quadros do Nascimento
@@ -2087,7 +2087,7 @@ Usuário: cripytou
 ---
 
 Nome: Nelson Marcondes
-Votos: 8
+Votos: 9
 Link: https://github.com/NelsonMarcondes/Agente_pesquisa_profissao_promissora
 Descrição: Descrição do Projeto: Descubra o Teu Superpoder! Chega de ficar só no talvez! 🚀 Tá na hora de você desvendar o mistério do seu talento e liberar o seu superpoder pro mundo! 💪 O "Descubra o Teu Superpoder" é o teste de aptidão que vai te dar o mapa do tesouro 🗺️ pra conquistar o futuro. Com perguntas que são mais suaves que um flow de trap, você vai descobrir se o seu negócio é lógica, arte, ciência, comunicação... ou tudo junto e misturado! 😉 Não perde essa chance de dar um GG na vida! 🎮 Clica aqui, faz o teste e bora dominar o mundo com o seu talento único! 💥 #DescubraSeuSuperpoder #TesteDeAptidao #TalentoRevelado #FuturoBrilhante
 Usuário: Nelson Marcondes
@@ -2183,7 +2183,7 @@ Usuário: Etiene Teixeira
 ---
 
 Nome: Sandra Reis Prata
-Votos: 5
+Votos: 6
 Link: https://github.com/SanReis/chatbot-mae-carreira.git
 Descrição: Chatbot Maternidade em Ação: Ajuda mães a identificar, traduzir e valorizar habilidades desenvolvidas na maternidade para impulsionar suas carreiras com o auxílio de IA.
 Usuário: sanreisprata
@@ -2479,7 +2479,7 @@ Usuário: brunoalbcs
 ---
 
 Nome: Gustavo Lopes dos Santos
-Votos: 30
+Votos: 31
 Link: https://github.com/Gust01-coder/TravelGemini
 Descrição: TravelGemini é um planejador de viagens com inteligência artificial que utiliza a API Gemini do Google para criar roteiros personalizados com base nas preferências do usuário. A aplicação foi desenvolvida com Next.js e oferece uma interface moderna para planejar todos os aspectos da sua viagem.
 Usuário: cowboyace
@@ -2743,7 +2743,7 @@ Usuário: DANILO
 ---
 
 Nome: Geraldo de Lima
-Votos: 9
+Votos: 10
 Link: https://github.com/geralima09/olha_so.git
 Descrição: O projeto "Olha só" e um conjunto de agentes de IA do Gemini que gera audiodescrição de uma foto para pessoas cegas e com baixa visão poderem ter mais acessibilidade e autonomia. Nosso objetivo é transformar a visualização de fotos em uma experiência auditiva completa e envolvente! É a comunicação sem limites, turbinada pela IA!
 Usuário: geralima01
@@ -3895,7 +3895,7 @@ Usuário: edersambo
 ---
 
 Nome: Elias Araujo
-Votos: 7
+Votos: 8
 Link: https://github.com/eliasaraujo-dev/gemini-health-insight
 Descrição: O Gemini Health Insight é um assistente de saúde preventiva que utiliza inteligência artificial para analisar dados de pacientes e identificar fatores de risco para doenças cardiovasculares. O sistema considera uma variedade de dados, incluindo informações genômicas, histórico médico, estilo de vida e fatores ambientais, para fornecer uma análise de risco personalizada.
 Usuário: sanj1zinn
@@ -4471,7 +4471,7 @@ Usuário: joaofelipe7982
 ---
 
 Nome: Anne Caroline de Souza dos Santos
-Votos: 14
+Votos: 15
 Link: https://github.com/carolinesouzaoffice/Profa-Gimmi
 Descrição: Uma professora de finanças (que só fala sobre isso) muito carinhosa e extremamente didática. Ela mostra sua paixão pelas finanças da forma mais fofa que você vai ver!
 Usuário: carolinesouzaoffice
@@ -5175,7 +5175,7 @@ Usuário: crazecraft
 ---
 
 Nome: Mário Lúcio
-Votos: 33
+Votos: 34
 Link: https://github.com/marioluciofjr/procurando_vaga
 Descrição: Este projeto utiliza um sistema de múltiplos agentes para auxiliar usuários na busca por vagas de emprego na área de tecnologia. O usuário insere suas informações e preferências de carreira, e quatro agentes especializados entram em ação: Carlos Acha (recrutador), Sofia Leme (mentora de carreira), Laura Code (professora tech) e Hash Tag (especialista em LinkedIn). Cada agente contribui com sua expertise, desde a busca inicial de vagas até dicas de estudo, soft skills, hard skills e otimização do perfil no LinkedIn para aumentar as chances de sucesso da pessoa candidata.
 Usuário: marioluciofjr
@@ -5279,7 +5279,7 @@ Usuário: abdiel0492
 ---
 
 Nome: vitor santos
-Votos: 22
+Votos: 23
 Link: https://github.com/engvittorsanttos/projeto-gemini-alura
 Descrição: ExplorAI representa uma evolução na forma como as pessoas descobrem e vivenciam atividades físicas ao ar livre. Trata-se de um sistema inteligente e intuitivo, impulsionado por uma arquitetura de múltiplos agentes de inteligência artificial, meticulosamente projetado para gerar rotas personalizadas de caminhada e corrida. Nosso objetivo é transcender as limitações das opções genéricas, oferecendo percursos que se alinham precisamente com as necessidades, preferências e o espírito explorador de cada usuário.  No coração do ExplorAI reside um processo colaborativo entre quatro agentes de IA especializados, cada um desempenhando um papel crucial na criação da rota perfeita:  O Explorador Digital (Agente Buscador de Informações de Rotas): Este agente atua como um detetive digital, vasculhando vastos oceanos de informação online. Ao receber a localização do usuário e suas preferências detalhadas (distância desejada, nível de dificuldade, tipo de terreno – plano, montanhoso, trilha – e preferências de paisagem – ur
 Usuário: vitorsantos8639
@@ -5471,7 +5471,7 @@ Usuário: raphafel
 ---
 
 Nome: Camila Sarmento
-Votos: 7
+Votos: 8
 Link: https://github.com/acamilasarmento/ImersaoIA_InMathMate/tree/main
 Descrição: ### InMathMate: Uma experiência acessível e cheia de confiança para todas as crianças.  Imagine a expressão no rosto de uma criança que, antes, via a matemática com receio, e agora, com um brilho nos olhos, descobre seus mistérios e sorri. Essa é a jornada que o **InMathMate** deseja abraçar.  Vi de perto como a matemática pode ser um desafio – a frustração de alunos do 6º ano, como minha sobrinha, e a dor de ver **21 de 28 deles ficando abaixo da média** em uma prova recente. Essa realidade é ainda mais sentida por crianças que têm necessidades especiais, pois encontrar um apoio que realmente as compreenda e se adapte é raro. Acreditamos que a matemática não deveria ser uma barreira, mas um caminho de descobertas para todos.  É por isso que o **InMathMate** nasceu. Impulsionado pela Inteligência Artificial, construímos uma plataforma que atua como um amigo e um guia gentil, oferecendo um reforço em matemática que é ao mesmo tempo completo, personalizado e, acima de tudo, humano, em um contexto onde nem todas
 Usuário: acamilasarmento
@@ -5535,7 +5535,7 @@ Usuário: lucasdon7656
 ---
 
 Nome: Fernanda Buscaratto
-Votos: 9
+Votos: 10
 Link: https://github.com/Nanda204/ImersaoIA---Alura-Gemini.git
 Descrição: Descubra o chef que há em você com o ChefBot! ChefBot é um chatbot inteligente que ajuda usuários a descobrir receitas deliciosas com os ingredientes que já possuem em casa. Evite o desperdício de alimentos e simplifique suas refeições com sugestões criativas e personalizadas, impulsionadas pela inteligência do Google Gemini, levando em conta preferências e restrições alimentares.
 Usuário: nanda_29805
@@ -5783,7 +5783,7 @@ Usuário: elyjennipher
 ---
 
 Nome: Junynho Francisco Pereira Souza
-Votos: 10
+Votos: 11
 Link: https://github.com/JunynhoPereira/imersao-ia-alura
 Descrição: O EcoMente é um assistente pessoal desenvolvido com IA generativa que busca acolher e orientar pessoas com TDAH e TEA nível 1 no dia a dia.  O projeto oferece sugestões de rotina, registro emocional e dicas personalizadas com empatia e simplicidade.  Mais do que uma ferramenta de produtividade, o EcoMente é uma proposta de cuidado digital, promovendo bem-estar mental por meio da tecnologia.
 Usuário: junynhosouza8107
@@ -6023,7 +6023,7 @@ Usuário: heitorcfelix
 ---
 
 Nome: Pedro Paiva
-Votos: 9
+Votos: 10
 Link: https://github.com/pekapa/text-based-adventure/tree/main
 Descrição: ✨ Aventura Textual Dinâmica ✨  Um ChatBot educacional baseado na API do Google para Inteligência Artificial.  Este projeto é uma aventura textual interativa e educacional, impulsionada por um modelo de inteligência artificial generativa. Ele cria histórias dinâmicas com base em temas e níveis de dificuldade escolhidos pelo jogador, oferecendo uma experiência de aprendizado envolvente através da exploração e interação.
 Usuário: sgt.spook
@@ -6687,7 +6687,7 @@ Usuário: bruno92821
 ---
 
 Nome: Nicole Iague Raso Aichinger
-Votos: 7
+Votos: 8
 Link: https://github.com/itsmenira/projetoalura
 Descrição: Projeto realizado na Imersão Alura - Gemini, com o intuito de esclarecer os brasileiros sobre o direito à cidadania italiana com as novas regras e as antigas regras usando agentes de IA
 Usuário: Nicole Aichinger
@@ -6711,7 +6711,7 @@ Usuário: carlosasavi_74190
 ---
 
 Nome: Robinson Castilho
-Votos: 11
+Votos: 13
 Link: https://github.com/robicastilho/remedio_certo
 Descrição: Opa, tudo bem? Sabe aquela letra de médico na receita que é quase um código secreto? Pois é, isso não é só um incômodo, é um problemão sério no Brasil! Eu descobri que milhares de erros de medicação acontecem por causa disso, colocando a saúde de muita gente em risco.  Eu vivi essa angústia de perto com meu pai. Ele lutou 20 anos contra uma demência, e era um sufoco toda vez que pegávamos uma receita nova do psiquiatra. Muitas vezes, o farmacêutico precisava ligar para o médico para confirmar o que estava escrito. Aquilo me doía muito e acendeu em mim uma vontade enorme de fazer alguma coisa para mudar esse cenário.  Assim nasceu o **Remédio Certo**! Minha ideia é usar a Inteligência Artificial para que qualquer pessoa possa tirar uma foto da receita e, com o apoio da IA, finalmente entender direitinho o que está ali: o nome do remédio, a dose, as instruções, tudo de forma clara e segura. Quero dar um basta nessa aflição.  E o mais bacana é que esse projeto usou IA para tudo. Desde o começo, para fazer uma pe
 Usuário: robicastilho
