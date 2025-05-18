@@ -29,7 +29,7 @@ def load_messages(filename="messages.txt"):
     
     return projects
   
-def truncar_nome(nome, limite=14):
+def truncar_nome(nome, limite=25):
     partes = nome.split()
     resultado = ''
     for parte in partes:
@@ -49,7 +49,7 @@ def show_details():
     st.markdown(f"[Abrir no GitHub]({project['link']})")
 
 def main():
-    st.set_page_config(page_title="Projetos Imersão IA", layout="centered", initial_sidebar_state="expanded", page_icon="🏆")
+    st.set_page_config(page_title="Projetos Imersão IA", layout="wide", initial_sidebar_state="expanded", page_icon="🏆")
     st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
     st.caption("Ranking dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**! 😸 :red[Vote no meu projeto [aqui](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!]")
     st.info("Os votos são atualizados a cada 5 minutos.")
