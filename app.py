@@ -127,7 +127,7 @@ def main():
     styles()
     st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
     st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
-    st.markdown("⭐ Você retribuir e :orange[curtir] meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
+    st.markdown("⭐ Você pode retribuir e :orange[curtir] meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
     st.markdown("👾 Acesse o código desse :green[open-source] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
     st.info("Os votos são atualizados a cada 5 minutos.")
     
