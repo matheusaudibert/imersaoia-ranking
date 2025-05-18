@@ -90,6 +90,7 @@ client.on("ready", async () => {
   } catch (error) {
     console.error("Erro:", error);
     client.destroy();
+    process.exit(1);
   }
 });
 
