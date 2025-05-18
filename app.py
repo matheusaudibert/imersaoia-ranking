@@ -38,13 +38,97 @@ def show_details():
     st.markdown(f"**Descrição:** {project['descricao']}")
     st.markdown(f"[Abrir no GitHub]({project['link']})")
 
+def styles():
+    st.markdown("""
+            <style>
+                .gradient-text {
+                    background: linear-gradient(
+                        to right,
+                        #f8cdda,  /* rosa pastel */
+                        #fbc2eb,  /* lavanda rosado */
+                        #c2e9fb,  /* azul bebê */
+                        #d4fc79,  /* verde-limão suave */
+                        #fff6b7,  /* amarelo claro */
+                        #a1c4fd,  /* azul céu */
+                        #d3cce3,  /* lilás suave */
+                        #fde2e4,  /* rosa-chá */
+                        #f8edeb,  /* bege claro */
+                        #fbc2eb,  /* repete lavanda */
+                        #f8cdda   /* fecha com rosa pastel */
+                    );
+                    -webkit-background-clip: text;
+                    background-clip: text;
+                    color: transparent;
+                    animation: rainbow 7s linear infinite;
+                    background-size: 200% 100%;
+                    font-weight: bold;
+                }
+
+                .gold-text {
+                    background: linear-gradient(45deg, #FFD700, #FDB931, #F0C419);
+                    -webkit-background-clip: text;
+                    background-clip: text;
+                    color: transparent;
+                    font-weight: bold;
+                    text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
+                }
+
+                .silver-text {
+                    background: linear-gradient(45deg, #C0C0C0, #E8E8E8, #A8A8A8);
+                    -webkit-background-clip: text;
+                    background-clip: text;
+                    color: transparent;
+                    font-weight: bold;
+                    text-shadow: 0 0 10px rgba(192, 192, 192, 0.2);
+                }
+
+                .bronze-text {
+                    background: linear-gradient(45deg, #CD7F32, #B87333, #E59F54);
+                    -webkit-background-clip: text;
+                    background-clip: text;
+                    color: transparent;
+                    font-weight: bold;
+                    text-shadow: 0 0 10px rgba(205, 127, 50, 0.2);
+                }
+
+                @keyframes rainbow {
+                    0% { background-position: 0% 50%; }
+                    100% { background-position: -200% 50%; }
+                }
+
+                @keyframes shine {
+                    to {
+                        background-position: 200% center;
+                    }
+                }
+
+                .project-name-container {
+                    min-height: 4.5em;
+                    max-height: 4.5em;
+                    margin-bottom: 0.5em;
+                    overflow: hidden;
+                    display: -webkit-box;
+                    -webkit-line-clamp: 2;
+                    -webkit-box-orient: vertical;
+                }
+
+                .project-name {
+                    margin: 0;
+                    line-height: 1.2;
+                    font-size: 1.1em;
+                }
+                </style>
+""", unsafe_allow_html=True)
+
+
 def main():
-    st.set_page_config(page_title="Projetos Imersão IA", layout="centered", initial_sidebar_state="expanded", page_icon="🏆")
     
+    st.set_page_config(page_title="Projetos Imersão IA", layout="centered", initial_sidebar_state="expanded", page_icon="🏆")
+    styles()
     st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
     st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
     st.markdown("⭐ Você retribuir e :orange[curtir] meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
-    st.markdown("👾 Acesse o código desse :green[open-source] [aqui](https://github.com/matheusaudibert/projeto-aprova).")
+    st.markdown("👾 Acesse o código desse :green[open-source] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
     st.info("Os votos são atualizados a cada 5 minutos.")
     
     if "selected_project" not in st.session_state:
@@ -74,90 +158,9 @@ def main():
             st.sidebar.warning("Nenhum projeto encontrado.")
 
     cols = st.columns(3)
-    for idx, project in enumerate(sorted_projects[:60]):
+    for idx, project in enumerate(sorted_projects[:30]):
         col = cols[idx % 3]
         with col:
-            st.markdown("""
-<style>
-.gradient-text {
-    background: linear-gradient(
-        to right,
-        #f8cdda,  /* rosa pastel */
-        #fbc2eb,  /* lavanda rosado */
-        #c2e9fb,  /* azul bebê */
-        #d4fc79,  /* verde-limão suave */
-        #fff6b7,  /* amarelo claro */
-        #a1c4fd,  /* azul céu */
-        #d3cce3,  /* lilás suave */
-        #fde2e4,  /* rosa-chá */
-        #f8edeb,  /* bege claro */
-        #fbc2eb,  /* repete lavanda */
-        #f8cdda   /* fecha com rosa pastel */
-    );
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    animation: rainbow 7s linear infinite;
-    background-size: 200% 100%;
-    font-weight: bold;
-}
-
-.gold-text {
-    background: linear-gradient(45deg, #FFD700, #FDB931, #F0C419);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(255, 215, 0, 0.2);
-}
-
-.silver-text {
-    background: linear-gradient(45deg, #C0C0C0, #E8E8E8, #A8A8A8);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(192, 192, 192, 0.2);
-}
-
-.bronze-text {
-    background: linear-gradient(45deg, #CD7F32, #B87333, #E59F54);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-weight: bold;
-    text-shadow: 0 0 10px rgba(205, 127, 50, 0.2);
-}
-
-@keyframes rainbow {
-    0% { background-position: 0% 50%; }
-    100% { background-position: -200% 50%; }
-}
-
-@keyframes shine {
-    to {
-        background-position: 200% center;
-    }
-}
-
-.project-name-container {
-    min-height: 4.5em;
-    max-height: 4.5em;
-    margin-bottom: 0.5em;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-}
-
-.project-name {
-    margin: 0;
-    line-height: 1.2;
-    font-size: 1.1em;
-}
-</style>
-""", unsafe_allow_html=True)
-
             medal_class = ''
             if idx == 0:
                 medal_class = 'gold-text'
