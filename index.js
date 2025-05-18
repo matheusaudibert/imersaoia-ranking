@@ -65,6 +65,10 @@ client.on("ready", async () => {
 
               if (desc.length > 0) content.push(`Descrição: ${desc.join(" ")}`);
               if (discord) content.push(`Usuário: ${discord}`);
+              // Adiciona o link de redirecionamento para a mensagem
+              content.push(
+                `Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/${msg.id}`
+              );
             }
 
             if (content.length > 0) {

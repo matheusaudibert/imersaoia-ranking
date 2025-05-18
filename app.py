@@ -17,6 +17,7 @@ def load_messages(filename="messages.txt"):
         link_match = re.search(r'Link:\s*(https?://\S+)', message)
         desc_match = re.search(r'Descrição: (.*?)(?:\n|$)', message, re.DOTALL)
         user_match = re.search(r'Usuário: (.*?)(?:\n|$)', message)
+        message_link_match = re.search(r'Redirect: (.*?)(?:\n|$)', message)
         
         if nome_match and votos_match and link_match:
             projects.append({
@@ -24,7 +25,8 @@ def load_messages(filename="messages.txt"):
                 'votos': int(votos_match.group(1)),
                 'link': link_match.group(1).strip(),
                 'descricao': desc_match.group(1).strip() if desc_match else '',
-                'usuario': user_match.group(1).strip() if user_match else ''
+                'usuario': user_match.group(1).strip() if user_match else '',
+                'votar': message_link_match.group(1).strip() if message_link_match else '',
             })
     
     return projects
@@ -37,6 +39,7 @@ def show_details():
     st.markdown(f"**Usuário Discord:** {project['usuario']}")
     st.markdown(f"**Descrição:** {project['descricao']}")
     st.markdown(f"[Abrir no Github]({project['link']})")
+    st.markdown(f"[Votar no projeto]({project['votar']})")
 
 def styles():
     st.markdown("""
@@ -164,7 +167,8 @@ def main():
                 st.sidebar.markdown(f"**Votos:** {project['votos']}")
                 st.sidebar.markdown(f"**Usuário Discord:** {project['usuario']}")
                 st.sidebar.markdown(f"**Descrição:** {project['descricao']}")
-                st.sidebar.markdown(f"[Link do Projeto]({project['link']})")
+                st.sidebar.markdown(f"[Abrir no Github]({project['link']})")
+                st.sidebar.markdown(f"[Votar do projeto]({project['votar']})")
         else:
             st.sidebar.warning("Nenhum projeto encontrado.")
 
@@ -215,7 +219,10 @@ def main():
               if st.button("Detalhes", key=f"detalhes_{idx}", use_container_width=True):
                   st.session_state.selected_project = project
                   show_details()  # Chama o dialog aqui com o projeto certo
-                  
+            if project['nome'] == "Matheus Audibert":
+                st.link_button("Votar no projeto :material/call_made:", url=project['votar'], type="primary", use_container_width=True)
+            else:
+                st.link_button("Votar no projeto :material/call_made:", url=project['votar'], type="secondary", use_container_width=True)
     st.write("")
     st.write("")
     st.markdown("""
