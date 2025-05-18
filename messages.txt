@@ -2695,7 +2695,7 @@ Usuário: cami.pires
 ---
 
 Nome: Anderson Silva dos Santos
-Votos: 3
+Votos: 4
 Link: https://github.com/devspidersilva/viagem_facil
 Descrição: Nome do projeto: Viagem fácil || Funcionalidade: Ferramenta para facilitar o planejamento de viagens: lugares, rotas e gastos em um só lugar.
 Usuário: devspidersilva
