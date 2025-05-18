@@ -127,15 +127,14 @@ def main():
     styles()
     st.title("🏆 :orange[Top Projetos] - :blue[Imersão IA]")
     st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
-    st.markdown("⭐ Você pode retribuir e :orange[curtir] o meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
+    st.markdown("⭐ Você pode retribuir e :orange[votar] o meu [projeto](https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749)!")
     st.markdown("👾 Acesse o código desse :green[open-source] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
-    st.info("Os votos são atualizados a cada 5 minutos.")
-    
-    if "selected_project" not in st.session_state:
-        st.session_state.selected_project = None
-
     projects = load_messages()
     sorted_projects = sorted(projects, key=lambda x: x['votos'], reverse=True)
+    
+    # Pega o número de votos do 30º projeto
+    min_votes = sorted_projects[29]['votos'] if len(sorted_projects) >= 30 else 0
+    st.info(f"O número mínimo para estar no ranking é de :blue[**{min_votes} votos**].")
     
     st.sidebar.error("A votação se encerra às 23:59.")
     

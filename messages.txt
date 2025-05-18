@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 66
+Votos: 70
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -31,7 +31,7 @@ Usuário: ehrikr
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 30
+Votos: 31
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -71,7 +71,7 @@ Usuário: John Wesley
 ---
 
 Nome: GUILHERME SANDLER
-Votos: 12
+Votos: 13
 Link: https://github.com/Guile09-max/teste/blob/main/Agentes_culturais.ipynb
 Descrição: esse é um teste inacabado, foi onde cheguei às 23:53h de 17/05
 Usuário: guile_09
@@ -79,7 +79,7 @@ Usuário: guile_09
 ---
 
 Nome: Leandro Bitencourt Filgueira
-Votos: 8
+Votos: 10
 Link: https;//github.com/leadrobit/agente-pura-diversao
 Descrição: Agente de IA que te ajuda a encontrar o melhor entretenimento para você!!!
 Usuário: Leandro Filgueira
@@ -87,7 +87,7 @@ Usuário: Leandro Filgueira
 ---
 
 Nome: Pablo Ribeiro
-Votos: 26
+Votos: 27
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -103,7 +103,7 @@ Usuário: leon.cardi
 ---
 
 Nome: Regiane Ribeiro
-Votos: 15
+Votos: 16
 Link: https://github.com/regihagn/MeuCompanheiroDigital
 Descrição: "Meu Companheiro Digital" é uma solução de IA, concebida para capacitar a população sênior, ajudando-os a manter a sua independência e qualidade de vida. Este sistema vestível utiliza uma abordagem de múltiplos agentes de IA para fornecer assistência personalizada, proativa e contínua. Ao monitorar a saúde do usuário, fornecer lembretes e facilitar a comunicação com cuidadores e familiares, "Meu Companheiro Digital" não é apenas um dispositivo de assistência, mas um companheiro digital que promove o envelhecimento ativo e seguro.
 Usuário: Regiribeiro
@@ -111,7 +111,7 @@ Usuário: Regiribeiro
 ---
 
 Nome: Douglas Floriano
-Votos: 19
+Votos: 21
 Link: https://github.com/dougfani/horta_inteligente/tree/main
 Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
 Usuário: doug27fani
@@ -119,7 +119,7 @@ Usuário: doug27fani
 ---
 
 Nome: Rodrigo dos Santos
-Votos: 14
+Votos: 15
 Link: github.com/Rodrigo-dosSantos/VivaCare
 Descrição: Assistente VivaCare 💚  Um assistente conversacional inteligente para pacientes e cuidadores de transplante de órgãos. Sobre o Projeto Este projeto é um chatbot desenvolvido com Inteligência Artificial Generativa (Google Gemini) e o framework Streamlit para criar uma interface gráfica amigável. O objetivo é fornecer informações acessíveis e de apoio a pessoas que passaram ou estão passando por um processo de transplante de órgãos, como pacientes, familiares e cuidadores.
 Usuário: rodrigo_dos_santos
@@ -127,7 +127,7 @@ Usuário: rodrigo_dos_santos
 ---
 
 Nome: Rodrigo Furtile
-Votos: 31
+Votos: 32
 Link: https://github.com/Furtile-Rodrigo/projeto_imersao_Alura
 Descrição: RPG no dia a dia para crianças e jovens neurotípicos
 Usuário: furtile27
@@ -151,7 +151,7 @@ Usuário: rmrosi_89120
 ---
 
 Nome: Davi Leite
-Votos: 12
+Votos: 13
 Link: https://github.com/davijleite/Projeto_Desafio_Alura_Google
 Descrição: Facilitador e Buscador de contatos para Idosos!
 Usuário: davileite4414
@@ -159,7 +159,7 @@ Usuário: davileite4414
 ---
 
 Nome: Thomas Yuiti Yano
-Votos: 8
+Votos: 9
 Link: https://github.com/Thomas-Yano/Projeto_Alura.git
 Descrição: Sistema de Geração de Conteúdo Automatizado com Agentes
 Usuário: Yuu
@@ -175,7 +175,7 @@ Usuário: menorlk_59278
 ---
 
 Nome: Thiago Waldowski Ralha
-Votos: 9
+Votos: 10
 Link: https://github.com/twralha/imersao-alura-gemini
 Descrição: Agente para sugerir locais a serem visitados com base em um local inicial e uma descrição de interesses do usuário.
 Usuário: twralha
@@ -191,7 +191,7 @@ Usuário: _josuemonteiro
 ---
 
 Nome: Dérick Firmino da Silva
-Votos: 14
+Votos: 16
 Link: 8a8fe2a9823869232a57f9affc3cdc0c216e7fbc
 Descrição: Meu projeto é um Agente de IA professor. Escolhi esse projeto porque eu gosto muito de estudar usando IA, e, sempre que eu recomendava o uso de IA pra algum amigo, eles diziam não ter tido uma boa experiência nessas interações com IA. Os tópicos de reclamações eram sempre os mesmos, respostas muito longas; dificuldade de manter uma linha de estudos; alucinações com o decorrer do tempo; erros em algumas respostas e por ai vai. Tendo isso em vista, preparei e elaborei um professor, que fosse pré-definido para não cometer esses erros e mais, trazer uma didática e dinâmica no ensino que seja fluida e eficiente. Dividido em 5 chat-bots internos: (Chat-Bot_1, analisa seu prompt, identifica qual ou quais os temas que você deseja aprender e qual tipo de comando você enviou (pergunta, explicação, resumo…), identifica qual a profundidade da resposta que você espera e reformula seu prompt baseado na análise de desse conteúdo que ele coletou e estruturou em três etapas que eu as chamei de “tarefas”; Chat-Bot_2, esse rece
 Usuário: dk7845
@@ -199,7 +199,7 @@ Usuário: dk7845
 ---
 
 Nome: Gabriel Henrique Carvalho
-Votos: 9
+Votos: 10
 Link: https://github.com/gabriel-hc-dev/duvida-zero-alura
 Descrição: O projeto "Dúvida Zero" é um agente inteligente desenvolvido durante a Imersão IA da Alura que simplifica textos complexos usando a API do Google Gemini. Ele identifica se o texto está completo, classifica sua área de conhecimento (como jurídico, científico, filosófico etc.) e oferece uma explicação acessível e didática em linguagem simples. Além disso, conta com agentes auxiliares que sugerem sinônimos mais fáceis e fazem perguntas ao usuário quando o texto está incompleto. Essa ferramenta é extremamente relevante por democratizar o acesso ao conhecimento, tornando conteúdos técnicos compreensíveis para qualquer pessoa — e por isso, merece seu voto!
 Usuário: goufinho_
@@ -207,7 +207,7 @@ Usuário: goufinho_
 ---
 
 Nome: Darah Esperança Leal
-Votos: 10
+Votos: 11
 Link: https://github.com/darahesp/posts_si_awareness
 Descrição: Comunicações de Awareness de Cibersegurança (Como se proteger):Em um cenário digital cada vez mais dinâmico, novos golpes, fraudes e ataques de cibersegurança surgem todos os dias. Muitas empresas, no entanto, enfrentam limitações orçamentárias que dificultam o investimento contínuo em campanhas de conscientização. Pensando nisso, desenvolvemos um agente de inteligência artificial capaz de buscar automaticamente as notícias mais recentes sobre ameaças cibernéticas e transformá-las em conteúdos informativos e acessíveis para serem divulgados nos canais de Security Awareness corporativos.
 Usuário: katrinesp
@@ -215,7 +215,7 @@ Usuário: katrinesp
 ---
 
 Nome: Aidê Figueiredo Passos
-Votos: 8
+Votos: 9
 Link: https://github.com/aidepassos/agenda-ia
 Descrição: Secretária IA que faz agendamento automatizado.
 Usuário: aide2218
@@ -223,7 +223,7 @@ Usuário: aide2218
 ---
 
 Nome: Maria Julia Elias
-Votos: 9
+Votos: 10
 Link: https://github.com/mariajuliae/imersao_alura_google_gemini
 Descrição: Implementando Projeto Agente de IA sobre LUdopatia
 Usuário: mariajuliae
@@ -231,7 +231,7 @@ Usuário: mariajuliae
 ---
 
 Nome: Otelo Santos Lucio Andrade
-Votos: 10
+Votos: 11
 Link: https://github.com/OteloSantos/Imersao-Alura?tab=readme-ov-file#readme
 Descrição: Sistema de Informação e Apoio para Famílias com Síndromes Raras
 Usuário: otelosantos
@@ -239,7 +239,7 @@ Usuário: otelosantos
 ---
 
 Nome: Pamela Fernandes Nilo
-Votos: 8
+Votos: 9
 Link: https://github.com/Pamela120609/Projeto-Imers-o-IA-Alura-Google-Gemini
 Descrição: Sabe aquela sensação de ter muita coisa pra fazer e pouco tempo? Ou quando você quer fazer algo legal, mas não sabe nem por onde começar ou quando encaixar na agenda? Meu assistente nasceu pra isso! Ele é um parceiro inteligente que te ajuda a organizar seus compromissos e ainda dá umas sacadas e sugestões personalizadas pra te deixar no controle e com mais bem-estar.
 Usuário: pamela_70802
@@ -247,7 +247,7 @@ Usuário: pamela_70802
 ---
 
 Nome: Jose Enoque Costa de Sousa
-Votos: 9
+Votos: 10
 Link: https://github.com/ESousa97/readme-generate
 Descrição: O Gerador de README.md Inteligente é uma aplicação desktop que utiliza a API do Google Gemini para automatizar a criação de arquivos README.md para projetos de software. Ele analisa os arquivos do projeto fornecidos em um arquivo .zip e usa a IA para gerar uma documentação inicial completa e bem estruturada. Ele cria até mesmo a estrutura de pastas no Readme.
 Usuário: xfuuuuuuuuuury97
@@ -263,7 +263,7 @@ Usuário: luiza_37776
 ---
 
 Nome: Diogo Santoro Costa da Silva
-Votos: 9
+Votos: 10
 Link: https://github.com/diogoscsilva/Agentes_Gemini_Fibromialgia.git
 Descrição: Projeto para linkar vídeos profissionais e portadores de fibromialgia para auxílio no alívio dos sintomas.
 Usuário: Diogosantoro
@@ -287,7 +287,7 @@ Usuário: dbsanches
 ---
 
 Nome: Camila Forlin Cavalcanti
-Votos: 9
+Votos: 10
 Link: https://github.com/CamilaForlin22/7DaysofCode/blob/main/JogoDeVestir.ipynb
 Descrição: Apesar de não ter conseguido finalizar por falta de tempo o projeto essa minha ideia visa corrigir o problema de alimentação das ias, para que no futuro elas recebam sempre conteudos novos criados por humanos, usei uma imagem da internet mas a intenção é que pessoas coloquem seus artesanatos e que caso vire um jogo maior possam alimentar também com suas vozes, faces e criar uma versão sua e de suas coisas de maneira virtual. Se for atrelado às redes sociais ainda isso pode acabar virando um jogo multiplayer.
 Usuário: CamilaForlin22
@@ -391,7 +391,7 @@ Usuário: thallesoliveira2221
 ---
 
 Nome: Davi Santana Grilo
-Votos: 8
+Votos: 9
 Link: https://github.com/DaviGrilo/SABIA.git
 Descrição: Sabiá é um assistente de estudos construídos com Flask e Bootstrap , que utiliza Inteligência Artificial (via API Gemini) para gerar recomendações personalizadas de estudo. Organize seus assuntos, crie um cronograma e receba dicas inteligentes para estudar melhor.
 Usuário: Grilo_Bigodudo
@@ -543,7 +543,7 @@ Usuário: rodolfoemmel_56117
 ---
 
 Nome: Francisco Gabriel
-Votos: 22
+Votos: 23
 Link: https://github.com/PouDev/Projeto-Caderno-de-Dividas-IA
 Descrição: Meu projeto é um Caderno de Dividas com integração IA de fácil uso, feito pra uso real por qualquer pessoa. Ele foi feito pensando em resolver um problema real!! O problema que meu pai enfrenta ao trabalhar numa loja pequena e ter anotar e calcular um monte de dívidas manualmente, o Caderno de Dividas virtual foi feito pra guardar informações detalhadas sobre as dividas e fazer contas de forma rapida
 Usuário: imgabow
@@ -1359,7 +1359,7 @@ Usuário: mundodevictor
 ---
 
 Nome: Wandry Moura
-Votos: 7
+Votos: 8
 Link: https://github.com/info1atual/desafio-alura-imersao-ia
 Descrição: Sugestão de Filmes para Posts
 Usuário: wandrymoura
@@ -5183,7 +5183,7 @@ Usuário: crazecraft
 ---
 
 Nome: Mário Lúcio
-Votos: 26
+Votos: 27
 Link: https://github.com/marioluciofjr/procurando_vaga
 Descrição: Este projeto utiliza um sistema de múltiplos agentes para auxiliar usuários na busca por vagas de emprego na área de tecnologia. O usuário insere suas informações e preferências de carreira, e quatro agentes especializados entram em ação: Carlos Acha (recrutador), Sofia Leme (mentora de carreira), Laura Code (professora tech) e Hash Tag (especialista em LinkedIn). Cada agente contribui com sua expertise, desde a busca inicial de vagas até dicas de estudo, soft skills, hard skills e otimização do perfil no LinkedIn para aumentar as chances de sucesso da pessoa candidata.
 Usuário: marioluciofjr
@@ -6391,7 +6391,7 @@ Usuário: Fabuilds
 ---
 
 Nome: Henry Santana Souza
-Votos: 6
+Votos: 7
 Link: https://github.com/ZHenryZ/imersao-ia-backlog-gemini
 Descrição: O 'Gaming Backlog' é um projeto desenvolvido durante a Imersão Alura em Inteligência Artificial com o Google Gemini, com o objetivo de criar uma solução inteligente para organizar e gerenciar a crescente lista de jogos pendentes dos jogadores. Utilizando o poder do Google Gemini para refinar a busca de informações de jogos através da API do IGDB, o projeto permite aos usuários encontrar detalhes como nome, desenvolvedora, publisher, data de lançamento, plataformas e capa dos jogos de forma eficiente. As informações coletadas são então organizadas de maneira intuitiva em uma planilha do Google Sheets, facilitando o acompanhamento do backlog, a definição de prioridades e o registro do progresso nos jogos. O projeto demonstra a aplicação prática da IA para otimizar tarefas cotidianas dos entusiastas de jogos, oferecendo uma ferramenta útil e personalizada para gerenciar sua jornada gamer.
 Usuário: s_henry_s
@@ -6471,7 +6471,7 @@ Usuário: cristiano_60368
 ---
 
 Nome: Marcio
-Votos: 5
+Votos: 6
 Link: https://github.com/Pilotmiranda/Controle-de-viagem/blob/main/Pilotmiranda%20(1).ipynb
 Descrição: Controle de dias em viagem à trabalho dos funcionários de uma empresa
 Usuário: marmiran79_06521
@@ -6927,7 +6927,7 @@ Usuário: igod99
 ---
 
 Nome: Raul Marcos da Rocha
-Votos: 14
+Votos: 16
 Link: https://github.com/raulrocha/reporta-ai-prototipo
 Descrição: O "Reporta Aí" é um protótipo de aplicativo cívico inovador que utiliza o poder da Inteligência Artificial para simplificar e otimizar o processo de reporte de problemas urbanos
 Usuário: raulmrocha
@@ -7079,7 +7079,7 @@ Usuário: cfranco3133
 ---
 
 Nome: Douglas Gomes Modesto
-Votos: 6
+Votos: 7
 Link: https://github.com/dgmodesto/ai-find-job-flow
 Descrição: Este projeto tem como missão ajudar pessoas em busca de novas oportunidades de carreira usando uma abordagem inteligente, automatizada e empática. Por meio de múltiplos agentes integrados, conseguimos realizar buscas de vagas, analisar empresas e gerar dicas personalizadas para entrevistas — tudo isso em poucos minutos.
 Usuário: douglas_modesto
