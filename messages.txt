@@ -55,7 +55,7 @@ Usuário: rahmai
 ---
 
 Nome: Luis Henrique Figueiredo Germano
-Votos: 9
+Votos: 12
 Link: https://github.com/Dev-Ls-07/Projeto_Canvas/tree/main
 Descrição: É um Projeto sobre o Modelo De Negócios Canvas
 Usuário: ls04936
@@ -567,7 +567,7 @@ Usuário: Levy
 ---
 
 Nome: Felipe Coelho Ribeiro Da Silva
-Votos: 14
+Votos: 17
 Link: https://github.com/feelps04/consultaPsiquiatra
 Descrição: Este projeto oferece uma experiência interativa e imersiva focada na sensibilização sobre a saúde mental e na desmistificação da busca por ajuda profissional.  A jornada começa em um menu de personalização, onde o usuário pode criar um avatar escolhendo gênero e cor de pele. Além disso, o usuário insere dados básicos como nome, idade, peso e altura, que são utilizados para tornar a experiência mais pessoal. Uma breve interação com uma IA de boas-vindas no menu introduz o tom acolhedor do projeto.  Após a personalização, o usuário inicia uma simulação visual da entrada em um hospital psiquiátrico. O avatar criado move-se pelo cenário, aproximando-se da entrada do hospital.  O ponto central da simulação é a interação via chat com uma Inteligência Artificial. Esta IA, que pode assumir o papel de uma enfermeira de triagem ou de um especialista (psicólogo/psiquiatra), guia o usuário através de uma conversa, abordando temas relacionados à saúde mental de forma empática e informativa. O estilo da conversa (curta ou
 Usuário: coelhos347609
@@ -823,7 +823,7 @@ Usuário: mgino.br
 ---
 
 Nome: Marconi Abou Dehn da Silva Filho
-Votos: 10
+Votos: 11
 Link: https://github.com/Marconiadsf/Especialista-QGIS
 Descrição: 🎯 [PROJETO: QGis Especialista] – GIS para Todos, Salvando Vidas com Tecnologia 🌍  Você já parou pra pensar que um simples mapa temático pode salvar vidas?  O QGis Especialista nasce com uma missão clara: democratizar o uso de ferramentas de geoprocessamento (GIS) para profissionais de diversas áreas, com um olhar especial para quem atua na gestão de riscos urbanos e emergências climáticas.  🔴 Por que isso é urgente?  Todos os anos, tragédias causadas por chuvas intensas, deslizamentos e enchentes levam vidas e afetam comunidades inteiras. Muitos desses eventos poderiam ser evitados ou mitigados com acesso rápido a informações geográficas claras e atualizadas.  💡 Com o QGis Especialista, agentes públicos, engenheiros, geólogos e outros profissionais poderão gerar relatórios e mapas temáticos em poucos cliques, com mais agilidade, precisão e — o melhor — sem custos elevados com softwares proprietários.
 Usuário: marconi2744
@@ -895,7 +895,7 @@ Usuário: Anderson Lucas
 ---
 
 Nome: Pedro
-Votos: 6
+Votos: 8
 Link: https://github.com/Ancelotti-Dev/Imersao-Alura-google
 Descrição: O "Mentor do Futuro" é uma ferramenta inovadora que utiliza inteligência artificial para auxiliar usuários na descoberta de seus caminhos profissionais. Ao inserir uma profissão ou área de interesse, o sistema oferece insights valiosos sobre trajetórias de carreira, valores associados e outras informações relevantes para a orientação profissional.
 Usuário: ph_ancelotti
@@ -2207,7 +2207,7 @@ Usuário: esa1715
 ---
 
 Nome: Bruno Oliveira
-Votos: 4
+Votos: 5
 Link: https://github.com/bcnoliveira/escutai
 Descrição: Chatbot inteligente e empático que utiliza 4 multi agentes AI. Ele recebe a idade e a mensagem de como a pessoa está se sentindo, identifica sua emoção e responde com acolhimento e empatia, oferecendo conteúdo extra de vídeo reconfortante. Em casos mais graves, aconselha diretamente o CVV - Centro de Valorização da Vida
 Usuário: bcnoliveira_47129
@@ -3311,7 +3311,7 @@ Usuário: tatibistulfi
 ---
 
 Nome: Rodrigo Santos de Freitas
-Votos: 6
+Votos: 7
 Link: https://github.com/rsfreitas93/projeto-imersao-alura-google
 Descrição: Cansado de gerenciar seu bem-estar em mil lugares? Conheça o Assistente de Bem Estar! O app que usa IA (Google Gemini) para ser seu hub inteligente de saúde. Integre sono, nutrição, fitness, mente e mais. Receba insights e assistência personalizada para simplificar sua jornada de bem-estar. Descubra como ter sua saúde na palma da mão!
 Usuário: piruba
@@ -4103,7 +4103,7 @@ Usuário: melus_dev
 ---
 
 Nome: Gabrielle de Azevedo Lima
-Votos: 7
+Votos: 6
 Link: https://github.com/gabriellealima/chatbot-combate-fake-news
 Descrição: O Nice Chatbot é um projeto que nasceu da vontade de criar uma solução prática para um problema real: a crescente vulnerabilidade do público idoso à desinformação online. Utilizando a IA Gemini, o chatbot foi desenvolvido para analisar notícias e responder a perguntas de forma clara, amigável e confiável, oferecendo um porto seguro em meio ao turbilhão de informações da internet.  **Explore a apresentação completa e participe da votação:** https://www.canva.com/design/DAGnuOdxo74/PQAbVoyRF6JzYYPnitoh7Q/view?utm_content=DAGnuOdxo74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd527a54f2
 Usuário: gabrielle_alima
@@ -5231,7 +5231,7 @@ Usuário: DouglasRustiguelli
 ---
 
 Nome: Felipe Meira Macedo
-Votos: 7
+Votos: 9
 Link: https://github.com/meirameirameira/Gerador-Agente-IA/tree/main
 Descrição: Crie agentes de IA com facilidade! Este projeto utiliza uma cadeia de agentes inteligentes para gerar ideias, planejar, resumir e fornecer tutoriais detalhados (com código Python) sobre como construir agentes de IA a partir de qualquer tópico, ideal para iniciantes e entusiastas.
 Usuário: meirafelipe
@@ -5295,7 +5295,7 @@ Usuário: abdiel0492
 ---
 
 Nome: vitor santos
-Votos: 7
+Votos: 8
 Link: https://github.com/engvittorsanttos/projeto-gemini-alura
 Descrição: ExplorAI representa uma evolução na forma como as pessoas descobrem e vivenciam atividades físicas ao ar livre. Trata-se de um sistema inteligente e intuitivo, impulsionado por uma arquitetura de múltiplos agentes de inteligência artificial, meticulosamente projetado para gerar rotas personalizadas de caminhada e corrida. Nosso objetivo é transcender as limitações das opções genéricas, oferecendo percursos que se alinham precisamente com as necessidades, preferências e o espírito explorador de cada usuário.  No coração do ExplorAI reside um processo colaborativo entre quatro agentes de IA especializados, cada um desempenhando um papel crucial na criação da rota perfeita:  O Explorador Digital (Agente Buscador de Informações de Rotas): Este agente atua como um detetive digital, vasculhando vastos oceanos de informação online. Ao receber a localização do usuário e suas preferências detalhadas (distância desejada, nível de dificuldade, tipo de terreno – plano, montanhoso, trilha – e preferências de paisagem – ur
 Usuário: vitorsantos8639
@@ -5351,7 +5351,7 @@ Usuário: danilocoelho_95035
 ---
 
 Nome: vitor carvalho dos santos
-Votos: 4
+Votos: 6
 Link: https://github.com/engvittorsanttos/projeto-alura-gemini
 Descrição: Este projeto desenvolve um sistema inteligente e automatizado para a criação de laudos periciais na área de Engenharia Civil. Através da orquestração de quatro agentes especializados, o sistema é capaz de:  Buscar e analisar decisões judiciais recentes: O "Agente Buscador" utiliza mecanismos de busca para identificar casos relevantes de laudos periciais aceitos e rejeitados nos tribunais, com foco em decisões dos últimos cinco anos. O objetivo é extrair padrões técnicos, erros comuns e boas práticas que influenciam a aceitação judicial de laudos.  Planejar a estrutura e o conteúdo do laudo: O "Agente Planejador" utiliza as informações coletadas pelo agente buscador, juntamente com pesquisas adicionais, para elaborar um plano detalhado para o laudo pericial. Este plano define o escopo da avaliação, a metodologia a ser utilizada (como o método comparativo ou evolutivo para avaliação imobiliária), identifica as partes envolvidas, descreve o imóvel em detalhes e estabelece os pontos técnicos cruciais a serem inve
 Usuário: vitorsantos8639
@@ -5887,7 +5887,7 @@ Usuário: _bigpope
 ---
 
 Nome: Gabriel Schulz
-Votos: 4
+Votos: 5
 Link: https://github.com/gabrielwork28/schulz-smart-app
 Descrição: Olá, equipe da Alura!  Meu nome é Gabriel e é um prazer apresentar a vocês o meu projeto da Imersão IA: o SCHULZ SMART. Eu desenvolvi esta aplicação em Python com o framework Flask para gerar planos de negócio inteligentes, utilizando o poder da inteligência artificial da API Google Gemini. Foi uma experiência de muito aprendizado e estou entusiasmado em compartilhar o resultado do meu trabalho.  O Que o SCHULZ SMART Faz e Como Ele Ajuda Esta aplicação se destaca por sua capacidade de transformar uma ideia inicial de negócio em um documento estratégico completo e bem estruturado. O SCHULZ SMART funciona recebendo informações básicas do usuário sobre seu empreendimento — como o segmento, o produto ou serviço, e o público-alvo. Com base nesses dados, ele utiliza a inteligência artificial da Google Gemini para processar e gerar conteúdo para as seções essenciais de um plano de negócio.  O projeto ajuda empreendedores de diversas formas:  Economia de Tempo: Automatiza a parte mais demorada da escrita de um plano,
 Usuário: gabrielwork0184
@@ -6927,7 +6927,7 @@ Usuário: Katastrak
 ---
 
 Nome: Igor Henrique Ferreira da Rocha
-Votos: 5
+Votos: 6
 Link: https://github.com/Igor27F/SmartZapAttendant
 Descrição: O Smart Zap Attendant é um bot inteligente que automatiza o atendimento ao cliente diretamente no WhatsApp, integrando a API oficial da Meta com a IA generativa Gemini, da Google.  Projetado para pequenos e médios negócios, o bot oferece respostas personalizadas com base no contexto do negócio, histórico de interações e preferências do cliente. Tudo isso de forma prática e acessível, sem exigir conhecimento técnico avançado.
 Usuário: igod99
@@ -6975,7 +6975,7 @@ Usuário: djonathankaiper
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 6
+Votos: 7
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
@@ -7071,7 +7071,7 @@ Usuário: Fabuilds
 ---
 
 Nome: DIEGO DE MORAES PEREIRA SONNENTHAL
-Votos: 4
+Votos: 5
 Link: https://github.com/DSid2024/simulacao_juridica.git
 Descrição: IA-Mestra ⚖️: Seu simulador de processos judiciais da petição inicial até a sentença com multiagentes IA (Juiz, Advogados) by Gemini! Insira seu caso real ou peça para os agentes criarem um caso fictício, com sugestões de direito e leis aplicáveis, petições feitas com RAG, resumo e análise de sentenças, c/ busca de jurisprudência e geração de resumo e ementa no padrão CNJ. Aproveite, seja você leigo, estudante de Direito ou advogado. Apoiando a ODS 16/ONU e o acesso à justiça para a população, estudantes e advogados. Para mais informações, acesse o README no repo (GitHub), veja o Video Pitch em https://youtu.be/BhHUIHstGKg?si=TTxu1AIDXFD3I6EM  e experimente o projeto rodando com streamlit no site  https://dsid2024-simulacao-juridica-main-app-2cxrtg.streamlit.app/
 Usuário: diegosonnenthal_92249
@@ -7079,7 +7079,7 @@ Usuário: diegosonnenthal_92249
 ---
 
 Nome: Cristiano Franco
-Votos: 10
+Votos: 11
 Link: https://github.com/infofranco2005/googleAlexaAI
 Descrição: integração da Alexa com Goole Gemini , onde eu usei o projeto em pyton para que consiga fazer essa interface
 Usuário: cfranco3133
@@ -7087,7 +7087,7 @@ Usuário: cfranco3133
 ---
 
 Nome: Douglas Gomes Modesto
-Votos: 4
+Votos: 5
 Link: https://github.com/dgmodesto/ai-find-job-flow
 Descrição: Este projeto tem como missão ajudar pessoas em busca de novas oportunidades de carreira usando uma abordagem inteligente, automatizada e empática. Por meio de múltiplos agentes integrados, conseguimos realizar buscas de vagas, analisar empresas e gerar dicas personalizadas para entrevistas — tudo isso em poucos minutos.
 Usuário: douglas_modesto
@@ -7095,7 +7095,7 @@ Usuário: douglas_modesto
 ---
 
 Nome: Angélica Alves Viana
-Votos: 16
+Votos: 15
 Link: https://github.com/angelica-ti/project-avia.git
 Descrição: No cenário digital atual, garantir que websites e aplicações sejam acessíveis é mais do que uma exigência legal ou uma boa prática; é um imperativo para a inclusão de milhões de pessoas. No entanto, a complexidade das diretrizes de acessibilidade, como a WCAG 2.2, pode representar um desafio significativo para desenvolvedores, designers e equipes que buscam construir ambientes online verdadeiramente universais.  É para atender a essa necessidade que surge o AVIA (Accessible Virtual Interface Assistant).  AVIA é uma assistente virtual especializada em acessibilidade digital, criada especificamente para apoiar desenvolvedores, designers e equipes no processo de construção de uma web mais inclusiva. A missão do AVIA é descomplicar as complexas diretrizes da WCAG 2.2, transformando um documento técnico em um diálogo prático e acionável.  Funcionando como uma ferramenta de suporte inteligente, AVIA permite que desenvolvedores, designers e equipes tirem dúvidas em tempo real sobre critérios de acessibilidade especí
 Usuário: angelica_viana
@@ -7103,7 +7103,7 @@ Usuário: angelica_viana
 ---
 
 Nome: Ieda Ferreira Alves Flock
-Votos: 4
+Votos: 5
 Link: https://github.com/ieda-ia/imersao-ia-alura-gemini/blob/main/Imersao_IA_Alura_%2B_Google_Gemini_Projeto_Final_Agentes_IEDA.ipynb
 Descrição: O projeto é um agente que cria exercícios para treinamento e reabilitação cognitivos com exercícios de memorização, atenção e linguagem.
 Usuário: majestic_kitten_02755
@@ -7111,7 +7111,7 @@ Usuário: majestic_kitten_02755
 ---
 
 Nome: Leonardo Flach
-Votos: 5
+Votos: 6
 Link: https://github.com/leoflach/EcoScan-IA-Planeta-Sustentavel
 Descrição: EcoScan: Visão Inteligente para um Planeta Sustentável O EcoScan é uma solução revolucionária que utiliza inteligência artificial para transformar o modo como lidamos com nossos resíduos. Em um país onde apenas 3% do lixo é efetivamente reciclado, o EcoScan ataca diretamente a raiz do problema: a falta de conhecimento sobre descarte correto. Utilidade do Projeto O EcoScan oferece uma ferramenta prática e acessível que permite a qualquer pessoa identificar instantaneamente como descartar corretamente seus resíduos. Com uma simples foto, o usuário recebe instruções personalizadas, localiza pontos de coleta próximos e visualiza o impacto ambiental positivo de suas ações. Problema Real Resolvido O Brasil produz 79 milhões de toneladas de resíduos sólidos anualmente, com a maior parte indo para aterros sanitários ou lixões. A contaminação de materiais recicláveis por descarte incorreto impede que até 30% do potencial de reciclagem seja aproveitado. O EcoScan elimina a barreira do desconhecimento e facilita o desca
 Usuário: leonardoflach_49236
@@ -7119,7 +7119,7 @@ Usuário: leonardoflach_49236
 ---
 
 Nome: Denilson Correa
-Votos: 4
+Votos: 5
 Link: https://github.com/denilsonluan/Projeto-Diversidade
 Descrição: Oi Pessoas! Foi um prazer apreender com vocês. Meu projeto é voltado ao tema diversidade e inclusão! Que consiste em um chabot baseado na  personalidade da Vera Verão, aquela drag queen icônica da "Praça é Nossa", sabe?  Ele foi criado para ser seu guia divo no universo da diversidade corporativa que vai ajudar corporações a apreender sobre o tema em um formato dinâmico e inclusivo. Um abraço e espero que gostem!
 Usuário: ranniii
@@ -7127,7 +7127,7 @@ Usuário: ranniii
 ---
 
 Nome: Alexandre Freitas de Lima Pacheco
-Votos: 4
+Votos: 5
 Link: https://github.com/Alexandre-Pacheco/GolpeGuard-App
 Descrição: GolpeGuard é um sistema inteligente (Flask) para detectar mensagens de golpe. Combina um modelo de Machine Learning local com a precisão de IAs como GPT-4 e Gemini Pro. Aprende continuamente com o feedback do utilizador e dados externos, oferecendo uma API para classificação e retreinamento.
 Usuário: alexandrepacheco_97
@@ -7135,7 +7135,7 @@ Usuário: alexandrepacheco_97
 ---
 
 Nome: Maria Clara Cavalcante
-Votos: 6
+Votos: 7
 Link: https://github.com/ClaraCavalcant-One/BioAssist---Interface-de-Chatbot-
 Descrição: O projeto BioAssist será um chatbot integrado ao Google Workspace, desenvolvido para auxiliar usuários no gerenciamento de suas informações de saúde. Por meio de uma interface web intuitiva (HTML/CSS/JavaScript), o sistema permitirá que os usuários arquivem e consultem exames médicos via Google Sheets, além de agendarem ou localizarem compromissos de saúde no Google Calendar. A solução adotará uma arquitetura cliente-servidor, com backend em Python utilizando Flask ou Django. O backend interpretará as mensagens dos usuários, interagirá com as APIs do Google (Sheets e Calendar) e garantirá segurança por meio de autenticação OAuth 2.0. As principais funcionalidades incluirão: Arquivamento de exames médicos em planilhas do Google Sheets.   Agendamento de consultas e exames no Google Calendar.   Busca e recuperação de exames armazenados.   Consulta a compromissos médicos agendados.   O projeto encontra-se em fase de desenvolvimento, com foco na implementação das integrações com o backend, interpretação de linguag
 Usuário: Clara Cavalcante
@@ -7143,7 +7143,7 @@ Usuário: Clara Cavalcante
 ---
 
 Nome: Estevão Gonçalves
-Votos: 4
+Votos: 5
 Link: https://github.com/estevaorev/Agente-Coach-Espiritual-Pessoal-git
 Descrição: O CoachAI Espiritual é um assistente pessoal em formato de chatbot dedicado a oferecer suporte espiritual acessível e personalizado
 Usuário: estevaorev
@@ -7151,7 +7151,7 @@ Usuário: estevaorev
 ---
 
 Nome: Arthur Danielson Viana
-Votos: 6
+Votos: 7
 Link: https://github.com/ehoarthurr/DocGenius
 Descrição: DocGenius é um chatbot que consegue documentar e explicar seu código de maneira eficaz por meio de sua integração com Gemini!
 Usuário: ehoarthurr
@@ -7159,7 +7159,7 @@ Usuário: ehoarthurr
 ---
 
 Nome: Leonardo Flach
-Votos: 5
+Votos: 6
 Link: https://github.com/leoflach/EcoScan-IA-Planeta-Sustentavel
 Descrição: EcoScan: Visão Inteligente para um Planeta Sustentável O EcoScan é uma solução revolucionária que utiliza inteligência artificial para transformar o modo como lidamos com nossos resíduos. Em um país onde apenas 3% do lixo é efetivamente reciclado, o EcoScan ataca diretamente a raiz do problema: a falta de conhecimento sobre descarte correto. Utilidade do Projeto O EcoScan oferece uma ferramenta prática e acessível que permite a qualquer pessoa identificar instantaneamente como descartar corretamente seus resíduos. Com uma simples foto, o usuário recebe instruções personalizadas, localiza pontos de coleta próximos e visualiza o impacto ambiental positivo de suas ações. Problema Real Resolvido O Brasil produz 79 milhões de toneladas de resíduos sólidos anualmente, com a maior parte indo para aterros sanitários ou lixões. A contaminação de materiais recicláveis por descarte incorreto impede que até 30% do potencial de reciclagem seja aproveitado. O EcoScan elimina a barreira do desconhecimento e facilita o desca
 Usuário: leof9566
@@ -7167,7 +7167,7 @@ Usuário: leof9566
 ---
 
 Nome: Mayara Almeida Soares
-Votos: 5
+Votos: 6
 Link: https://github.com/Mayaralmeid23/guia-da-bolsa.git
 Descrição: O Guia da Bolsa é um assistente de investimentos com IA, projetado especialmente para quem está dando os primeiros passos na renda variável. Ele une educação financeira acessível, aconselhamento emocional e dados reais da Bolsa de Valores, em uma experiência de conversa leve e humanizada.  ✨ Diferenciais 🔍 IA com múltiplos agentes especializados O chat entende o que você precisa e ativa um agente com foco em:  Explicações simples de termos técnicos  Decisões conscientes sobre ativos  Apoio emocional para lidar com inseguranças financeiras  📈 Consulta de dados reais da B3 Com integração ao Yahoo Finance, o bot consegue trazer preços atualizados de ativos como PETR4, VALE3 e IVVB11 — tudo com uma linguagem que até quem nunca investiu entende.  🧭 Suporte para perfis iniciantes A conversa é adaptada para quem tem pouco dinheiro para investir, sente medo de perder e precisa de alguém para "pegar na mão" com empatia, sem julgamentos.  💬 Memória de curto prazo O chat lembra o que foi dito nas últimas interações,
 Usuário: mayaralmeid7198
@@ -7175,7 +7175,7 @@ Usuário: mayaralmeid7198
 ---
 
 Nome: Guilherme Solon de Menezes
-Votos: 4
+Votos: 5
 Link: https://github.com/solontec/ChatBot-Oratoria
 Descrição: O presente Trabalho tem como objetivo o desenvolvimento de um chatbot interativo, voltado ao apoio e aprimoramento da oratória de estudantes e usuários interessados em desenvolver habilidades de comunicação verbal. Utilizando tecnologias modernas como Python, Flask e banco de dados, o sistema foi construído para oferecer respostas inteligentes e contextualizadas, simulando uma conversa com um orientador de oratória.  A aplicação permite ao usuário interagir com o chatbot em tempo real por meio de uma interface web intuitiva, onde as mensagens são armazenadas em um banco de dados relacional com controle de sessões, permitindo um acompanhamento contínuo da evolução do usuário. O projeto também conta com um painel interativo, que poderá ser ampliado futuramente para fornecer estatísticas, histórico de aprendizado e sugestões personalizadas.Objetivo Principal:  Promover o desenvolvimento da oratória por meio de um ambiente digital acessível, amigável e automatizado, contribuindo para que os usuários se sintam mai
 Usuário: solonperfeito_98355
@@ -7183,7 +7183,7 @@ Usuário: solonperfeito_98355
 ---
 
 Nome: André Zavanella de Menezes
-Votos: 4
+Votos: 5
 Link: https://github.com/solontec
 Descrição: O meu projeto é constituido em um chatbot personalizado que vai auxiliar na oratória de alunos e maneiras de apresentação, a parte inicial foi realizada com filtros de palavras, como ele deve agir, e com um pequeno front-end que passa confiança na hora de aprender! O projeto irá auxiliar muito no desenvolvimento de postura, timidez e como os alunos podem se sair daqui para frente. Espero que gostem!
 Usuário: solonperfeito_98355
@@ -7191,7 +7191,7 @@ Usuário: solonperfeito_98355
 ---
 
 Nome: Matheus Audibert
-Votos: 10
+Votos: 12
 Link: https://github.com/matheusaudibert/projeto-aprova
 Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
 Usuário: grwx
@@ -7199,7 +7199,7 @@ Usuário: grwx
 ---
 
 Nome: Aline da Rocha Cardoso
-Votos: 4
+Votos: 5
 Link: https://github.com/arctecnologia/Agente-IA-AVDD
 Descrição: Este projeto abriga um sábio Oráculo de Dados, um agente de IA escrito em Python, destinado a desvendar os mistérios da performance do seu time de especialistas em dados. Alimentado pelas respostas de um Google Forms, o Oráculo consulta os registros ancestrais (sua planilha de respostas!) para tecer uma avaliação clara e perspicaz.
 Usuário: lilicatech
@@ -7207,7 +7207,7 @@ Usuário: lilicatech
 ---
 
 Nome: Gustavo Santos
-Votos: 5
+Votos: 6
 Link: https://github.com/Guhssantos/aurabem/tree/main
 Descrição: Aura Bem é um chatbot de Inteligência Artificial desenvolvido com o objetivo de oferecer um espaço seguro e acolhedor para que as pessoas possam expressar seus sentimentos, encontrar conforto e receber sugestões gentis de bem-estar. Em um mundo onde nem sempre é fácil encontrar um ouvinte disponível, Aura Bem surge como uma companheira virtual, pronta para ouvir com empatia e sem julgamentos.
 Usuário: guhssantos
@@ -7215,7 +7215,7 @@ Usuário: guhssantos
 ---
 
 Nome: Bruna Silva Dos Santos Pina
-Votos: 4
+Votos: 5
 Link: https://github.com/brubsant/gerenciador-lista_alura/
 Descrição: Este projeto foi desenvolvido com o objetivo de otimizar seu tempo e trazer mais praticidade para o seu dia a dia. Quantas vezes, ao ir ao supermercado, você acaba esquecendo de pegar algum item importante, ou até mesmo se perde tentando lembrar o que deveria comprar? Além disso, é fácil acabar fazendo compras por impulso e gastar mais do que o planejado, não é? Com essa ferramenta, você pode evitar essas situações, garantindo que os itens essenciais sejam comprados e que seu tempo e orçamento sejam bem aproveitados.
 Usuário: bruna_sant
@@ -7223,7 +7223,7 @@ Usuário: bruna_sant
 ---
 
 Nome: Laredo Nunes
-Votos: 4
+Votos: 6
 Link: https://github.com/laredonunes/geminai_2025.git
 Descrição: O Chatbot Universitário (EducAI) é um assistente virtual desenvolvido em Python e Flask, integrado à API Google Gemini, que auxilia estudantes brasileiros no processo de preparação para vestibulares e ENEM. O sistema injeta contexto temporal e notícias em tempo real, mantém histórico de conversas e utiliza cache para otimizar o desempenho. A interface, inspirada no estilo TikTok, é responsiva e voltada ao público jovem.
 Usuário: laredo_nunes
@@ -7231,7 +7231,7 @@ Usuário: laredo_nunes
 ---
 
 Nome: Samuel Bove Filiaci
-Votos: 6
+Votos: 7
 Link: https://github.com/samuelbovef/imersao-alura-google
 Descrição: Amiguinho de Jesus é um chatbot educativo que utiliza a IA de forma personalizada para guiar os pequenos em uma jornada lúdica, explorando conceitos essenciais como amor, caridade e fé. Ao adaptar a linguagem e o conteúdo para a faixa etária de 5 a 12 anos, e enriquecer a experiência com elementos do universo de Harry Potter, este projeto não apenas educa, mas também encanta e inspira a nova geração.  Mais do que um simples assistente virtual, Amiguinho de Jesus é um portal para um aprendizado interativo e verdadeiramente significativo. Ele responde às perguntas das crianças, compartilha histórias envolventes e as convida a refletir sobre os valores universais presentes em O Evangelho Segundo O Espiritismo e O Livro dos Espíritos. Cada interação é uma oportunidade de plantar uma semente de bondade, empatia e respeito, cultivando jovens mais conscientes e conectados com o mundo ao seu redor.  Este projeto é uma prova do poder da IA em criar experiências transformadoras e representa apenas o início de uma jorna
 Usuário: samuelbovef
@@ -7247,7 +7247,7 @@ Usuário: thiagoribeiro__
 ---
 
 Nome: Renato Pereira Quincalha
-Votos: 4
+Votos: 5
 Link: https://github.com/RNTrybusy/ecolook-app
 Descrição: O EcoLook é um aplicativo que visa ajudar usuários a encontrar alternativas de moda mais sustentável e lojas próximas que vendem roupas ecológicas ou de segunda mão. Utilizando a câmera do celular, o aplicativo escaneia uma peça de roupa, identifica o tipo de peça com a ajuda da inteligência artificial (Google Gemini Vision), sugere uma alternativa sustentável e busca lojas próximas usando dados do OpenStreetMap (gratuita, mas bastante inferior ao google maps).  Este projeto serve como uma prova de conceito para demonstrar a integração de IA de visão computacional, geolocalização e busca de dados de mapas em uma aplicação web progressiva, também tem um baita potencial pra fomentar o comércio de uma região.
 Usuário: rntrybusy
@@ -7255,7 +7255,7 @@ Usuário: rntrybusy
 ---
 
 Nome: Ana Clara Silva
-Votos: 3
+Votos: 4
 Link: https://github.com/BennieWolfChii/Ethos-
 Descrição: Este é um "projetinho" de chatbot que, apesar de modesto em tamanho, nasceu com uma ambição enorme: ajudar as pessoas a se comunicarem melhor! Sabemos que, às vezes, as palavras somem ou a gente não sabe como começar uma conversa, e é aí que nosso amigo bot entra em cena. A ideia é ser um facilitador, oferecendo sugestões, quebrando o gelo e tornando a interação mais leve e eficaz. Não temos a pretensão de revolucionar a comunicação mundial (ainda!), mas queremos dar uma força no dia a dia. Como diriam os mestres Mamonas Assassinas, "o importante é competir!" - e para a gente, o importante é "competir" com a dificuldade de comunicação, buscando sempre melhorar e conectar pessoas. É um trabalho em andamento, aprendendo e evoluindo a cada interação, mas feito com carinho e com o desejo sincero de ser útil. Experimente e veja como um "projetinho" pode fazer a diferença! Espero que no futuro, eu consiga fazer algo maior que isso!.
 Usuário: BennieWolf
@@ -7263,7 +7263,7 @@ Usuário: BennieWolf
 ---
 
 Nome: Marcio Luiz dos Santos Pereira
-Votos: 5
+Votos: 6
 Link: https://github.com/MarcioLuizBR/desafio_imersaoIA2025
 Descrição: HELPTEA é uma aplicação baseada em inteligência artificial que auxilia familiares de pessoas com Transtorno do Espectro Autista (TEA) a obterem informações confiáveis e acessíveis sobre temas diversos. O usuário digita uma dúvida ou tema de interesse, e o sistema consulta cinco agentes especializados — assistente social, jurídico, educacional, nutricional e psicológico — para oferecer respostas específicas. Em seguida, um agente redator consolida as respostas em um texto coeso e empático.
 Usuário: marcioluizbr
@@ -7271,7 +7271,7 @@ Usuário: marcioluizbr
 ---
 
 Nome: Caroline Fernandes Santos
-Votos: 5
+Votos: 6
 Link: https://github.com/carolinesantosss/esvaziamenteja
 Descrição: EsvaziaMenteJá 1.0 é a IA que organiza o caos mental com eficiência. Dê uma espiada e veja como a gente transforma "pensamentos aleatórios" em "próximos passos" (algo que seus projetos talvez precisem!). 😉
 Usuário: carolinesantosss
@@ -7279,7 +7279,7 @@ Usuário: carolinesantosss
 ---
 
 Nome: João Victor Lisboa Leal
-Votos: 4
+Votos: 5
 Link: https://github.com/JVLisboaL/AgenteDeConversa-o/tree/main
 Descrição: Neste projeto, criei um chatbot com múltiplas personalidades utilizando a API Gemini Pro da Google. Cada "personalidade" é um comportamento diferente do modelo, controlado por instruções de sistema (prompts) distintas. O usuário pode escolher entre elas via um menu interativo no terminal.  Esse projeto demonstra como a personalização de prompts pode criar experiências únicas com IA. Ao manipular o system_instruction, conseguimos simular diferentes comportamentos a partir do mesmo modelo base.
 Usuário: lisboasl
@@ -7287,7 +7287,7 @@ Usuário: lisboasl
 ---
 
 Nome: Tercio
-Votos: 4
+Votos: 5
 Link: https://github.com/t3rcio/cadernodigital
 Descrição: Uma aplicação desktop desenvolvida em Python com uma interface gráfica criada usando Tkinter. Ele permite ao usuário selecionar um arquivo de imagem, fornecer um prompt opcional e enviar a imagem para a API do Google Gemini para realizar a extração de texto (OCR).
 Usuário: t3rcio
@@ -7295,7 +7295,7 @@ Usuário: t3rcio
 ---
 
 Nome: Anderson Cunha
-Votos: 5
+Votos: 6
 Link: https://github.com/acch2019/projeto-alura-agentes
 Descrição: Análise de Currículos com Agentes de IA - A solução emprega três agentes de IA especializados: Assistente de Extração, que lê o currículo e coleta as informações essenciais, como dados de contato, formação, experiência e habilidades; Assistente de Validação, que verifica se as competências do candidato são relevantes para as áreas definidas pela empresa e Assistente de Resumo e Preparação, que gera um resumo do perfil do candidato e sugere perguntas focadas para condução de entrevistas mais eficazes.
 Usuário: anderson_30484
@@ -7303,7 +7303,7 @@ Usuário: anderson_30484
 ---
 
 Nome: Paulo Victor Rios Pinto
-Votos: 5
+Votos: 6
 Link: https://github.com/riosvictor/poc-workflow-ia
 Descrição: Este projeto demonstra a integração de Inteligência Artificial (Google Gemini) com fluxos de trabalho automatizados, permitindo que usuários iniciem processos através de comandos em linguagem natural.
 Usuário: paulo.rios
@@ -7311,7 +7311,7 @@ Usuário: paulo.rios
 ---
 
 Nome: Paulo Jarbas Camurça
-Votos: 4
+Votos: 5
 Link: https://github.com/PJarbas/laura
 Descrição: Laura é uma IA Mentora de carreira tech, com o objetivo de gerar um plano de desenvolvimento de carreira personalizado para cada usuário
 Usuário: jarbas_camurca
@@ -7319,7 +7319,7 @@ Usuário: jarbas_camurca
 ---
 
 Nome: Felipe Messias Alves Corrêa
-Votos: 4
+Votos: 5
 Link: https://github.com/felipemessiasalves/projetoalura
 Descrição: BuzzUrbano é o seu agente de IA pessoal que te entrega  a programação completa de qualquer lugar que você digitar. Descubra eventos, horários, serviços e muito mais, tudo em um só lugar, facilitando sua vida urbana.
 Usuário: messias
@@ -7327,7 +7327,7 @@ Usuário: messias
 ---
 
 Nome: Cleiton Moreira De Carvalho Junior
-Votos: 4
+Votos: 5
 Link: https://github.com/cleitonzila/LinkedInBoot/tree/main
 Descrição: Um gerador automático de posts para LinkedIn que cria conteúdo a partir dos seus certificados da Alura.
 Usuário: .kureito
@@ -7335,7 +7335,7 @@ Usuário: .kureito
 ---
 
 Nome: Maysa Gonçalves Nascimento dos Anjos
-Votos: 13
+Votos: 15
 Link: https://github.com/maysagoncalves29/imersao-alura2025.git
 Descrição: IncluiAI nasceu do amor pela minha avó, que tem baixa visão. Embora o aplicativo ainda esteja em desenvolvimento, meu propósito é claro: incluir pessoas idosas e com baixa visão no universo da tecnologia. Usando a API Gemini, criei um assistente digital que oferece dicas simples, acessíveis e acolhedoras, para que esses usuários se sintam mais seguros, conectados e valorizados no mundo digital.
 Usuário: maysa29
@@ -7343,7 +7343,7 @@ Usuário: maysa29
 ---
 
 Nome: Giovana Siqueira Santos
-Votos: 13
+Votos: 14
 Link: https://github.com/giovxna/educa.lab
 Descrição: EducaLab é a revolução no jeito de aprender usando IA. Combinando tecnologia de ponta com uma abordagem personalizada e divertida, o EducaLab transforma qualquer conteúdo complexo em explicações acessíveis, adaptadas ao tempo e estilo de cada pessoa.  Quer aprender como se tivesse 5 anos? Ou prefere aquele tom de fofoca entre amigos? O EducaLab entrega o conhecimento do seu jeito – rápido, direto e do jeito que você entende melhor.  Além disso, testa seu aprendizado com quizzes e ainda sugere cursos para ir além. Tudo isso com uma interface simples no Google Colab, rodando com o poder da API Gemini.  EducaLab é mais do que um projeto, é um laboratório de aprendizado inteligente. Vote em quem está colocando a inteligência artificial a serviço da educação de verdade.
 Usuário: epyphxny
@@ -7351,7 +7351,7 @@ Usuário: epyphxny
 ---
 
 Nome: ROBSON REIS
-Votos: 5
+Votos: 6
 Link: https://github.com/reisrf/DietaAjuda
 Descrição: ✨ Quer emagrecer de forma inteligente e sem complicação? 🤔 🏃‍♀️💨 Chega de esquecer as calorias! Apresento meu projeto de uma Auxiliar de Dietas com Inteligência Artificial! 🤖💬 📊 Com base nos seus dados (gênero, idade, altura, peso, atividade física e meta de perda de peso saudável), a IA calcula sua meta calórica diária personalizada. 🎯🍎 Você informa os alimentos e bebidas que consumiu e a IA vai calculando as calorias e somando. 📲 Imagine ter um chat inteligente te lembrando e te ajudando a não ultrapassar suas calorias! Menos preocupação e mais resultados! 💪✅ 💖 Vote no meu projeto e vamos juntos transformar a forma como as pessoas fazem dieta! Seu voto faz a diferença! 🙏🗳️
 Usuário: reisrf
