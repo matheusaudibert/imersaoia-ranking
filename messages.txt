@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 13
+Votos: 14
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -31,7 +31,7 @@ Usuário: ehrikr
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 9
+Votos: 10
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -543,7 +543,7 @@ Usuário: rodolfoemmel_56117
 ---
 
 Nome: Francisco Gabriel
-Votos: 10
+Votos: 11
 Link: https://github.com/PouDev/Projeto-Caderno-de-Dividas-IA
 Descrição: Meu projeto é um Caderno de Dividas com integração IA de fácil uso, feito pra uso real por qualquer pessoa. Ele foi feito pensando em resolver um problema real!! O problema que meu pai enfrenta ao trabalhar numa loja pequena e ter anotar e calcular um monte de dívidas manualmente, o Caderno de Dividas virtual foi feito pra guardar informações detalhadas sobre as dividas e fazer contas de forma rapida
 Usuário: imgabow
@@ -1383,7 +1383,7 @@ Usuário: Katita
 ---
 
 Nome: Rogério de Cerqueira Lario
-Votos: 4
+Votos: 5
 Link: https://github.com/rclario/Imersao_IA_Alura-GoogleGemini
 Descrição: A melhor oportunidade de trabalho para mim
 Usuário: Lario
@@ -4111,7 +4111,7 @@ Usuário: gabrielle_alima
 ---
 
 Nome: Luis Filipe
-Votos: 4
+Votos: 5
 Link: https://github.com/luisfilipebandeira/luis-travel-agent-ai/tree/main
 Descrição: Luis Travel é um assistente inteligente que cria roteiros de viagem personalizados em minutos, com base em preferências do usuário, orçamento e clima. Utiliza IA (Gemini 2 + Google Search) para gerar planos completos com passagens, hospedagem, atrações turísticas.
 Usuário: luisfilipe8057
@@ -4127,7 +4127,7 @@ Usuário: gtrindade_
 ---
 
 Nome: Itamar Iliuk
-Votos: 4
+Votos: 5
 Link: https://github.com/ItamarIliuk/autoagenda_adk
 Descrição: Este projeto implementa um agente de agendamento de manutenção automotiva utilizando o Google Agent Development Kit (ADK). O agente é capaz de:  Consultar o histórico de manutenção de veículos em uma planilha do Google Sheets Verificar horários disponíveis no Google Calendar Agendar novas manutenções, registrando na planilha e criando eventos no calendário Este projeto atende a demanda de um cliente específico, mas pode ser adaptado para outros casos de uso O agente foi encomendado pela AutoMecânica Glavão de Ponta Grossa - PR O projeto foi desenvolvido por Itamar Iliuk e é parte do meu portfólio de projetos. O projeto foi desenvolvido com o apoio do Google Cloud e do Google AI Studio, utilizando a API Gemini para processamento de linguagem natural. O projeto é uma demonstração de como integrar serviços do Google Cloud com um agente conversacional, utilizando o Google ADK para facilitar a construção e implementação do agente. O projeto é uma prova de conceito e pode ser expandido para incluir mais funcionalid
 Usuário: ita15
@@ -4159,7 +4159,7 @@ Usuário: edsonsilva_75162
 ---
 
 Nome: Cleisson Vieira Barbosa
-Votos: 4
+Votos: 6
 Link: https://github.com/kreyzon/ImersaoAluraIA/
 Descrição: Este projeto serve para auxiliar na organização de um evento como festas de casamento ou aniversários, buscando opções de locais e de tudo que essa festa precisa, fornecendo opções de locais e buffets e com um orçamento aproximado que irá precisar.
 Usuário: cleissonbarbosa
@@ -4615,7 +4615,7 @@ Usuário: zeddbr#2171
 ---
 
 Nome: Vitor Augusto Ungro
-Votos: 4
+Votos: 5
 Link: https://github.com/Zentalion/Concurso-Alura/
 Descrição: Um m projeto de agente de IA culinário para ajudar pessoas a encontrarer receitas boas, com uma ideia de quanto irão custar e seua valores nutricionais de uma maneira simples, saudável e divertida
 Usuário: vitorpsyknight
@@ -4623,7 +4623,7 @@ Usuário: vitorpsyknight
 ---
 
 Nome: Gabriela Muniz Telo Cahves
-Votos: 5
+Votos: 6
 Link: https://github.com/gabrielamtc/agentes-ia-imersao-alura/blob/main/README.md
 Descrição: Sextas feiras sempre são uma loucura aqui em casa! Com 2 crianças, clima mudando constantemente no Rio, e tantos eventos legais acontecendo... então decidi fazer o projeto de agentes de IA que me ajudem a planejar um fim de semana com as crianças. Fiz 3 agentes, cada um com sua responsabilidade, integrados ao Google Search, e fiz o tratamento de dados inseridos pelo usuário. Espero que vocês se divirtam com ele, assim como eu me diverti! :)
 Usuário: gabrielachaves_ivt
@@ -4631,7 +4631,7 @@ Usuário: gabrielachaves_ivt
 ---
 
 Nome: Ana Cristina Viana Campos
-Votos: 5
+Votos: 6
 Link: https://github.com/dranacampos/maeraiz
 Descrição: "Mãe Raíz" é um chatbot simples criado para apoiar mães empreendedoras, especialmente na Amazônia, a superarem os desafios do mundo digital.  O projeto utiliza o Método RESSOA para guiar essas mulheres na descoberta da essência de seus negócios, oferecendo uma ferramenta acessível e humanizada que simplifica o uso de tecnologias e impulsiona seu crescimento.  A IA auxilia na definição do propósito do negócio, proporcionando clareza, segurança e empoderamento para as mães empreenderem com sucesso.
 Usuário: Ana Campos
@@ -4639,7 +4639,7 @@ Usuário: Ana Campos
 ---
 
 Nome: Alexandre Munhnoz Puttomatti
-Votos: 3
+Votos: 4
 Link: https://github.com/AleMP-01/ChatBot-CySe
 Descrição: ChatBot CySe - Segurança Cibernética Help
 Usuário: NâoPossuoConta
@@ -4647,7 +4647,7 @@ Usuário: NâoPossuoConta
 ---
 
 Nome: JOSÉ CARLOS DA COSTA RETONDAR
-Votos: 4
+Votos: 5
 Link: https://github.com/jretondar-ART/agente-revis-o-livro.git
 Descrição: Agente de Revisão e Marketing de Livros.  Este agente foi desenvolvido utilizando o Google Colab com auxilio do Google Gemini e tem como função revisar livros para o autor e criar um resumo de Marketing.
 Usuário: josecarlos_92449
@@ -4655,7 +4655,7 @@ Usuário: josecarlos_92449
 ---
 
 Nome: Lucas Decreci
-Votos: 5
+Votos: 6
 Link: https://github.com/Lucasdecreci/Lucas-Decreci.git
 Descrição: Criei um chatbot que ajudar escolas a ensinar crianças de 09 a 12 anos sobre educação financeira.
 Usuário: Lucas Decreci
@@ -4663,7 +4663,7 @@ Usuário: Lucas Decreci
 ---
 
 Nome: Mariana Alves
-Votos: 4
+Votos: 5
 Link: https://github.com/marianaalvesbr/alura-ai-gemini
 Descrição: O DeclaraAI é um assistente desenvolvido em Python, utilizando o poder da Inteligência Artificial Generativa (Google Gemini) e o Google Agent Development Kit (ADK), para auxiliar você no processo de declaração do Imposto de Renda no Brasil.  Com o DeclaraAI, você pode obter informações atualizadas sobre as regras e prazos do IR para um determinado ano e, o mais importante, analisar automaticamente o texto de seus documentos financeiros (como informes de rendimento e notas fiscais) para identificar e listar dados cruciais que precisam ser declarados.  Simplifique a organização dos seus documentos e tenha um ponto de partida inteligente para preencher sua declaração com mais confiança!
 Usuário: marianaalvesbr
@@ -4671,7 +4671,7 @@ Usuário: marianaalvesbr
 ---
 
 Nome: Fabiano Rocha de Almeida
-Votos: 5
+Votos: 6
 Link: https://github.com/fabiuniz/yt-transcribe-ai.git
 Descrição: Extração de Áudio do YouTube e Processamento via IA
 Usuário: fabiano_67369
@@ -4679,7 +4679,7 @@ Usuário: fabiano_67369
 ---
 
 Nome: joseval eliziario de melo junior
-Votos: 4
+Votos: 5
 Link: https://github.com/junior-oss/Assistende-de-Recomendar-Notebooks.git
 Descrição: Sistema de recomendação de notebooks inteligente que utiliza agentes conversacionais com a API Gemini para entender as necessidades do usuário no Brasil, buscar opções relevantes, analisar reviews e apresentar a melhor recomendação de custo-benefício, com opções de comparação e resolução de dúvidas.
 Usuário: the10kkill
@@ -4687,7 +4687,7 @@ Usuário: the10kkill
 ---
 
 Nome: Henrique Yukio Ueda Tanaka Arai
-Votos: 4
+Votos: 5
 Link: https://github.com/HenriqueYukio/buscador-art-stico-ai
 Descrição: Projeto de assistente AI desenvolvido com Google Gemini para auxiliar no aprofundamento e enriquecimento de repertório artístico
 Usuário: usuario2018
@@ -4695,7 +4695,7 @@ Usuário: usuario2018
 ---
 
 Nome: Carlos Maurício Cerdeira
-Votos: 5
+Votos: 6
 Link: https://github.com/ccerdeira/Imers-o-IA-da-Alura
 Descrição: Guia turístico virtual com Gemini
 Usuário: cerd3867
@@ -4703,7 +4703,7 @@ Usuário: cerd3867
 ---
 
 Nome: Felipe Grisi
-Votos: 5
+Votos: 6
 Link: https://github.com/FelipeGrisi/ProjetoAluraIA.git
 Descrição: Trata-se de um gerador ou sugestor de playlists para Spotify (ou outro serviço de streaming) baseado em análise de estado afetivo/emocional do usuário.
 Usuário: fGrisi
@@ -4711,7 +4711,7 @@ Usuário: fGrisi
 ---
 
 Nome: Lara Rocha
-Votos: 3
+Votos: 4
 Link: https://github.com/Lara-Rock/Alura-IA#:~:text=Agente%20de%20Ana%CC%81lise%20Musical%20vs%20final.ipynb
 Descrição: Obs.: Usei as feAgente de análise musical para estudantes e músicos profissional, com foco em piano.
 Usuário: LaraRock
@@ -4719,7 +4719,7 @@ Usuário: LaraRock
 ---
 
 Nome: Arthur Santos Costa
-Votos: 3
+Votos: 4
 Link: https://github.com/arthurcostta/Agente-Financeiro-Pessoal-com-IA
 Descrição: Parceiro digital na jornada rumo à saúde financeira, equipado com a inteligência do modelo Gemini para oferecer insights verdadeiramente personalizados.
 Usuário: arthurcosta3973
@@ -4727,7 +4727,7 @@ Usuário: arthurcosta3973
 ---
 
 Nome: Harol Sthid Piravaguen
-Votos: 4
+Votos: 5
 Link: https://github.com/HaroldSthid/GeminiADKPracticeCOL.git
 Descrição: Este projeto nasceu da minha própria necessidade de trazer mais calma e estrutura para os nossos dias com a nossa filha Zoe, de 2 anos e 8 meses, enquanto minha esposa Liss e eu tocamos nossa startup em casa. Se você também busca uma forma mais inteligente e adaptável de gerenciar o dia a dia da sua família, você está no lugar certo!
 Usuário: haroldsthid
@@ -4735,7 +4735,7 @@ Usuário: haroldsthid
 ---
 
 Nome: Kelwin Henrique Matias Ferreira
-Votos: 3
+Votos: 4
 Link: https://github.com/KelwinHenrique/enem_for_everyone
 Descrição: 🚀 ENEM Para Todos Democratizando a Educação com IA | Plataforma Inteligente para o ENEM. ENEM Para Todos é uma plataforma educacional construída com Inteligência Artificial para transformar a forma como estudantes se preparam para o ENEM. Desenvolvida durante a Imersão IA da Alura, ela oferece:  Simulados personalizados com análise de desempenho em tempo real  Assistente educacional com IA para tirar dúvidas e aprofundar o estudo  Flashcards inteligentes com repetição espaçada  Pesquisa avançada com geração automática de conteúdo didático  🔍 Tecnologias: React, TypeScript, Firebase, Python, Flask, Google Gemini API  💡 Destaques:  Geração automática de questões, explicações e materiais de estudo via IA  Interação natural com chatbot tutor especializado (contexto, histórico e formatação rica)  Agentes autônomos para pesquisa, resumo e criação de flashcards  Totalmente gratuito, com foco na inclusão e equidade educacional  🎯 Missão: reduzir a desigualdade no acesso à educação de qualidade, oferecendo uma pre
 Usuário: kelwinhenrique
@@ -4743,7 +4743,7 @@ Usuário: kelwinhenrique
 ---
 
 Nome: Miguel Rodrigues Tomazini
-Votos: 4
+Votos: 5
 Link: https://github.com/migueltomazini/Descomplica-Web
 Descrição: "Este projeto, 'Descomplica Web', utiliza o poder da IA Google Gemini e do Google ADK para criar um chatbot conversacional com múltiplos agentes especialistas. Cada agente é focado em um tema tecnológico específico – desde segurança de senhas e análise de URLs até dicas de busca eficiente e explicação de jargões técnicos – visando fornecer respostas objetivas e úteis para um público jovem.
 Usuário: mto_2701
@@ -4751,7 +4751,7 @@ Usuário: mto_2701
 ---
 
 Nome: Erick Elber Borges Rodrigues
-Votos: 4
+Votos: 5
 Link: https://github.com/ErickElber/ChatMEI-Seu-Assistente-Inteligente-para-MEIs-e-Neg-cios-Sustent-veis?tab=readme-ov-file
 Descrição: O objetivo do ChatMEI é ser aquele parceiro inicial que conversa de forma simples sobre como abrir e gerenciar um MEI, especialmente com um olhar para negócios sustentáveis, ajudando a transformar boas ideias em empreendimentos conscientes e bem estruturados desde o começo.
 Usuário: Erick Elber
@@ -4759,7 +4759,7 @@ Usuário: Erick Elber
 ---
 
 Nome: Gleice Kelly Oliveira da Silva
-Votos: 3
+Votos: 4
 Link: https://github.com/gleicekelly13/Mentor-de-aspirantes-a-desenhistas
 Descrição: "Mentor de aspirantes a desenhistas" é um projeto interativo criado em Python com Jupyter Notebook que orienta iniciantes no mundo do desenho por meio de perguntas e respostas. A partir das preferências do usuário, o sistema oferece sugestões personalizadas de estilos artísticos, materiais e dicas práticas, tornando o aprendizado mais acessível, leve e motivador.
 Usuário: gleice_kelly
@@ -4767,7 +4767,7 @@ Usuário: gleice_kelly
 ---
 
 Nome: Luiz Alessandro Lopes Feitosa
-Votos: 4
+Votos: 5
 Link: https://github.com/alessandro-feitosa/contador-historIA/tree/master
 Descrição: Contador de HistorIA - IA para criar histórias junto com crianças, elas falam parte da história, ou cenários, ou situações e a IA vai montando uma história para ela, a criança pode continuar e ir aumentando a história, quando encerrar ela tem a possibilidade de gerar um PDF ou um arquivo de audio.
 Usuário: alessandrofeitosa
@@ -4775,7 +4775,7 @@ Usuário: alessandrofeitosa
 ---
 
 Nome: Samara Costa Gil
-Votos: 3
+Votos: 4
 Link: https://github.com/samaragil/samaragil89.git
 Descrição: Este modelo experimental usa seu histórico da Pesquisa. Alguns recursos não estão disponíveis. Certo, aqui está uma descrição completinha do nosso projeto Skin AI que você pode usar para enviar:  Skin AI: Seu Assistente Inteligente para Cuidados com a Pele  O projeto Skin AI é um assistente inteligente de cuidados com a pele desenvolvido para fornecer informações personalizadas e auxiliar os usuários a criar e gerenciar suas rotinas de skincare. Utilizando o poder da inteligência artificial do Google Gemini, o Skin AI emprega uma arquitetura baseada em quatro agentes distintos que trabalham em conjunto para entender as necessidades do usuário e oferecer a melhor experiência de cuidado com a pele.  Arquitetura do Sistema de Agentes:  O Skin AI é composto pelos seguintes agentes:  Agente de Busca e Informação: Este é o primeiro ponto de contato com a consulta do usuário. Sua função é buscar informações relevantes e atuais sobre o tipo de pele ou necessidade de cuidado especificada pelo usuário, utilizando a fer
 Usuário: samy_79576
@@ -4783,7 +4783,7 @@ Usuário: samy_79576
 ---
 
 Nome: Larissa Motta Carrara
-Votos: 4
+Votos: 5
 Link: https://github.com/LarissaCarrara/SINALIA/blob/main/README.md
 Descrição: O Projeto SINALIA é uma ferramenta essencial para quem quer aprender a se comunicar em Libras. Ele traduz frases, descreve os gestos para você e, o melhor de tudo, te dá links diretos para vídeos e imagens que mostram como fazer os sinais na prática, focada em democratizar o conhecimento e promover a inclusão linguística.
 Usuário: carrara2027
@@ -4791,7 +4791,7 @@ Usuário: carrara2027
 ---
 
 Nome: Ricardo de Almeida Paula
-Votos: 3
+Votos: 4
 Link: https://github.com/ricardodepaula/AlurAgent
 Descrição: Este projeto, denominado "Assistente de Desenvolvimento Multiagente", utiliza a API Gemini do Google e o Google Agent Development Kit (ADK) para criar uma ferramenta que auxilia desenvolvedores em diversas etapas do ciclo de vida do software, começando com uma transcrição de reunião de requisitos (ou um objetivo de projeto) e progredindo através de uma cadeia de agentes especializados — um simulador de reunião, um analista de requisitos, um prototipador de UI, um planejador de testes e um revisor de código — para gerar automaticamente documentos de requisitos, descrições textuais para protótipos, planos de teste e análises de código, demonstrando uma aplicação prática e inovadora da IA para otimizar o fluxo de trabalho de desenvolvimento.
 Usuário: ricardodepaula5554
@@ -6967,7 +6967,7 @@ Usuário: djonathankaiper
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 8
+Votos: 9
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
