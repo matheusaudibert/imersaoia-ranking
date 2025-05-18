@@ -775,7 +775,7 @@ Usuário: atlan0551
 ---
 
 Nome: Apoena Camargo
-Votos: 6
+Votos: 7
 Link: https://github.com/apo1974/ciclorota-inteligente
 Descrição: Este agente interativo coleta informações simples do ciclista (origem, destino, horário, nível e tempo diário de pedalada) e gera um resumo inteligente.
 Usuário: apoena_camargo
@@ -1399,7 +1399,7 @@ Usuário: Anaclaudia
 ---
 
 Nome: Paulo Davi Franco
-Votos: 7
+Votos: 8
 Link: https://github.com/paulodavifranco/verifica_brasil/blob/main/README.md
 Descrição: O CONFIA BRASIL é uma plataforma colaborativa com o objetivo de construir um espaço de referência para a verificação de notícias no Brasil. Reunimos um vasto arquivo de matérias jornalísticas da última década para capacitar cidadãos a investigar a veracidade de informações que circulam online
 Usuário: paulodavifranco
@@ -1423,7 +1423,7 @@ Usuário: jeancarlos0818
 ---
 
 Nome: Dielson Mendes
-Votos: 16
+Votos: 17
 Link: https://github.com/DielsonM/Cora-Apoio-Inteligente-para-M-es-Solo.git
 Descrição: Cora: Apoio Inteligente para Mães Solo – Uma Mão Amiga em IA  Para muitas mães solo, a jornada da maternidade é marcada pela falta de apoio e inúmeras perguntas sem respostas. Cora nasceu para ser essa mão amiga digital, oferecendo suporte onde a ausência se faz mais sentida.  Cora: Apoio Inteligente para Mães Solo é uma assistente virtual de IA projetada para oferecer apoio informativo, emocional e prático. Com agentes especializados em áreas cruciais como questões jurídicas, bem-estar emocional, recursos sociais e comunicação parental, Cora busca ser um ponto de apoio acessível e constante.  Utilizando pesquisa integrada (google_search), Cora enriquece as respostas dos seus agentes, garantindo informações relevantes e atualizadas. Ela coordena o conhecimento para oferecer um diálogo acolhedor e útil para as usuárias.  Acreditamos no potencial de Cora para transformar a vida de mães solo, oferecendo um suporte essencial em sua jornada. Vote em Cora. Seu voto é um passo em direção a um futuro onde a maternida
 Usuário: dielsonboy
@@ -1703,7 +1703,7 @@ Usuário: rportovanni
 ---
 
 Nome: Caio Souza
-Votos: 20
+Votos: 22
 Link: https://github.com/Fcsscoder/learnlite
 Descrição: LearnLite é uma aplicação web construída com Next.js que utiliza Inteligência Artificial Generativa para oferecer aos usuários resumos, flashcards e quizzes gerados a partir de documentos PDF enviados. A interface é limpa e moderna, desenvolvida com Tailwind CSS e componentes da ShadCN UI.
 Usuário: qwzito
@@ -2479,7 +2479,7 @@ Usuário: brunoalbcs
 ---
 
 Nome: Gustavo Lopes dos Santos
-Votos: 26
+Votos: 29
 Link: https://github.com/Gust01-coder/TravelGemini
 Descrição: TravelGemini é um planejador de viagens com inteligência artificial que utiliza a API Gemini do Google para criar roteiros personalizados com base nas preferências do usuário. A aplicação foi desenvolvida com Next.js e oferece uma interface moderna para planejar todos os aspectos da sua viagem.
 Usuário: cowboyace
@@ -4527,7 +4527,7 @@ Usuário: cmagnus
 ---
 
 Nome: Luiz Braz Lima
-Votos: 8
+Votos: 9
 Link: https://github.com/brazprofiss25/imersaoAluraGemini.git
 Descrição: "O projeto ‘Cidadania Inteligente’ é um assistente inteligente desenvolvido para analisar perguntas de cidadãos sobre serviços públicos, direitos e processos burocráticos. Utilizando inteligência artificial, ele interpreta a necessidade do usuário e reformula a consulta de forma clara e concisa, identificando o serviço, direito ou processo relevante para facilitar o acesso à informação."
 Usuário: luiz_lima limabh25
@@ -4575,7 +4575,7 @@ Usuário: gio_0810
 ---
 
 Nome: Fábio Pimentel Barcellos
-Votos: 10
+Votos: 11
 Link: https://github.com/fabiopbproj/imers-o-alura-ia/blob/main/Agente_para_desengasgo_de_beb%C3%AAs.ipynb
 Descrição: Problema a Ser Resolvido: Em uma situação de emergência com um bebê em casa (como engasgo ou perda de consciência), o cuidador leigo muitas vezes entra em pânico. Esse pânico pode dificultar a lembrança e a execução correta dos procedimentos de SBV, cruciais nos primeiros minutos antes da chegada do socorro especializado. A falta de um guia instantâneo, calmo e preciso aumenta o risco para a vida do bebê.  Objetivo do Projeto: Criar um Agente de IA (chatbot avançado) que:  Identifique rapidamente a situação de emergência (principalmente engasgo em bebês, mas também perda de consciência). Instrua o usuário, com linguagem clara, calma e diretiva (no padrão AHA para leigos), sobre os passos imediatos e corretos do SBV para bebês. Priorize e facilite a chamada para os serviços de emergência (192/193) simultaneamente com o início dos procedimentos. Forneça ou referencie recursos visuais simples (como um link para um vídeo curto) para complementar as instruções textuais. Seja acessível em um momento de alto estress
 Usuário: fabiopimentel7315
@@ -4623,7 +4623,7 @@ Usuário: gabrielachaves_ivt
 ---
 
 Nome: Ana Cristina Viana Campos
-Votos: 8
+Votos: 9
 Link: https://github.com/dranacampos/maeraiz
 Descrição: "Mãe Raíz" é um chatbot simples criado para apoiar mães empreendedoras, especialmente na Amazônia, a superarem os desafios do mundo digital.  O projeto utiliza o Método RESSOA para guiar essas mulheres na descoberta da essência de seus negócios, oferecendo uma ferramenta acessível e humanizada que simplifica o uso de tecnologias e impulsiona seu crescimento.  A IA auxilia na definição do propósito do negócio, proporcionando clareza, segurança e empoderamento para as mães empreenderem com sucesso.
 Usuário: Ana Campos
@@ -6735,7 +6735,7 @@ Usuário: dalloglio
 ---
 
 Nome: Victor Costacurta
-Votos: 12
+Votos: 13
 Link: https://github.com/profvictor/terapIA.git
 Descrição: 💬 terapIA – Sua saúde mental vale muito! Descubra como o Gemini pode ser seu aliado no cuidado emocional. Me ajude a realizar meu sonho de estudar! Clique, conheça e vote! ❤️🤖
 Usuário: prof_victor
