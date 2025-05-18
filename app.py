@@ -135,7 +135,7 @@ def main():
     with col2:
         st.markdown(":green-badge[:material/check: Atualizado] :violet-badge[:material/code: Open Source] :orange-badge[:material/star: Interface Amigável]")
     with col1:
-        st.markdown("👾 Acesse o repositório desse :green[app] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
+        st.markdown("👾 Acesse o repositório desse :violet[app] [aqui](https://github.com/matheusaudibert/imersaoia-ranking).")
     with col2:
         st.link_button("🤿 Guia de Mergulho da Imersão", "https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb", use_container_width=True, type="primary")
     projects = load_messages()
@@ -146,7 +146,7 @@ def main():
     
     st.info(f"O número mínimo para estar no ranking é de :blue[**{min_votes} votos**].")
     
-    st.sidebar.error("A votação se encerra às 23:59.")
+    st.sidebar.info("A votação se encerra às 23:59.")
     
     # Sidebar search
     st.sidebar.title("🔎 Pesquise o seu projeto!")
@@ -221,6 +221,28 @@ def main():
         Feito com carinho 💙 por <a href="https://github.com/matheusaudibert" target="_blank">Matheus Audibert</a>
     </div>
 """, unsafe_allow_html=True)
+    
+    st.write("")
+    
+    sentiment_mapping = ["one", "two", "three", "four", "five"]
 
+    # Inicializa o estado se ainda não estiver definido
+    if "last_rating" not in st.session_state:
+        st.session_state.last_rating = None
+
+    col1, col2, col3, col4, col5 = st.columns(5)
+
+    with col3:
+        selected = st.feedback("stars")
+        if selected is not None:
+            rating = sentiment_mapping[selected]
+            
+            # Só mostra balões se mudou para "five" agora
+            if rating == "five" and st.session_state.last_rating != "five":
+                st.balloons()
+            
+            # Atualiza o estado
+            st.session_state.last_rating = rating
+    
 if __name__ == "__main__":
     main()
