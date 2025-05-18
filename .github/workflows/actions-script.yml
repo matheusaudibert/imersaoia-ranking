@@ -3,36 +3,30 @@ name: Fetch Discord Messages and Commit
 on:
   schedule:
     - cron: "*/5 * * * *" # Executa a cada 5 minutos
-  workflow_dispatch: # Permite execução manual pela aba Actions
-
-defaults:
-  run:
-    shell: bash # Usa bash como shell padrão
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   fetch-and-save:
-    # Garante que só rode na branch main
-    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout do código
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20.x"
 
-      - name: Install dependencies
+      - name: Instalar dependências
         run: npm install
 
-      - name: Run script to fetch messages
+      - name: Executar script para buscar mensagens do Discord
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         run: node index.js
 
-      - name: Commit and push changes
+      - name: Comitar e enviar alterações
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -40,12 +34,12 @@ jobs:
           if [ -f messages.txt ]; then
             git add messages.txt
             if git diff --staged --quiet; then
-              echo "No changes to commit."
+              echo "Sem alterações para comitar."
             else
               git commit -m "update(messages.txt)"
               git pull --rebase
               git push
             fi
           else
-            echo "messages.txt was not created by the script."
+            echo "messages.txt não foi criado pelo script."
             exit 1
