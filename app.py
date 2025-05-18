@@ -154,7 +154,7 @@ def main():
     
     st.info(f"O número mínimo para estar no **Top 30** é de :blue[**{min_votes} votos**].")
     
-    st.sidebar.info("A votação se encerra às 23:59.")
+    st.sidebar.info("A votação se encerra às **hoje** 23:59.")
     
     # Sidebar search
     st.sidebar.title("🔎 Pesquise o seu projeto!")
