@@ -127,7 +127,7 @@ Usuário: rodrigo_dos_santos
 ---
 
 Nome: Rodrigo Furtile
-Votos: 15
+Votos: 16
 Link: https://github.com/Furtile-Rodrigo/projeto_imersao_Alura
 Descrição: RPG no dia a dia para crianças e jovens neurotípicos
 Usuário: furtile27
@@ -895,7 +895,7 @@ Usuário: Anderson Lucas
 ---
 
 Nome: Pedro
-Votos: 5
+Votos: 6
 Link: https://github.com/Ancelotti-Dev/Imersao-Alura-google
 Descrição: O "Mentor do Futuro" é uma ferramenta inovadora que utiliza inteligência artificial para auxiliar usuários na descoberta de seus caminhos profissionais. Ao inserir uma profissão ou área de interesse, o sistema oferece insights valiosos sobre trajetórias de carreira, valores associados e outras informações relevantes para a orientação profissional.
 Usuário: ph_ancelotti
@@ -1759,7 +1759,7 @@ Usuário: su3h7am
 ---
 
 Nome: Carla Mariana Scariot de Oliveira
-Votos: 6
+Votos: 7
 Link: https://github.com/CarlaScariot/tio-sam-agent.git
 Descrição: Chatbot em Python que simula o atendimento inicial de um paralegal de imigração. Analisa perfis com base nas principais categorias da USCIS (EB-1 a EB-4, F-1, B-1/B-2, E-2, EB-5, vistos familiares) e sugere o melhor caminho imigratório com base em critérios reais e linguagem acessível. inicial.
 Usuário: ca_oliveira_br
@@ -1959,7 +1959,7 @@ Usuário: katsune_278
 ---
 
 Nome: Ellen Karolina do Couto Gomes de Oliveira
-Votos: 19
+Votos: 20
 Link: https://github.com/EllenKarolina1/OrganizaAI-imersao-alura-2025.git
 Descrição: O OrganizAÍ pra mim é uma aplicação web feita com Streamlit que combina inteligência artificial e usabilidade para ajudar pessoas a organizarem seu dia de forma prática e personalizada. Utilizando a API do Gemini, o app interpreta as tarefas e preferências do usuário e entrega um planner interativo com:  Sugestões de pausas, transições e tempo livre Adição rápida ao Google Calendar Sugestões de links úteis para estudar, descansar ou almoçar Um toque de humor e acolhimento em cada resposta ❤️
 Usuário: antropologa
@@ -2479,7 +2479,7 @@ Usuário: brunoalbcs
 ---
 
 Nome: Gustavo Lopes dos Santos
-Votos: 20
+Votos: 21
 Link: https://github.com/Gust01-coder/TravelGemini
 Descrição: TravelGemini é um planejador de viagens com inteligência artificial que utiliza a API Gemini do Google para criar roteiros personalizados com base nas preferências do usuário. A aplicação foi desenvolvida com Next.js e oferece uma interface moderna para planejar todos os aspectos da sua viagem.
 Usuário: cowboyace
@@ -3207,7 +3207,7 @@ Usuário: kaueodev
 ---
 
 Nome: Liana Oliveira Bernat
-Votos: 5
+Votos: 6
 Link: https://github.com/LianaBernat/imersao-alura-gemini
 Descrição: Gymbot: Um chatbot Python para criar planos de treino personalizados com Gemini API e diretrizes da OMS.
 Usuário: Liana Bernat
@@ -3655,7 +3655,7 @@ Usuário: gabrielbrtx
 ---
 
 Nome: Edson Oliveira da Silva
-Votos: 15
+Votos: 16
 Link: https://github.com/edsonos/mindforge
 Descrição: MindForge é a forja onde ideias ganham forma. Ele é um assistente interativo movido por IA, projetado para impulsionar a criatividade de escritores, mestres de RPG, designers narrativos e criadores de mundos, não importando o gênero. Com ele, você pode construir universos inteiros — com civilizações, raças, culturas, tecnologias ou magias — diretamente no seu Google Drive, de forma rápida, organizada e contínua. Seja para criar do zero ou expandir uma ideia existente, o MindForge guia você com sugestões inteligentes, estrutura narrativa e geração de conteúdo em estilo de compêndio, pronto para ser editado ou publicado.
 Usuário: edsonos
@@ -5439,7 +5439,7 @@ Usuário: maite2410
 ---
 
 Nome: José Guilherme Rodrigues Lóssio
-Votos: 11
+Votos: 12
 Link: https://github.com/dappter/Planly
 Descrição: Planly é uma aplicação inovadora que utiliza inteligência artificial do Gemini para analisar sua rotina diária e criar planos de estudo sob medida, otimizando seu tempo e potencializando seu aprendizado. Com uma interface intuitiva e simples, Planly é ideal para estudantes de qualquer área que buscam maximizar seus resultados com organização e tecnologia de ponta.
 Usuário: ze144p
@@ -7095,7 +7095,7 @@ Usuário: douglas_modesto
 ---
 
 Nome: Angélica Alves Viana
-Votos: 15
+Votos: 16
 Link: https://github.com/angelica-ti/project-avia.git
 Descrição: No cenário digital atual, garantir que websites e aplicações sejam acessíveis é mais do que uma exigência legal ou uma boa prática; é um imperativo para a inclusão de milhões de pessoas. No entanto, a complexidade das diretrizes de acessibilidade, como a WCAG 2.2, pode representar um desafio significativo para desenvolvedores, designers e equipes que buscam construir ambientes online verdadeiramente universais.  É para atender a essa necessidade que surge o AVIA (Accessible Virtual Interface Assistant).  AVIA é uma assistente virtual especializada em acessibilidade digital, criada especificamente para apoiar desenvolvedores, designers e equipes no processo de construção de uma web mais inclusiva. A missão do AVIA é descomplicar as complexas diretrizes da WCAG 2.2, transformando um documento técnico em um diálogo prático e acionável.  Funcionando como uma ferramenta de suporte inteligente, AVIA permite que desenvolvedores, designers e equipes tirem dúvidas em tempo real sobre critérios de acessibilidade especí
 Usuário: angelica_viana
@@ -7191,7 +7191,7 @@ Usuário: solonperfeito_98355
 ---
 
 Nome: Matheus Audibert
-Votos: 9
+Votos: 10
 Link: https://github.com/matheusaudibert/projeto-aprova
 Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
 Usuário: grwx
@@ -7343,7 +7343,7 @@ Usuário: maysa29
 ---
 
 Nome: Giovana Siqueira Santos
-Votos: 13
+Votos: 14
 Link: https://github.com/giovxna/educa.lab
 Descrição: EducaLab é a revolução no jeito de aprender usando IA. Combinando tecnologia de ponta com uma abordagem personalizada e divertida, o EducaLab transforma qualquer conteúdo complexo em explicações acessíveis, adaptadas ao tempo e estilo de cada pessoa.  Quer aprender como se tivesse 5 anos? Ou prefere aquele tom de fofoca entre amigos? O EducaLab entrega o conhecimento do seu jeito – rápido, direto e do jeito que você entende melhor.  Além disso, testa seu aprendizado com quizzes e ainda sugere cursos para ir além. Tudo isso com uma interface simples no Google Colab, rodando com o poder da API Gemini.  EducaLab é mais do que um projeto, é um laboratório de aprendizado inteligente. Vote em quem está colocando a inteligência artificial a serviço da educação de verdade.
 Usuário: epyphxny
@@ -7351,7 +7351,7 @@ Usuário: epyphxny
 ---
 
 Nome: ROBSON REIS
-Votos: 5
+Votos: 6
 Link: https://github.com/reisrf/DietaAjuda
 Descrição: ✨ Quer emagrecer de forma inteligente e sem complicação? 🤔 🏃‍♀️💨 Chega de esquecer as calorias! Apresento meu projeto de uma Auxiliar de Dietas com Inteligência Artificial! 🤖💬 📊 Com base nos seus dados (gênero, idade, altura, peso, atividade física e meta de perda de peso saudável), a IA calcula sua meta calórica diária personalizada. 🎯🍎 Você informa os alimentos e bebidas que consumiu e a IA vai calculando as calorias e somando. 📲 Imagine ter um chat inteligente te lembrando e te ajudando a não ultrapassar suas calorias! Menos preocupação e mais resultados! 💪✅ 💖 Vote no meu projeto e vamos juntos transformar a forma como as pessoas fazem dieta! Seu voto faz a diferença! 🙏🗳️
 Usuário: reisrf

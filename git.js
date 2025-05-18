@@ -22,15 +22,18 @@ async function main() {
     console.log("Executando index.js...");
     await executeCommand("node index.js");
 
-    // Espera 30 segundos
-    console.log("Aguardando 30 segundos...");
-    await new Promise((resolve) => setTimeout(resolve, 30000));
+    // Espera 5 segundos
+    console.log("Aguardando 5 segundos...");
+    await new Promise((resolve) => setTimeout(resolve, 5000));
 
     // Comandos do Git
     console.log("Realizando commit e push...");
     await executeCommand("git add .");
+    await new Promise((resolve) => setTimeout(resolve, 1000));
     await executeCommand('git commit -m "feat(MESSAGES): Ranking update"');
+    await new Promise((resolve) => setTimeout(resolve, 1000));
     await executeCommand("git push");
+    await new Promise((resolve) => setTimeout(resolve, 1000));
 
     console.log("Processo completado com sucesso!\n");
   } catch (error) {
