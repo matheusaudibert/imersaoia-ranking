@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 99
+Votos: 100
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -7,7 +7,7 @@ Usuário: limalf
 ---
 
 Nome: Vitor Oliveira
-Votos: 32
+Votos: 33
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -47,7 +47,7 @@ Usuário: ka.liali
 ---
 
 Nome: Jorge Alegretti
-Votos: 15
+Votos: 20
 Link: https://github.com/jorge-lba/nanny-agent
 Descrição: Agente para auxiliar pais com bebês
 Usuário: rahmai
@@ -55,7 +55,7 @@ Usuário: rahmai
 ---
 
 Nome: Luis Henrique Figueiredo Germano
-Votos: 29
+Votos: 33
 Link: https://github.com/Dev-Ls-07/Projeto_Canvas/tree/main
 Descrição: É um Projeto sobre o Modelo De Negócios Canvas
 Usuário: ls04936
@@ -711,7 +711,7 @@ Usuário: fillipe.rsp1235
 ---
 
 Nome: Pedro Florentino
-Votos: 9
+Votos: 10
 Link: https://github.com/Pedro-Ivo-Florentino/Aurora-Apoio-Emocional-em-Tempos-de-Luto
 Descrição: Aurora é um sistema multiagente criado com o propósito de oferecer acolhimento e suporte emocional, físico, jurídico, nutricional e espiritual a pessoas atravessando o luto. O nome evoca a luz após a escuridão — uma metáfora para o renascimento que pode surgir mesmo nas perdas mais profundas.  Este projeto nasceu durante a Imersão de IA com a Alura e o Google, e foi inspirado por vivências reais, com o desejo de transformar dor em cuidado.
 Usuário: pedroribas0695
@@ -823,7 +823,7 @@ Usuário: mgino.br
 ---
 
 Nome: Marconi Abou Dehn da Silva Filho
-Votos: 27
+Votos: 28
 Link: https://github.com/Marconiadsf/Especialista-QGIS
 Descrição: 🎯 [PROJETO: QGis Especialista] – GIS para Todos, Salvando Vidas com Tecnologia 🌍  Você já parou pra pensar que um simples mapa temático pode salvar vidas?  O QGis Especialista nasce com uma missão clara: democratizar o uso de ferramentas de geoprocessamento (GIS) para profissionais de diversas áreas, com um olhar especial para quem atua na gestão de riscos urbanos e emergências climáticas.  🔴 Por que isso é urgente?  Todos os anos, tragédias causadas por chuvas intensas, deslizamentos e enchentes levam vidas e afetam comunidades inteiras. Muitos desses eventos poderiam ser evitados ou mitigados com acesso rápido a informações geográficas claras e atualizadas.  💡 Com o QGis Especialista, agentes públicos, engenheiros, geólogos e outros profissionais poderão gerar relatórios e mapas temáticos em poucos cliques, com mais agilidade, precisão e — o melhor — sem custos elevados com softwares proprietários.
 Usuário: marconi2744
@@ -1047,7 +1047,7 @@ Usuário: vivianns_
 ---
 
 Nome: Bruna Mendes
-Votos: 8
+Votos: 9
 Link: https://github.com/BuhMendes/imersao_ia_gemini_alura
 Descrição: Sistema de Busca de Medicamentos com Melhores Preços
 Usuário: brunamendes1960
@@ -1079,7 +1079,7 @@ Usuário: Ricardo Gomes
 ---
 
 Nome: cesar ofuchi
-Votos: 9
+Votos: 10
 Link: https://github.com/cesarofuchi/imersao_alura_assistente_consumidor/
 Descrição: Assistente de Defesa ao Consumidor AI
 Usuário: cofuchi
@@ -1231,7 +1231,7 @@ Usuário: caugustocbastos9502
 ---
 
 Nome: Johnathan Koester
-Votos: 6
+Votos: 7
 Link: https://github.com/johnKoester/predictionNextVehicleRevision
 Descrição: Agente para estimar janela de tempo da próxima revisão do seu veículo
 Usuário: johnkoester
@@ -1991,7 +1991,7 @@ Usuário: Marlete marialeticia_47689
 ---
 
 Nome: Gabriel Schiavoni
-Votos: 5
+Votos: 6
 Link: https://github.com/gabriel-schiavoni/imersao-alura
 Descrição: CLIPPING DE NOTÍCIAS NO SEU EMAIL! Seu Assistente Pessoal de Notícias! 🚀 Quer ficar por dentro de tudo que acontece no mundo, mas não tem tempo para procurar? Nosso código é a solução! Ele foi criado para:  Buscar as notícias mais importantes sobre os assuntos que você mais se importa. Organizar e resumir as notícias mais relevantes de um jeito fácil de ler e com links para as fontes. Entregar o clipping direto na sua caixa de entrada (ou na do seu chefe), economizando seu tempo precioso. É como ter um assistente pessoal que te mantém informado sem você precisar mover um dedo! Simplifique sua rotina e se mantenha atualizado com a ajuda da IA! ✨📰
 Usuário: schiavoni.
@@ -2815,7 +2815,7 @@ Usuário: BrunaDantas
 ---
 
 Nome: Stephanni Cavalcante Rocha
-Votos: 11
+Votos: 12
 Link: https://github.com/stephannica/Alura-google-Projeto-IAcessibilidade
 Descrição: Vivemos em um mundo cada vez mais conectado e baseado em informações textuais. Acessar um site, ler uma matéria, interagir com conteúdo online – ou até mesmo poder ler algo físico que você tem dificuldade de entender; tudo isso pressupõe a habilidade de leitura. O IAcessibilidade busca diminuir essa exclusão e oferece uma ponte auditiva para o vasto universo do texto.  É um projeto movido pela empatia, pela certeza de que a acessibilidade não é um diferencial, mas um direito fundamental e de que todos deveriam poder usufruir.
 Usuário: xte_
@@ -4351,7 +4351,7 @@ Usuário: vinirocha05
 ---
 
 Nome: Marcia Cristina Henriques da Cruz
-Votos: 9
+Votos: 10
 Link: https://github.com/marciahenriquess/helpIA.git
 Descrição: HelpIA - Chatbot de Emergências Urbanas: Quando estamos desesperados ou nervosos, nossa mente não funciona como de costume. É natural. A adrenalina sobe, o coração acelera, e de repente tudo fica confuso. Você sabe que precisa agir, mas… pra quem ligar? O que fazer primeiro? Será que é grave? Como explicar onde você está? Muitas vezes, nesses momentos, não lembramos nem o número da emergência. Outras vezes, estamos sozinhos, sem ninguém por perto para ajudar ou até mesmo sem saber em que bairro estamos.  É aí que o HelpIA entra: Um assistente preparado para agir com calma, clareza e rapidez quando você mais precisa. Ele te orienta passo a passo, sugere quem chamar, mostra onde ir e até avisa alguém da sua confiança. Porque em emergências, o que mais precisamos é de clareza e ajuda confiável — e agora, você tem isso ao alcance da mão.
 Usuário: botinha_a
@@ -4359,7 +4359,7 @@ Usuário: botinha_a
 ---
 
 Nome: Samuel Arruda
-Votos: 26
+Votos: 28
 Link: https://github.com/StalkerDogs/Miaozao
 Descrição: O MiauzãoAI é um chatbot assistente que utiliza inteligência artificial (Google Gemini) para auxiliar usuários a gerenciar e reduzir o consumo de energia elétrica em suas residências. Com uma personalidade única e cheia de gírias, o bot faz análises personalizadas baseadas nos dados fornecidos pelo usuário.
 Usuário: Samuel
@@ -4911,7 +4911,7 @@ Usuário: Alexandre Flores (afloresalmeida)
 ---
 
 Nome: Luis Ricardo Furst
-Votos: 9
+Votos: 10
 Link: https://github.com/lrfurst/Imersao_IA_Alura.git
 Descrição: Fábrica de Contos Mágicos: Crie histórias infantis personalizadas com IA de forma fácil e divertida.
 Usuário: Furst
@@ -5055,7 +5055,7 @@ Usuário: .giu
 ---
 
 Nome: Marina Yumi Kanadani
-Votos: 15
+Votos: 16
 Link: https://github.com/makanadani/vetbot
 Descrição: O VetBot é um agente de inteligência artificial criado para ajudar tutores de cães e gatos a compreender melhor os comportamentos e sintomas de seus animais, oferecendo dicas de cuidados gerais e orientações educativas sobre quando é necessário buscar atendimento médico veterinário especializado.
 Usuário: mayukacos
