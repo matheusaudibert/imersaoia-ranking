@@ -823,7 +823,7 @@ Usuário: mgino.br
 ---
 
 Nome: Marconi Abou Dehn da Silva Filho
-Votos: 8
+Votos: 10
 Link: https://github.com/Marconiadsf/Especialista-QGIS
 Descrição: 🎯 [PROJETO: QGis Especialista] – GIS para Todos, Salvando Vidas com Tecnologia 🌍  Você já parou pra pensar que um simples mapa temático pode salvar vidas?  O QGis Especialista nasce com uma missão clara: democratizar o uso de ferramentas de geoprocessamento (GIS) para profissionais de diversas áreas, com um olhar especial para quem atua na gestão de riscos urbanos e emergências climáticas.  🔴 Por que isso é urgente?  Todos os anos, tragédias causadas por chuvas intensas, deslizamentos e enchentes levam vidas e afetam comunidades inteiras. Muitos desses eventos poderiam ser evitados ou mitigados com acesso rápido a informações geográficas claras e atualizadas.  💡 Com o QGis Especialista, agentes públicos, engenheiros, geólogos e outros profissionais poderão gerar relatórios e mapas temáticos em poucos cliques, com mais agilidade, precisão e — o melhor — sem custos elevados com softwares proprietários.
 Usuário: marconi2744
@@ -1255,7 +1255,7 @@ Usuário: erivaldosilva
 ---
 
 Nome: Igor Almeida
-Votos: 5
+Votos: 6
 Link: https://github.com/tiigortadeu/orum-todolist
 Descrição: ORUM TO-DO LIST é uma ferramenta de gestão de tempo, que com a ajuda de agente inteligentes cria chats personalizados e contextualizados para sua tarefa.
 Usuário: itt
@@ -4871,7 +4871,7 @@ Usuário: ruhan2838
 ---
 
 Nome: Daniel Valentim
-Votos: 12
+Votos: 13
 Link: https://github.com/astrobiodaniel/Cronos_ia_enem-app
 Descrição: Olá! Estou super animado em apresentar minha ideia para a Premiação do curso de imersão IA 2025 da Alura!  Desenvolvi um assistente de estudos para quem vai fazer o ENEM. Sabe como é difícil organizar tudo, achar tempo e ter um plano de estudo que realmente funcione para você? E fica ainda mais complicado para quem não pode pagar cursinho.  Minha solução usa a inteligência artificial do Google (a API Gemini!) para criar planos de estudo que se ajustam a cada pessoa. Ele entende suas dificuldades, seu ritmo e ajuda a gerenciar seu tempo, tornando o estudo mais eficiente e menos estressante. É como ter um tutor pessoal, disponível para todos, sem custo.  Quero democratizar o acesso a uma preparação de qualidade para o ENEM, usando a tecnologia para dar uma chance real para todos os estudantes alcançarem seus objetivos.
 Usuário: danielvalentim_50765
