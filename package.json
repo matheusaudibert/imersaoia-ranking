@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js-selfbot-v13": "^3.6.1"
+    "discord.js-selfbot-v13": "^3.6.1",
+    "dotenv": "^16.5.0"
   }
 }
