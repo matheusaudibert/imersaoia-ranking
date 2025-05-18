@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 97
+Votos: 99
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -7,7 +7,7 @@ Usuário: limalf
 ---
 
 Nome: Vitor Oliveira
-Votos: 31
+Votos: 32
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -15,7 +15,7 @@ Usuário: oliveiravitor__
 ---
 
 Nome: José Marcelo de Miranda
-Votos: 16
+Votos: 17
 Link: https://github.com/b566776/simClassSensIotIA
 Descrição: PIPE LINE IA/ML
 Usuário: Primobsb30
@@ -31,7 +31,7 @@ Usuário: ehrikr
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 42
+Votos: 43
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -55,7 +55,7 @@ Usuário: rahmai
 ---
 
 Nome: Luis Henrique Figueiredo Germano
-Votos: 28
+Votos: 29
 Link: https://github.com/Dev-Ls-07/Projeto_Canvas/tree/main
 Descrição: É um Projeto sobre o Modelo De Negócios Canvas
 Usuário: ls04936
@@ -87,7 +87,7 @@ Usuário: Leandro Filgueira
 ---
 
 Nome: Pablo Ribeiro
-Votos: 35
+Votos: 36
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -111,7 +111,7 @@ Usuário: Regiribeiro
 ---
 
 Nome: Douglas Floriano
-Votos: 26
+Votos: 27
 Link: https://github.com/dougfani/horta_inteligente/tree/main
 Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
 Usuário: doug27fani
@@ -119,7 +119,7 @@ Usuário: doug27fani
 ---
 
 Nome: Rodrigo dos Santos
-Votos: 18
+Votos: 19
 Link: github.com/Rodrigo-dosSantos/VivaCare
 Descrição: Assistente VivaCare 💚  Um assistente conversacional inteligente para pacientes e cuidadores de transplante de órgãos. Sobre o Projeto Este projeto é um chatbot desenvolvido com Inteligência Artificial Generativa (Google Gemini) e o framework Streamlit para criar uma interface gráfica amigável. O objetivo é fornecer informações acessíveis e de apoio a pessoas que passaram ou estão passando por um processo de transplante de órgãos, como pacientes, familiares e cuidadores.
 Usuário: rodrigo_dos_santos
@@ -127,7 +127,7 @@ Usuário: rodrigo_dos_santos
 ---
 
 Nome: Rodrigo Furtile
-Votos: 38
+Votos: 39
 Link: https://github.com/Furtile-Rodrigo/projeto_imersao_Alura
 Descrição: RPG no dia a dia para crianças e jovens neurotípicos
 Usuário: furtile27
@@ -135,7 +135,7 @@ Usuário: furtile27
 ---
 
 Nome: Leonardo Pereira Ladeira
-Votos: 17
+Votos: 18
 Link: https://github.com/leoladeira76/OpticAI
 Descrição: OpticAI é um sistema inteligente desenvolvido na Imersão IA 2025 (Alura & Google) para analisar e combater o vandalismo em redes de fibra óptica. Utilizando a API do Gemini, a ferramenta processa relatos de incidentes, extrai informações cruciais (localização, dano, causa, recorrência), classifica a gravidade e identifica padrões em ocorrências recentes. O objetivo é otimizar a resposta a incidentes, auxiliar na prevenção e proteger a infraestrutura de telecomunicações. Link do Vídeo no Youtube: https://www.youtube.com/shorts/SBes7Mqbmf8
 Usuário: leo_ladeira
@@ -183,7 +183,7 @@ Usuário: twralha
 ---
 
 Nome: JOSUE MONTEIRO UCHOA ALVES
-Votos: 26
+Votos: 28
 Link: https://github.com/JosueMonteiroUchoaAlves/aluraChallenge
 Descrição: O Mentor de Impacto Social por IA é uma aplicação Python que ajuda usuários a criar planos para enfrentar problemas sociais locais, como insegurança alimentar ou falta de água. Usando a interface Textual e a API Gemini, o usuário informa o problema, orçamento, tempo e local, e o sistema gera um plano de ação, sugere ONGs próximas e oferece mensagens motivacionais. Inspirado em iniciativas comunitárias, o projeto promove mudanças reais, abordando desigualdades no Brasil de forma acessível e prática.
 Usuário: _josuemonteiro
@@ -215,7 +215,7 @@ Usuário: katrinesp
 ---
 
 Nome: Aidê Figueiredo Passos
-Votos: 10
+Votos: 11
 Link: https://github.com/aidepassos/agenda-ia
 Descrição: Secretária IA que faz agendamento automatizado.
 Usuário: aide2218
@@ -727,7 +727,7 @@ Usuário: guz03386
 ---
 
 Nome: Bruno Martins Franco
-Votos: 9
+Votos: 10
 Link: https://github.com/brunoread/fake-ou-nao
 Descrição: Detecção de Conteúdo Falso: Análise de Links e Verificação de Veracidade Este programa foi desenvolvido para auxiliar na identificação de links e conteúdo potencialmente falso. Ele atua como uma ferramenta inicial, escaneando links e, em seguida, propondo perguntas cruciais para que o usuário avalie a credibilidade da informação. O objetivo é capacitar você a fazer uma análise crítica e decidir se o material que está consumindo é confiável ou não.
 Usuário: brunoread
@@ -735,7 +735,7 @@ Usuário: brunoread
 ---
 
 Nome: Arthur de Oliveira Marson
-Votos: 9
+Votos: 10
 Link: https://github.com/arthurmarson/auxiliar_de_comprar-imersao-ia-alura
 Descrição: O Assistente de Decisão de Compras é um sistema de IA multi-agente que ajuda consumidores a escolherem de forma mais inteligente, integrando análises de mercado, reputação de produtos, impacto financeiro e motivação de uso. Através de cinco agentes especializados — coleta de dados, pesquisa de mercado, análise de reviews, avaliação financeira e decisão final — ele gera recomendações claras (Recomendado, Não recomendado ou Com ressalvas), fundamentadas em dados objetivos e adaptadas às prioridades individuais. Ideal para compras de alto valor (eletrônicos, eletrodomésticos, veículos), o assistente vai além da simples comparação de produtos, avaliando custos ocultos, riscos e alternativas para promover decisões financeiramente responsáveis.
 Usuário: marsonnn
@@ -783,7 +783,7 @@ Usuário: apoena_camargo
 ---
 
 Nome: Caroline Abreu Weber Ribas
-Votos: 10
+Votos: 11
 Link: https://github.com/Caro-cyber/sistema-iareceita
 Descrição: O "Assistente de Receitas Domésticas" é um sistema inteligente (chatbot ou assistente de voz) que ajuda você a descobrir o que cozinhar usando os ingredientes que já tem em casa. Ele utiliza o Google Gemini para sugerir receitas e o Google Text-to-Speech para narrar as instruções em áudio, tornando o processo de cozinhar mais fácil e prático.
 Usuário: caroline_37809
@@ -967,7 +967,7 @@ Usuário: daniel_jr
 ---
 
 Nome: Lucas Nicolau da Costa Bentes
-Votos: 6
+Votos: 7
 Link: https://github.com/lnbentes/ImersaoAluraIAGemini/tree/main
 Descrição: Esse projeto visa cirar um bot no qual utilizamos agentes para poder processar uma list de compra fornecida pelo usuária, identificar os supermercado ao redor do endereço fornecido e retorna a lista com os melhores preços da sua região.
 Usuário: lnbentes
@@ -1031,7 +1031,7 @@ Usuário: bob582
 ---
 
 Nome: Lucy Gama
-Votos: 12
+Votos: 11
 Link: https://github.com/LucyDotta/Assistente-Virtual-Wee
 Descrição: O Chatbot Wee é um assistente virtual inteligente desenvolvido para qualificar e acolher, de forma eficiente e humanizada, os leads do empreendimento MOVA.WF já no primeiro contato. Combinando agilidade, personalização e linguagem alinhada ao tom da marca, a Wee transforma o atendimento inicial em uma experiência fluida e envolvente, aproximando o lead da proposta única do empreendimento.
 Usuário: lucygama
@@ -2799,7 +2799,7 @@ Usuário: silva_joao
 ---
 
 Nome: Pedro Henrique Santos de Macedo
-Votos: 11
+Votos: 12
 Link: https://github.com/macedo12pedro/Imersao_Alura_IA
 Descrição: Apresento o IngredientIA, um projeto que utiliza IA para analisar rótulos de alimentos a partir de imagens. A ferramenta fornece aos usuários uma análise detalhada dos ingredientes, incluindo descrições e avaliações de saudabilidade, capacitando escolhas alimentares mais conscientes.
 Usuário: pedro.macedo.1209
@@ -2943,7 +2943,7 @@ Usuário: loombardo_jr_14751
 ---
 
 Nome: Lizeth Paola Salazar Avila
-Votos: 7
+Votos: 8
 Link: https://github.com/LizBraCol/DESAFIOteste1/blob/master/Projeto_de_Imers%C3%A3o_IA_Alura_%2B_Google_Gemini.ipynb
 Descrição: Perder um pet é angustiante. A comunicação lenta e fragmentada dificulta o reencontro. Criamos uma "Rede de Alerta e Encontro de Pets Perdidos" digital para o bairro. Um alerta rápido com foto e localização alcança vizinhos conectados. Achou um pet? Compartilhe! Nosso sistema cruza dados, unindo corações e rabos abanando. Agilidade na informação, mobilização da comunidade, esperança renovada. Menos noites solitárias, mais reencontros felizes.
 Usuário: lizethsalazar.
@@ -2959,7 +2959,7 @@ Usuário: ti.rafaeltorres
 ---
 
 Nome: Maria Eduarda Cassol Velasco da Silva Catanho
-Votos: 7
+Votos: 8
 Link: https://github.com/EduardaVelascoCatanho/agentesIAnaciberdefesa/blob/main/projetoIA.ipynb
 Descrição: Este projeto demonstra a criação de um sistema de análise forense de cibersegurança utilizando agentes de inteligência artificial desenvolvidos com o Agent Development Kit (ADK) do Google e os modelos Gemini. O sistema é composto por três agentes principais:  Agente Buscador (agente_buscador): Responsável por buscar informações relevantes sobre cibersegurança na web, como notícias de ataques, vulnerabilidades e melhores práticas. Agente Farejador (agente_farejador): Especializado em analisar trechos de código, comparando-os com a documentação oficial para identificar possíveis bugs, falhas de segurança e práticas não recomendadas. Agente Redator (agente_redator): Encarregado de gerar relatórios forenses completos e objetivos a partir das informações coletadas e analisadas pelos outros agentes. O objetivo principal deste projeto é explorar o potencial dos agentes de IA para auxiliar na análise de incidentes de cibersegurança, automatizando tarefas de busca de informações, análise de código e geração de relató
 Usuário: e.velasco_76765
@@ -3559,7 +3559,7 @@ Usuário: paty_60691
 ---
 
 Nome: Ana Karolina Niclevicz
-Votos: 8
+Votos: 9
 Link: https://github.com/Niclevicz/chat-bot-lar-cecilia-maria
 Descrição: Este projeto é um chatbot interativo desenvolvido com Python e Flask para facilitar o agendamento de visitas em um abrigo de animais fictício chamado Lar Cecília Maria. Ele oferece uma interface web simples através de um index.html, onde o usuário interage com o assistente virtual.
 Usuário: ananiclevicz4666
@@ -3823,7 +3823,7 @@ Usuário: Luiz </>
 ---
 
 Nome: Robson Ferraz Mineiro
-Votos: 11
+Votos: 12
 Link: https://github.com/RobsonFerrazMineiro/NutriPlannerAI
 Descrição: O NutriPlanner AI ajuda os usuários a criar cardápios semanais personalizados com base em seus objetivos (alimentação saudável, perda de peso, controle de diabetes, etc.), preferências alimentares, restrições e ingredientes disponíveis em casa. Ele também pode fornecer uma lista de compras sugerida.
 Usuário: _h0rus
@@ -5647,7 +5647,7 @@ Usuário: araujomadu__
 ---
 
 Nome: Kauê Silva de Lima
-Votos: 6
+Votos: 7
 Link: https://github.com/KaueZk/Assistente_IA/tree/main
 Descrição: Este chatbot feito no google colab, utilizando a linguagem de Python, foi feito para auxiliar professores, alunos universitários, escitores de artigos, escritores de textos e quem mais precisar da ajuda dele. Ele possui um vasto conhecimento em qualquer área que você deseja falar sobre, sempre trazendo ótimas referências bibliográficas, textos dinâmicos e dissertativos e com informações necessárias para ajudar você a criar seu texto da melhor maneira possível. Ele te trará um esboço do projeto, um início, um objetivo e dissertação do texto, uma conclusão e referências bibliográficas específicas caso você deseje, além de ter um revisor, que pode dizer se seu artigo ou trabalho está bom para ser postado e utilizado no que você deseja!
 Usuário: Kzk_K
@@ -5783,7 +5783,7 @@ Usuário: elyjennipher
 ---
 
 Nome: Junynho Francisco Pereira Souza
-Votos: 9
+Votos: 10
 Link: https://github.com/JunynhoPereira/imersao-ia-alura
 Descrição: O EcoMente é um assistente pessoal desenvolvido com IA generativa que busca acolher e orientar pessoas com TDAH e TEA nível 1 no dia a dia.  O projeto oferece sugestões de rotina, registro emocional e dicas personalizadas com empatia e simplicidade.  Mais do que uma ferramenta de produtividade, o EcoMente é uma proposta de cuidado digital, promovendo bem-estar mental por meio da tecnologia.
 Usuário: junynhosouza8107
@@ -5855,7 +5855,7 @@ Usuário: JonJonesBR
 ---
 
 Nome: Járbio Mulhovo
-Votos: 11
+Votos: 12
 Link: https://github.com/Jarbioh/assistente-acessibilidade
 Descrição: Este projeto é um protótipo de um assistente virtual em português, chamado "Conecta Simples", desenvolvido com o objetivo de promover a inclusão digital e facilitar o acesso a tecnologias para pessoas com baixo letramento digital, idosos, ou qualquer indivíduo que enfrente dificuldades em utilizar interfaces digitais complexas.  O assistente utiliza o poder do Google Gemini para compreender linguagem natural simplificada e fornecer respostas e orientações de forma clara, paciente e empática. O foco é ser uma ponte entre o usuário e o mundo digital, tornando tarefas comuns mais acessíveis.
 Usuário: jarbio
@@ -6959,7 +6959,7 @@ Usuário: djonathankaiper
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 13
+Votos: 14
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
@@ -6975,7 +6975,7 @@ Usuário: goes19_04
 ---
 
 Nome: João Gabriel da Silva Marques
-Votos: 15
+Votos: 16
 Link: https://github.com/jotgoodev/mecanico-IA
 Descrição: Meu amigo Mecânico é um assistente de IA, criado para ajudar motoristas com dúvidas sobre manutenção automóvel. Oferece diagnósticos preliminares de sintomas, informações sobre revisões comuns e auxílio para entender orçamentos de mecânicos, tornando a ida à oficina mais fácil, informada e justa. Nunca mais caia no golpe do mecânico, se informe sobre tudo desse assunto!
 Usuário: jotgoodgamee
