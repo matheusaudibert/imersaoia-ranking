@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 140
+Votos: 141
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -53,7 +53,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jorge Alegretti
-Votos: 29
+Votos: 30
 Link: https://github.com/jorge-lba/nanny-agent
 Descrição: Agente para auxiliar pais com bebês
 Usuário: rahmai
@@ -80,7 +80,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: GUILHERME SANDLER
-Votos: 20
+Votos: 21
 Link: https://github.com/Guile09-max/teste/blob/main/Agentes_culturais.ipynb
 Descrição: esse é um teste inacabado, foi onde cheguei às 23:53h de 17/05
 Usuário: guile_09
@@ -125,7 +125,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Douglas Floriano
-Votos: 60
+Votos: 61
 Link: https://github.com/dougfani/horta_inteligente/tree/main
 Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
 Usuário: doug27fani
@@ -233,7 +233,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Darah Esperança Leal
-Votos: 24
+Votos: 25
 Link: https://github.com/darahesp/posts_si_awareness
 Descrição: Comunicações de Awareness de Cibersegurança (Como se proteger):Em um cenário digital cada vez mais dinâmico, novos golpes, fraudes e ataques de cibersegurança surgem todos os dias. Muitas empresas, no entanto, enfrentam limitações orçamentárias que dificultam o investimento contínuo em campanhas de conscientização. Pensando nisso, desenvolvemos um agente de inteligência artificial capaz de buscar automaticamente as notícias mais recentes sobre ameaças cibernéticas e transformá-las em conteúdos informativos e acessíveis para serem divulgados nos canais de Security Awareness corporativos.
 Usuário: katrinesp
@@ -431,7 +431,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thalles Cunha de Oliveira
-Votos: 24
+Votos: 25
 Link: https://github.com/thallescunhadeoliveira/s.mart.ai
 Descrição: Imagina poder conversar com um chat que tem acesso ao seu histórico de compras no mercado e poder tirar insights disso? Qual foi a última vez que comprei sabão em pó? Quanto gastei em bebidas no mês passado? Quais produtos paguei mais caro esse mês? Com o s.mart.ai, você pode subir informações sobre suas compras em supermercado, farmácia ou qualquer loja, e ter insights sobre seus gastos, além de facilitar sua gestão financeira. S.mart.ai é uma aplicação web interativa que permite conversar com um chatbot inteligente baseado em dados reais de histórico de compras armazenados em MongoDB. Através de interações naturais, o usuário pode consultar, analisar e receber respostas contextualizadas a partir do seu histórico de compras. O chatbot utiliza de agentes especialistas para poder interagir e analisar seus dados.
 Usuário: thallesoliveira2221
@@ -1673,7 +1673,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Joanevan Bezerra da Silva Oliveira
-Votos: 12
+Votos: 13
 Link: https://github.com/jooli86/Agente_da_lei-Alura-Google/blob/main/Agente_da_Lei_Imers%C3%A3o_Alura_e_Google_Gemini_Agentes.ipynb
 Descrição: Olá! Você já vivenciou alguma situação no comércio ou ao contratar um serviço em que sente que seus direitos não eram respeitados? Aquela falta de preço nas mercadorias, uma propaganda que parecia enganosa, coisas assim... Imagino que sim, pois é uma experiência frustrante e, infelizmente, bastante comum. Nessas horas, quem não gostaria de ter um especialista ao lado? Como isso nem sempre é possível, eu decido criar o Agente da Lei, uma inteligência artificial especializada no Código de Defesa do Consumidor (CDC). A ideia é que você possa, com agilidade e confiança, relatar seu problema ao Agente. Ele, por sua vez, traz uma resposta baseada no que o CDC diz sobre o assunto, citando o artigo da lei e apresentando argumentos que você pode usar para reivindicar que seus direitos sejam cumpridos. Infelizmente, esse é um desafio que eu, você e muitos brasileiros enfrentaremos. Com o auxílio do Agente da Lei, a minha esperança é que possamos ter mais confiança e ferramentas para nos defender nessas situações. Esper
 Usuário: joaneoliveira
@@ -1961,7 +1961,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: FABYO SOUSA RAMOS
-Votos: 10
+Votos: 11
 Link: https://github.com/fabyosr/gemini_ai_antifraud_agent/blob/main/gemini_ai_agent_antifraude.ipynb
 Descrição: Fraud Detector Agents. Sistema de agentes autônomos focado na identificação de mensagens potencialmente fraudulentas ou golpes. O objetivo principal é analisar uma mensagem de texto recebida e determinar, com alta probabilidade, se ela se trata de uma tentativa de fraude, combinando análise linguística, busca contextual na internet e avaliação de informações encontradas.
 Usuário: Fabyo
@@ -2204,7 +2204,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Ellen Karolina do Couto Gomes de Oliveira
-Votos: 44
+Votos: 45
 Link: https://github.com/EllenKarolina1/OrganizaAI-imersao-alura-2025.git
 Descrição: O OrganizAÍ pra mim é uma aplicação web feita com Streamlit que combina inteligência artificial e usabilidade para ajudar pessoas a organizarem seu dia de forma prática e personalizada. Utilizando a API do Gemini, o app interpreta as tarefas e preferências do usuário e entrega um planner interativo com:  Sugestões de pausas, transições e tempo livre Adição rápida ao Google Calendar Sugestões de links úteis para estudar, descansar ou almoçar Um toque de humor e acolhimento em cada resposta ❤️
 Usuário: antropologa
@@ -4922,7 +4922,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Raíne Rodrigues Pereira
-Votos: 21
+Votos: 22
 Link: https://github.com/rainepera/sabIA-ImersaoIA-2025.git
 Descrição: sabIA é um app educacional impulsionado por Google Gemini que combate o analfabetismo funcional. Simplifica textos complexos, gera exercícios e oferece feedback, promovendo uma educação mais acessível e inclusiva.
 Usuário: felinade2020
@@ -5111,7 +5111,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Marco Antonio Fernandes Ferreira
-Votos: 10
+Votos: 11
 Link: https://github.com/MAFF99/LearnFlow
 Descrição: LearnFlow Descomplique o aprendizado na internet!  O problema: Hoje, a internet oferece um universo de conhecimento gratuito, mas encontrar um caminho linear e organizado para aprender qualquer coisa pode ser frustrante e demorado. Você se sente perdido em meio a tantos links, vídeos e artigos desconexos?  A solução: Apresentamos uma abordagem inovadora para o aprendizado online: um sistema de agentes IA que estrutura o conhecimento para você! Imagine ter um guia pessoal que te ajuda a definir seus objetivos de aprendizado, busca e organiza os melhores conteúdos gratuitos disponíveis e ainda te oferece um roteiro claro para seguir.  Como funciona:  Defina seu foco: Uma equipe de agentes te ajuda a clarear exatamente o que você quer aprender através de algumas perguntas simples e direcionadas. Conteúdo selecionado: Nossos agentes vasculham a internet em busca dos melhores recursos gratuitos (artigos, vídeos, tutoriais) sobre o seu tema. Aprendizado com estrutura: Um agente especial organiza esse conteúdo de fo
 Usuário: maffart
@@ -5939,7 +5939,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: vitor santos
-Votos: 31
+Votos: 32
 Link: https://github.com/engvittorsanttos/projeto-gemini-alura
 Descrição: ExplorAI representa uma evolução na forma como as pessoas descobrem e vivenciam atividades físicas ao ar livre. Trata-se de um sistema inteligente e intuitivo, impulsionado por uma arquitetura de múltiplos agentes de inteligência artificial, meticulosamente projetado para gerar rotas personalizadas de caminhada e corrida. Nosso objetivo é transcender as limitações das opções genéricas, oferecendo percursos que se alinham precisamente com as necessidades, preferências e o espírito explorador de cada usuário.  No coração do ExplorAI reside um processo colaborativo entre quatro agentes de IA especializados, cada um desempenhando um papel crucial na criação da rota perfeita:  O Explorador Digital (Agente Buscador de Informações de Rotas): Este agente atua como um detetive digital, vasculhando vastos oceanos de informação online. Ao receber a localização do usuário e suas preferências detalhadas (distância desejada, nível de dificuldade, tipo de terreno – plano, montanhoso, trilha – e preferências de paisagem – ur
 Usuário: vitorsantos8639
@@ -6155,7 +6155,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Camila Sarmento
-Votos: 13
+Votos: 14
 Link: https://github.com/acamilasarmento/ImersaoIA_InMathMate/tree/main
 Descrição: ### InMathMate: Uma experiência acessível e cheia de confiança para todas as crianças.  Imagine a expressão no rosto de uma criança que, antes, via a matemática com receio, e agora, com um brilho nos olhos, descobre seus mistérios e sorri. Essa é a jornada que o **InMathMate** deseja abraçar.  Vi de perto como a matemática pode ser um desafio – a frustração de alunos do 6º ano, como minha sobrinha, e a dor de ver **21 de 28 deles ficando abaixo da média** em uma prova recente. Essa realidade é ainda mais sentida por crianças que têm necessidades especiais, pois encontrar um apoio que realmente as compreenda e se adapte é raro. Acreditamos que a matemática não deveria ser uma barreira, mas um caminho de descobertas para todos.  É por isso que o **InMathMate** nasceu. Impulsionado pela Inteligência Artificial, construímos uma plataforma que atua como um amigo e um guia gentil, oferecendo um reforço em matemática que é ao mesmo tempo completo, personalizado e, acima de tudo, humano, em um contexto onde nem todas
 Usuário: acamilasarmento
@@ -7784,7 +7784,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Raul Marcos da Rocha
-Votos: 35
+Votos: 36
 Link: https://github.com/raulrocha/reporta-ai-prototipo
 Descrição: O "Reporta Aí" é um protótipo de aplicativo cívico inovador que utiliza o poder da Inteligência Artificial para simplificar e otimizar o processo de reporte de problemas urbanos
 Usuário: raulmrocha
@@ -7847,7 +7847,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: João Gabriel da Silva Marques
-Votos: 27
+Votos: 28
 Link: https://github.com/jotgoodev/mecanico-IA
 Descrição: Meu amigo Mecânico é um assistente de IA, criado para ajudar motoristas com dúvidas sobre manutenção automóvel. Oferece diagnósticos preliminares de sintomas, informações sobre revisões comuns e auxílio para entender orçamentos de mecânicos, tornando a ida à oficina mais fácil, informada e justa. Nunca mais caia no golpe do mecânico, se informe sobre tudo desse assunto!
 Usuário: jotgoodgamee
@@ -8072,7 +8072,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Matheus Audibert
-Votos: 40
+Votos: 41
 Link: https://github.com/matheusaudibert/projeto-aprova
 Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
 Usuário: grwx
