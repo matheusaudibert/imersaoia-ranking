@@ -135,7 +135,7 @@ def main():
     with col2:
         st.markdown("<div style='height:27px'></div>", unsafe_allow_html=True)
         with st.popover("Sobre"):
-            st.markdown("**:red[Este ranking é uma simulação não oficial da votação.]**\n\n**A apuração dos votos atualiza a cada 5 minutos.**\n\n**Para votar em um projeto clique em _:blue[Detalhes]_ que o link para o _:green[Discord]_ aparecerá.**\n\n**🎉 :rainbow[Boa sorte a todos!]**\n\n**🤓 _Desenvoldido por [Audibert](https://www.youtube.com/@audibert)._**")
+            st.markdown("**:red[Este ranking é uma simulação não oficial da votação.]**\n\n**🤓 _Desenvoldido por [Audibert](https://www.youtube.com/@audibert)._**")
     st.markdown("Ranking :gray[_(não oficial)_] dos projetos mais votados da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
     col1, col2 = st.columns(2)
     with col1:
@@ -154,7 +154,7 @@ def main():
     
     st.info(f"O número mínimo para estar no **Top 30** é de :blue[**{min_votes} votos**].")
     
-    st.sidebar.info("A votação se encerra às **hoje** 23:59.")
+    st.sidebar.error("**Votações encerradas**.")
     
     # Sidebar search
     st.sidebar.title("🔎 Pesquise o seu projeto!")
