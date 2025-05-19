@@ -154,8 +154,8 @@ def main():
     
     st.info(f"O número mínimo para estar no **Top 30** desta imersão foi de :blue[**{min_votes} votos**].")
     
-    st.sidebar.error("**Votações encerradas. O resultado sai amanhã às 18:30.**")
-    st.sidebar.info("**Esta imersão contou com 918 projetos.**")
+    st.sidebar.error("**Votações encerradas. O resultado sai amanhã (18/05) às 18:30 na [live de encerramento](www.youtube.com/watch?v=fjL7TnjlJMQ&feature=youtu.be).**")
+    st.sidebar.success("**Esta imersão contou com 918 projetos.**")
     
     # Sidebar search
     st.sidebar.title("🔎 Pesquise o seu projeto!")
