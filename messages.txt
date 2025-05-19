@@ -8,7 +8,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Vitor Oliveira
-Votos: 46
+Votos: 47
 Link: https://github.com/vitorroliveiraa/baby-leaps-ai/tree/main
 Descrição: Uma aplicação inteligente que ajuda pais a entenderem os saltos de desenvolvimento de seus bebês, utilizando a Gemini API para fornecer orientações personalizadas.
 Usuário: oliveiravitor__
@@ -1538,7 +1538,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Giovanna Benazzi de Araujo
-Votos: 24
+Votos: 25
 Link: https://github.com/benazzigi/Projeto-Imersao-2025
 Descrição: Este projeto consiste em um chatbot desenvolvido em Python, utilizando a API do Google Gemini, com o objetivo de gerar planos de estudos personalizados para estudantes. Ao interagir com o chatbot, o usuário informa seu estilo de aprendizado, horários disponíveis, matérias prioritárias, tempo de estudo desejado e objetivos. Com base nessas informações, o chatbot gera um plano de estudos semanal detalhado, incluindo sugestões de recursos de aprendizado online e dicas de técnicas de estudo adequadas ao perfil do usuário.
 Usuário: benazzi_gi_39561
@@ -1601,7 +1601,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Dielson Mendes
-Votos: 24
+Votos: 25
 Link: https://github.com/DielsonM/Cora-Apoio-Inteligente-para-M-es-Solo.git
 Descrição: Cora: Apoio Inteligente para Mães Solo – Uma Mão Amiga em IA  Para muitas mães solo, a jornada da maternidade é marcada pela falta de apoio e inúmeras perguntas sem respostas. Cora nasceu para ser essa mão amiga digital, oferecendo suporte onde a ausência se faz mais sentida.  Cora: Apoio Inteligente para Mães Solo é uma assistente virtual de IA projetada para oferecer apoio informativo, emocional e prático. Com agentes especializados em áreas cruciais como questões jurídicas, bem-estar emocional, recursos sociais e comunicação parental, Cora busca ser um ponto de apoio acessível e constante.  Utilizando pesquisa integrada (google_search), Cora enriquece as respostas dos seus agentes, garantindo informações relevantes e atualizadas. Ela coordena o conhecimento para oferecer um diálogo acolhedor e útil para as usuárias.  Acreditamos no potencial de Cora para transformar a vida de mães solo, oferecendo um suporte essencial em sua jornada. Vote em Cora. Seu voto é um passo em direção a um futuro onde a maternida
 Usuário: dielsonboy
@@ -3167,7 +3167,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Stephanni Cavalcante Rocha
-Votos: 18
+Votos: 19
 Link: https://github.com/stephannica/Alura-google-Projeto-IAcessibilidade
 Descrição: Vivemos em um mundo cada vez mais conectado e baseado em informações textuais. Acessar um site, ler uma matéria, interagir com conteúdo online – ou até mesmo poder ler algo físico que você tem dificuldade de entender; tudo isso pressupõe a habilidade de leitura. O IAcessibilidade busca diminuir essa exclusão e oferece uma ponte auditiva para o vasto universo do texto.  É um projeto movido pela empatia, pela certeza de que a acessibilidade não é um diferencial, mas um direito fundamental e de que todos deveriam poder usufruir.
 Usuário: xte_
@@ -4382,7 +4382,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Elias Araujo
-Votos: 16
+Votos: 17
 Link: https://github.com/eliasaraujo-dev/gemini-health-insight
 Descrição: O Gemini Health Insight é um assistente de saúde preventiva que utiliza inteligência artificial para analisar dados de pacientes e identificar fatores de risco para doenças cardiovasculares. O sistema considera uma variedade de dados, incluindo informações genômicas, histórico médico, estilo de vida e fatores ambientais, para fornecer uma análise de risco personalizada.
 Usuário: sanj1zinn
@@ -5399,7 +5399,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Hans rogério Zimermann
-Votos: 17
+Votos: 18
 Link: https://github.com/hansufsm/FisicaIA
 Descrição: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, especialmente em eletricidade e magnetismo, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 Usuário: zrhans.
@@ -6101,7 +6101,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: José Guilherme Rodrigues Lóssio
-Votos: 34
+Votos: 33
 Link: https://github.com/dappter/Planly
 Descrição: Planly é uma aplicação inovadora que utiliza inteligência artificial do Gemini para analisar sua rotina diária e criar planos de estudo sob medida, otimizando seu tempo e potencializando seu aprendizado. Com uma interface intuitiva e simples, Planly é ideal para estudantes de qualquer área que buscam maximizar seus resultados com organização e tecnologia de ponta.
 Usuário: ze144p
@@ -7316,7 +7316,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Patrício Leites Guimarães
-Votos: 12
+Votos: 15
 Link: https://github.com/Patricius85/Letrinhas-Magicas-projetoAlura.git
 Descrição: Chatbot de Histórias Interativas para Crianças  A leitura pode ser uma aventura ainda mais mágica quando a criança participa ativamente da criação da história. Pensando nisso, desenvolvi um projeto com uma missão especial: estimular a criatividade e o hábito da leitura em crianças de 6 a 10 anos, por meio de uma experiência lúdica e interativa.  Trata-se de um chatbot criativo, onde a criança, com o apoio dos pais, cria suas próprias histórias em um ambiente divertido, seguro e cheio de possibilidades. A ideia nasceu da convivência com minha enteada de 7 anos — uma menina criativa, curiosa e já muito avançada em leitura. Notei que, por estar à frente de seus colegas, algumas atividades escolares se tornavam repetitivas e pouco desafiadoras para ela. Isso me fez refletir: e se a leitura fosse mais do que interpretar histórias prontas? E se ela pudesse ser protagonista da própria narrativa?  Esse chatbot propõe exatamente isso: transformar o momento da leitura em uma experiência personalizada e envolvente, onde
 Usuário: patricius8154
