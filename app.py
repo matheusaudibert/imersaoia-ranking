@@ -156,7 +156,6 @@ def main():
     
     st.sidebar.error("**Votações encerradas. O resultado sai amanhã às 18:30.**")
     st.sidebar.info("**Esta imersão contou com 918 projetos.**")
-    st.sidebar
     
     # Sidebar search
     st.sidebar.title("🔎 Pesquise o seu projeto!")
