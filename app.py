@@ -152,7 +152,7 @@ def main():
     # Pega o número de votos do 30º projeto
     min_votes = sorted_projects[29]['votos'] if len(sorted_projects) >= 30 else 0
     
-    st.info(f"O número mínimo para estar no **Top 30** é de :blue[**{min_votes} votos**].")
+    st.info(f"O número mínimo para estar no **Top 30** desta imersão foi de :blue[**{min_votes} votos**].")
     
     st.sidebar.error("**Votações encerradas. O resultado sai amanhã às 18:30.**")
     st.sidebar.info("**Esta imersão contou com 918 projetos.**")
