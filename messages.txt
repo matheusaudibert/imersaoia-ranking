@@ -98,7 +98,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pablo Ribeiro
-Votos: 67
+Votos: 68
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -206,7 +206,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: JOSUE MONTEIRO UCHOA ALVES
-Votos: 50
+Votos: 51
 Link: https://github.com/JosueMonteiroUchoaAlves/aluraChallenge
 Descrição: O Mentor de Impacto Social por IA é uma aplicação Python que ajuda usuários a criar planos para enfrentar problemas sociais locais, como insegurança alimentar ou falta de água. Usando a interface Textual e a API Gemini, o usuário informa o problema, orçamento, tempo e local, e o sistema gera um plano de ação, sugere ONGs próximas e oferece mensagens motivacionais. Inspirado em iniciativas comunitárias, o projeto promove mudanças reais, abordando desigualdades no Brasil de forma acessível e prática.
 Usuário: _josuemonteiro
@@ -1925,7 +1925,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Nicole maziviero laurini da Silva
-Votos: 12
+Votos: 13
 Link: https://github.com/NicoleMazi/doar-imersao-alura
 Descrição: O Doar é uma plataforma que visa facilitar a conexão entre pessoas que desejam doar roupas, móveis, alimentos e oferecer serviços com aqueles que necessitam desses recursos na região de Biguaçu, Santa Catarina. Este projeto busca construir uma comunidade solidária e eficiente, otimizando o processo de doação e promovendo o apoio mútuo.
 Usuário: mazi5493
@@ -3167,7 +3167,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Stephanni Cavalcante Rocha
-Votos: 17
+Votos: 18
 Link: https://github.com/stephannica/Alura-google-Projeto-IAcessibilidade
 Descrição: Vivemos em um mundo cada vez mais conectado e baseado em informações textuais. Acessar um site, ler uma matéria, interagir com conteúdo online – ou até mesmo poder ler algo físico que você tem dificuldade de entender; tudo isso pressupõe a habilidade de leitura. O IAcessibilidade busca diminuir essa exclusão e oferece uma ponte auditiva para o vasto universo do texto.  É um projeto movido pela empatia, pela certeza de que a acessibilidade não é um diferencial, mas um direito fundamental e de que todos deveriam poder usufruir.
 Usuário: xte_
@@ -8072,7 +8072,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Matheus Audibert
-Votos: 39
+Votos: 40
 Link: https://github.com/matheusaudibert/projeto-aprova
 Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
 Usuário: grwx
