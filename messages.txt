@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 146
+Votos: 147
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -17,7 +17,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: José Marcelo de Miranda
-Votos: 22
+Votos: 23
 Link: https://github.com/b566776/simClassSensIotIA
 Descrição: PIPE LINE IA/ML
 Usuário: Primobsb30
@@ -26,7 +26,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Eric da Silva Alexandre dos Santos
-Votos: 34
+Votos: 35
 Link: https://github.com/Ehrikr/Anamnese/tree/main
 Descrição: Um RPG textual médico investigativo onde cada diagnóstico é um mistério e cada escolha é gerada pela IA Gemini.
 Usuário: ehrikr
@@ -35,7 +35,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 92
+Votos: 93
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -44,7 +44,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: caroline mon
-Votos: 19
+Votos: 20
 Link: https://github.com/karolychan/imersao1-aluragemi
 Descrição: projetokpop
 Usuário: ka.liali
@@ -53,7 +53,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jorge Alegretti
-Votos: 30
+Votos: 31
 Link: https://github.com/jorge-lba/nanny-agent
 Descrição: Agente para auxiliar pais com bebês
 Usuário: rahmai
@@ -80,7 +80,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: GUILHERME SANDLER
-Votos: 21
+Votos: 22
 Link: https://github.com/Guile09-max/teste/blob/main/Agentes_culturais.ipynb
 Descrição: esse é um teste inacabado, foi onde cheguei às 23:53h de 17/05
 Usuário: guile_09
@@ -89,7 +89,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leandro Bitencourt Filgueira
-Votos: 19
+Votos: 20
 Link: https;//github.com/leadrobit/agente-pura-diversao
 Descrição: Agente de IA que te ajuda a encontrar o melhor entretenimento para você!!!
 Usuário: Leandro Filgueira
@@ -98,7 +98,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pablo Ribeiro
-Votos: 71
+Votos: 72
 Link: https://github.com/pablito518/bau_de_receitas
 Descrição: O baú de receitas é uma solução contra o desperdício de sobras de alimentos. Entre na forja e veja o que os magos alquimistas podem conjurar para você.
 Usuário: superdash518
@@ -107,7 +107,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leonardo Cardillo
-Votos: 21
+Votos: 22
 Link: https://github.com/leon-cardi/RevideATS
 Descrição: RevideATS é um sistema de IA multiagente baseado no Google Gemini que analisa seu currículo em camadas profundas de tarefas, atribui pontuação e fornece feedback técnico detalhado para aprimorá-lo.
 Usuário: leon.cardi
@@ -152,7 +152,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leonardo Pereira Ladeira
-Votos: 23
+Votos: 24
 Link: https://github.com/leoladeira76/OpticAI
 Descrição: OpticAI é um sistema inteligente desenvolvido na Imersão IA 2025 (Alura & Google) para analisar e combater o vandalismo em redes de fibra óptica. Utilizando a API do Gemini, a ferramenta processa relatos de incidentes, extrai informações cruciais (localização, dano, causa, recorrência), classifica a gravidade e identifica padrões em ocorrências recentes. O objetivo é otimizar a resposta a incidentes, auxiliar na prevenção e proteger a infraestrutura de telecomunicações. Link do Vídeo no Youtube: https://www.youtube.com/shorts/SBes7Mqbmf8
 Usuário: leo_ladeira
@@ -161,7 +161,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Rober Marcone Rosi
-Votos: 18
+Votos: 19
 Link: https://github.com/rmrosi/Construindo-Agentes---Alura/blob/main/javasensei_notebook.ipynb
 Descrição: O agente recebe um código-fonte em Java e um arquivo JSON contendo o estilo de correção do professor. Ele então:  1. Realiza análise sintática básica e detecção de erros. 2. Compara com uma solução esperada (se disponível). 3. Avalia critérios como clareza, estilo, boas práticas e funcionalidade. 4. Atribui uma nota parcial mesmo para códigos que não compilam, com base na lógica e estrutura parcial implementada. 5. Gera um relatório de correção com comentários educativos.
 Usuário: rmrosi_89120
@@ -179,7 +179,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thomas Yuiti Yano
-Votos: 19
+Votos: 20
 Link: https://github.com/Thomas-Yano/Projeto_Alura.git
 Descrição: Sistema de Geração de Conteúdo Automatizado com Agentes
 Usuário: Yuu
@@ -188,7 +188,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Lucas Trajano
-Votos: 27
+Votos: 26
 Link: https://github.com/CoddeLk/Projeto_Lume.git
 Descrição: Este projeto é um chatbot chamado LUME, desenvolvido em Python, com o propósito de atuar como uma psicóloga virtual de apoio emocional.  Aqui está uma descrição detalhada de seus componentes e funcionalidades:  Objetivo Principal: LUME é projetada para:  Ajudar usuários a identificar e compreender suas emoções. Oferecer um espaço seguro e acolhedor para escuta. Sugerir técnicas leves de bem-estar emocional, como exercícios de respiração, journaling (escrita terapêutica) e escuta ativa. Indicar a importância de procurar um profissional de saúde mental quando necessário. Enfatizar que não substitui terapia profissional nem pode fornecer diagnósticos. Personalidade e Tom de Voz: LUME busca ter um tom de voz:  Acolhedor, calmo, gentil e humano. Evita uma linguagem robótica, utilizando palavras simples, informais e compassivas. Usa emojis com moderação para tornar a conversa mais leve. Funcionamento e Lógica:  Baseado em Fluxos de Conversa: A interação é guiada por "fluxos" pré-definidos que são ativados por "gati
 Usuário: menorlk_59278
@@ -287,7 +287,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Luiza Pinheiro
-Votos: 28
+Votos: 27
 Link: https://github.com/lupinheiro1/imersao-alura-google-public/blob/main/Projeto_Alura_e_Google_Achar_Prontos_socorros_perto_da_sua_localiza%C3%A7%C3%A3o_Luiza_Pinheiro.ipynb
 Descrição: Atenção, Mães e Pais! Em momentos de urgência, cada segundo conta. Você já se viu em pânico, sem saber qual pronto-socorro escolher para seu filho? Qual o menos cheio? Qual aceita seu convênio?  🚀 Pronto-Socorro Inteligente: Seu Guia Essencial em Emergências Médicas! 🚀 Apresentamos um projeto inovador nascido da Imersão Alura Google Gemini Python que promete revolucionar a forma como você lida com emergências de saúde! De mãe para mãe (e para toda a família!), entendemos a dor e a aflição de buscar o melhor atendimento agora.  ✨ A Solução que Você Sempre Quis: Paz de Espírito na Palma da Sua Mão! ✨ Nosso sistema é a resposta para a dúvida crucial de "qual pronto-socorro está melhor AGORA?". Ele vai além da simples localização:  Recomendação Assertiva: Descubra o pronto-socorro mais adequado para sua necessidade, com base em sua localização. Transparência de Convênios: Saiba instantaneamente quais convênios cada hospital aceita, evitando surpresas e agilizando o atendimento. Informação Detalhada: Tenha acess
 Usuário: luiza_37776
@@ -413,7 +413,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Ettiene Sabrina Almeida
-Votos: 27
+Votos: 26
 Link: https://github.com/esabrina/RecipeAssistantAgent
 Descrição: Um agente de Inteligência Artificial conversacional capaz de auxiliar usuários a descobrir e adaptar receitas culinárias com base nos ingredientes disponíveis e restrições alimentares. O projeto também explorará, como bônus, algumas preferências básicas como uso de Airfryer para uma vida mais saudável
 Usuário: n/a
@@ -431,7 +431,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thalles Cunha de Oliveira
-Votos: 27
+Votos: 26
 Link: https://github.com/thallescunhadeoliveira/s.mart.ai
 Descrição: Imagina poder conversar com um chat que tem acesso ao seu histórico de compras no mercado e poder tirar insights disso? Qual foi a última vez que comprei sabão em pó? Quanto gastei em bebidas no mês passado? Quais produtos paguei mais caro esse mês? Com o s.mart.ai, você pode subir informações sobre suas compras em supermercado, farmácia ou qualquer loja, e ter insights sobre seus gastos, além de facilitar sua gestão financeira. S.mart.ai é uma aplicação web interativa que permite conversar com um chatbot inteligente baseado em dados reais de histórico de compras armazenados em MongoDB. Através de interações naturais, o usuário pode consultar, analisar e receber respostas contextualizadas a partir do seu histórico de compras. O chatbot utiliza de agentes especialistas para poder interagir e analisar seus dados.
 Usuário: thallesoliveira2221
@@ -620,7 +620,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Nícolas Alexandre de Assis e Silva
-Votos: 25
+Votos: 26
 Link: https://github.com/Salocin94/English_Teacher
 Descrição: Aprenda inglês de forma iterativa de acordo com o Nivel especificado. Obtenha correções em tempo real e tenha uma conversa fluida.
 Usuário: Nícolas Assis
@@ -1124,7 +1124,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Enrico Souza Afonso
-Votos: 27
+Votos: 26
 Link: https://github.com/EnricoSouzaAfonso/ImersaoGemini_Alura_Conrad/tree/main
 Descrição: Apresento para vocês o Conrad, ele é um assistente de aprendizado, ele tem o foco de ensinar qualquer pessoa, seja sobre coisas simples(Porque o céu é azul?) ou coisas super complicadas(Explique a Teoria das cordas), ele tem 10 estilos de aprendizado diferente, pronto para ensinar e para estar com você sempre que precisar, ele te sugere trilhas de conhecimentos, resumos e muito mais, espero que gostem e que ele seja útil para vocês, obrigado e uma boa noite.
 Usuário: AnonymusFish
@@ -1601,7 +1601,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Dielson Mendes
-Votos: 25
+Votos: 26
 Link: https://github.com/DielsonM/Cora-Apoio-Inteligente-para-M-es-Solo.git
 Descrição: Cora: Apoio Inteligente para Mães Solo – Uma Mão Amiga em IA  Para muitas mães solo, a jornada da maternidade é marcada pela falta de apoio e inúmeras perguntas sem respostas. Cora nasceu para ser essa mão amiga digital, oferecendo suporte onde a ausência se faz mais sentida.  Cora: Apoio Inteligente para Mães Solo é uma assistente virtual de IA projetada para oferecer apoio informativo, emocional e prático. Com agentes especializados em áreas cruciais como questões jurídicas, bem-estar emocional, recursos sociais e comunicação parental, Cora busca ser um ponto de apoio acessível e constante.  Utilizando pesquisa integrada (google_search), Cora enriquece as respostas dos seus agentes, garantindo informações relevantes e atualizadas. Ela coordena o conhecimento para oferecer um diálogo acolhedor e útil para as usuárias.  Acreditamos no potencial de Cora para transformar a vida de mães solo, oferecendo um suporte essencial em sua jornada. Vote em Cora. Seu voto é um passo em direção a um futuro onde a maternida
 Usuário: dielsonboy
@@ -2645,7 +2645,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Aline Rhanny
-Votos: 31
+Votos: 33
 Link: https://github.com/alinerhanny/CodeBuddy.AI
 Descrição: O CodeBuddy.AI é uma plataforma inteligente de apoio à aprendizagem de programação, criada para proporcionar uma experiência interativa e personalizada. Com ele, usuários de todos os níveis podem tirar dúvidas, obter explicações detalhadas e receber ajuda prática na hora de programar — tudo isso com a fluidez e agilidade de um assistente virtual alimentado por inteligência artificial.  O propósito desse projeto é democratizar o ensino da programação, tornando-o acessível, eficiente e engajador. Seja você um iniciante buscando entender os conceitos básicos ou um desenvolvedor experiente que precisa de um suporte rápido, o CodeBuddy.AI está aqui para te ajudar.
 Usuário: rhannyz
@@ -2717,7 +2717,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Roberto Pavusa Junior
-Votos: 15
+Votos: 16
 Link: https://github.com/robdicoco/solid-robot
 Descrição: Morfeu é um oráculo digital que mergulha no subconsciente e interpreta sonhos através do simbolismo antigo, impulsionado pela IA moderna. Nomeado em homenagem a Morfeu, o deus grego dos sonhos, este intérprete faz a ponte entre seus mundos adormecido e desperto, oferecendo insights sobre a misteriosa linguagem de sua mente inconsciente. Morfeu emprega uma sinfonia de quatro agentes de IA especializados trabalhando em harmonia para desvendar os mistérios ocultos em seus sonhos!
 Usuário: kimiga_
@@ -3572,7 +3572,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Kaique Alexandre Souza Kubota
-Votos: 10
+Votos: 11
 Link: https://github.com/SouzaKaique/CarboninhoChatBot
 Descrição: Carboninho - Um chatbot assistente virtual de química, que ajuda no estudo e dúvidas sobre a área química
 Usuário: kaiqueez
@@ -3617,7 +3617,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Roberto Almeida Corrêa dos Santos Neto
-Votos: 22
+Votos: 23
 Link: https://github.com/robertogelobom/Nexus-Cognitivo/tree/main
 Descrição: Desvende o futuro do aprendizado com o Nexus Cognitivo! Impulsionado pela criatividade revolucionária da IA Gemini, nosso projeto transforma o estudo em uma jornada personalizada e dinâmica. Esqueça métodos ultrapassados! O Nexus Cognitivo inova ao buscar conhecimento sob demanda, oferecendo técnicas de estudo inovadoras e recursos de foco jamais vistos. Metas inteligentes, planos adaptáveis e feedback inspirador empoderam o estudante. Mais que um bot, um catalisador de ideias que redefine a educação, elevando-a a um nível de inteligência proativa sem precedentes. O Nexus Cognitivo não é apenas promissor; é a faísca da inovação que incendiará uma nova era de aprendizado eficaz e engajador.
 Usuário: gelobom
@@ -4841,7 +4841,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Lucas Rodrigues Ribeiro
-Votos: 11
+Votos: 12
 Link: https://github.com/lucas-35065/alura_ia
 Descrição: Agente Criador de Encontros Perfeitos (Arquitetura de Agentes): Explore a capacidade da IA em orquestração! Este projeto demonstra como agentes especializados (Buscador, Refinador, Planejador) trabalham juntos, utilizando Google Gemini e ferramentas como busca web, para transformar suas preferências em um plano de encontro perfeito e detalhado.
 Usuário: lucasrodrigues8873
@@ -5030,7 +5030,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Anne Caroline de Souza dos Santos
-Votos: 22
+Votos: 23
 Link: https://github.com/carolinesouzaoffice/Profa-Gimmi
 Descrição: Uma professora de finanças (que só fala sobre isso) muito carinhosa e extremamente didática. Ela mostra sua paixão pelas finanças da forma mais fofa que você vai ver!
 Usuário: carolinesouzaoffice
@@ -5120,7 +5120,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: João Gabriel Lucas Pinheiro de LIma
-Votos: 13
+Votos: 12
 Link: https://github.com/Lohan15/Imers-o-IA/blob/main/.gitignore
 Descrição: # 🤖 EmoMusic AI - Chatbot de Recomendação Musical com Gemini 2.0 Flash  ## 🔍 Visão Técnica  Código Python que implementa um sistema de recomendação musical baseado em emoções utilizando:  ### ✨ Principais Características - **Modelo Gemini 2.0 Flash** para:   - Classificação emocional precisa   - Geração de respostas contextualizadas   - Análise de sentimentos em tempo real  - **Arquitetura do Sistema**:   ```python   # Núcleo Principal   detectar_emocao(texto) -> str          # Classificação com Gemini 2.0   responder_usuario()     # Respostas empáticas   buscar_musica()     # Integração Spotify 🎯 Funcionamento Recebe input do usuário  Classifica emoção usando Gemini 2.0 Flash  Gera:  Resposta humanizada  Recomendação musical personalizada  🛠️ Diferenciais Técnicos Otimizado para Gemini 2.0 Flash (baixa latência)  Sistema de cache para músicas  Tratamento de 10+ emoções distintas  Fallbacks robustos para erros de API 💻 Tecnologias Python 3.10+  Google Generative AI (Gemini 2.0 Flash)  Spotipy (Spotify AP
 Usuário: lohanmands
@@ -5822,7 +5822,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Mário Lúcio
-Votos: 52
+Votos: 53
 Link: https://github.com/marioluciofjr/procurando_vaga
 Descrição: Este projeto utiliza um sistema de múltiplos agentes para auxiliar usuários na busca por vagas de emprego na área de tecnologia. O usuário insere suas informações e preferências de carreira, e quatro agentes especializados entram em ação: Carlos Acha (recrutador), Sofia Leme (mentora de carreira), Laura Code (professora tech) e Hash Tag (especialista em LinkedIn). Cada agente contribui com sua expertise, desde a busca inicial de vagas até dicas de estudo, soft skills, hard skills e otimização do perfil no LinkedIn para aumentar as chances de sucesso da pessoa candidata.
 Usuário: marioluciofjr
@@ -6902,7 +6902,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pedro Araujo de Andrade
-Votos: 41
+Votos: 40
 Link: https://github.com/peuweb/loopa
 Descrição: Imagine começar o dia sabendo exatamente o que fazer — sem abrir o Trello, ClickUp ou Google Calendar. O Loopa é um assistente virtual que se conecta às suas ferramentas de produtividade e envia um resumo inteligente das suas tarefas direto no WhatsApp. É clareza, foco e tempo livre — todos os dias, sem esforço.
 Usuário: peuweb
@@ -7001,7 +7001,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thais de Souza Silva Sanitar
-Votos: 12
+Votos: 13
 Link: https://github.com/southaisdev/projeto_controle_DM1/blob/main/Projeto_Controle_DM1.ipynb
 Descrição: Projeto usando IA para ajudar no controle da Diabetes Mellitus Tipo 1
 Usuário: sou_thais
@@ -7037,7 +7037,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Fabricio Augusto Oliveira Bastos
-Votos: 11
+Votos: 12
 Link: https://github.com/Gutobastos/imersao-iA-3-Alura
 Descrição: Projeto: Sistema de Pesquisa de Preços de Móveis e Produtos com Avaliação de Qualidade
 Usuário: guto_bastos
@@ -7046,7 +7046,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Giovanna Delay Hernandes de Abreu
-Votos: 11
+Votos: 12
 Link: https://github.com/gdhabreu/aprenda-com-agentes-ia/tree/main
 Descrição: Este projeto em Python explora o uso da biblioteca google-adk para criar agentes de inteligência artificial capazes de auxiliar no aprendizado de diversos tópicos. O sistema permite que o usuário insira um assunto de interesse, e os agentes se encarregam de buscar explicações concisas, gerar exercícios práticos e integrar as informações para facilitar o processo de aprendizado. Como professora de inglês e estudante de ADS, utilizo muito pesquisas pra criação de exercícios e resumo de tópicos para meus alunos e uso pessoal de estudos.
 Usuário: pirixete
@@ -7055,7 +7055,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Rogério Queiroga Barros
-Votos: 10
+Votos: 11
 Link: https://github.com/rogerio-BH/guia-interativo-exploracao-urbana
 Descrição: Desvende os segredos e encantos das cidades com o "Guia Interativo de Exploração Urbana Personalizada"! 🗺️✨  Este projeto inovador utiliza o poder da inteligência artificial (API Gemini) para transformar a maneira como você descobre novos lugares. Basta inserir a cidade desejada e a categoria de seu interesse (de história à gastronomia, de pontos turísticos a curiosidades), e o guia gera instantaneamente uma lista personalizada de pontos imperdíveis, com descrições cativantes para despertar a sua curiosidade.  Quer saber mais sobre aquele lugar que te chamou a atenção? Com um simples clique em "Ver Mais Detalhes", mergulhe em informações completas, como endereço, horário de funcionamento e dicas de visita, tudo ao alcance dos seus dedos.  O "Guia Interativo" é a ferramenta perfeita para o viajante moderno, o explorador local e qualquer pessoa ávida por descobrir a riqueza cultural e as maravilhas escondidas de cada cidade. Prepare-se para uma jornada de descobertas urbanas como nunca antes! 🚀🏙️
 Usuário: rogerioBH
@@ -7064,7 +7064,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Kevin Zamperetti Schepke
-Votos: 12
+Votos: 13
 Link: https://github.com/kevinzamperetti/nutri-ideias-ai
 Descrição: Nutri Ideias AI: Seu guia inteligente para uma nutrição melhor. ✨ Ideias de refeições, análises rápidas e um chatbot pessoal para te acompanhar. Nutrição descomplicada, a um chat de distância! 💬💚
 Usuário: zamperetti
@@ -7091,7 +7091,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Claudio Paiva
-Votos: 12
+Votos: 13
 Link: https://github.com/pvclaudio/valid_medicao
 Descrição: sistema de auditoria automatizada e inteligente para análise de boletins de medição e contratos
 Usuário: Claudio Paiva
@@ -7118,7 +7118,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Smyrna Soares Cesar
-Votos: 15
+Votos: 16
 Link: https://github.com/SmyrnaSc/Meu-Plano-IA.git
 Descrição: O "Meu Plano IA" é uma ferramenta que utiliza a inteligência artificial do Google Gemini para gerar planos de estudo personalizados. Ao fornecer informações como seu objetivo de aprendizado, tempo disponível, nível de conhecimento e recursos preferenciais, o sistema cria um roteiro completo e adaptado às suas necessidades. O projeto foi estruturado e rodado no Google Colab, aproveitando a facilidade de uso e as bibliotecas disponíveis nesse ambiente.
 Usuário: smyrna1576
@@ -7145,7 +7145,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: maximilian hagen hotta
-Votos: 10
+Votos: 11
 Link: https://github.com/mxhotta/Alura
 Descrição: Buscador de vagas de emprego por região e área de atuação, e redator de email de apresentação de candidatura
 Usuário: maxhotta
@@ -7154,7 +7154,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Isabela Freire
-Votos: 11
+Votos: 12
 Link: https://github.com/Isabela-Freire/imersao-ia
 Descrição: 🤖 Criei 3 agentes que trabalham de forma coordenada para gerar uma receita com base nos ingredientes que você tem em casa.
 Usuário: isaaafff2414
@@ -7199,7 +7199,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Giulia Piombo
-Votos: 11
+Votos: 12
 Link: https://github.com/giupiombo/recipe-genai/tree/main?tab=readme-ov-file#-project
 Descrição: O projeto fornece recomendações de receitas e bebidas, permitindo que os usuários insiram os ingredientes desejados, restrições alimentares e/ou culinária preferida, e recebam uma seleção de receitas. Também permite que os usuários solicitem uma sugestão de bebida para a receita selecionada.
 Usuário: Giulia Piombo
@@ -7217,7 +7217,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Matheus Parreira
-Votos: 10
+Votos: 11
 Link: https://github.com/matheusparreira22/respondeia
 Descrição: O projeto é a solução de um problema que eu tive em atendimento no ramo de material de construção, onde eu não tinha conhecimento para pedir os itens certos. Nos comentários de um produto em uma pagina web a IA responde baseado em uma base ou de maneira abrangente, exemplo: "O que é  possível fazer com esse material".
 Usuário: supermatheus99
@@ -7226,7 +7226,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Alexandre Cunha
-Votos: 11
+Votos: 12
 Link: https://github.com/alexsc715/ImersaoAluraGoogle2025
 Descrição: É um Assistente de Saúde que está pronto  te auxiliar quando você não estiver se sentindo bem. Você diz ao assistente seus sintomas, ele retorna com possíveis doenças e a especialidade médica mais indicada para fazer o tratamento inicial. E você quiser ele ainda pesquisa clínicas e consultórios próximos de sua cidade com o link o site e localização no google maps. Assim ficará muito mais fácil cuidar de sua saúde!
 Usuário: alexsilva415
@@ -7235,7 +7235,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Ewerton Seixas
-Votos: 11
+Votos: 12
 Link: https://github.com/ewertonhseixas/DnD-Master-Assistent-AI
 Descrição: Assistente de criação de histórias para RPG de Mesa (Dungeons And Dragons 5E)
 Usuário: ewertonseixas
@@ -7244,7 +7244,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thaís Oliveira
-Votos: 11
+Votos: 12
 Link: https://github.com/nvthz/conecta-cultura.git
 Descrição: O Conecta Cultura visa ser mais do que um simples agregador de eventos; ele quer ser um catalisador de experiências culturais significativas, um conector entre o usuário e a pulsação cultural da cidade, incentivando a exploração, a participação e a criação de memórias.
 Usuário: persefoneub
@@ -7532,7 +7532,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: João Lucas Aguiar Brandão Silva
-Votos: 12
+Votos: 13
 Link: https://github.com/Guiado011/chatboot.git
 Descrição: Ao aprender sobre inteligência artificial, percebi que poderia usar a tecnologia para algo simples, mas importante: ajudar pessoas a descartarem seus resíduos de forma correta.  Criei um chatbot que entende o tipo de resíduo que você quer jogar fora, reconhece a sua localização e te indica os ecopontos mais próximos — tudo de forma interativa e prática.  Pode parecer pequeno, mas é o tipo de solução que, somada a outras, faz diferença. Porque cuidar do planeta também começa com informação acessível e ações conscientes. 🌍💚
 Usuário: guiado_por_deus_01
@@ -7577,7 +7577,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Victor Costacurta
-Votos: 34
+Votos: 35
 Link: https://github.com/profvictor/terapIA.git
 Descrição: 💬 terapIA – Sua saúde mental vale muito! Descubra como o Gemini pode ser seu aliado no cuidado emocional. Me ajude a realizar meu sonho de estudar! Clique, conheça e vote! ❤️🤖
 Usuário: prof_victor
@@ -7856,7 +7856,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Bruno Valle
-Votos: 15
+Votos: 16
 Link: https://github.com/BruValle/Weather-Preview-GenAI
 Descrição: Monitoramento e Prevenção de Alagamentos: Automação do Acionamento de Bombas em Situações de Emergência, Evitando Desastres (como no Rio Grande do Sul).
 Usuário: brunovalle
@@ -8072,7 +8072,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Matheus Audibert
-Votos: 46
+Votos: 47
 Link: https://github.com/matheusaudibert/projeto-aprova
 Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
 Usuário: grwx
@@ -8162,7 +8162,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Caroline Fernandes Santos
-Votos: 20
+Votos: 21
 Link: https://github.com/carolinesantosss/esvaziamenteja
 Descrição: EsvaziaMenteJá 1.0 é a IA que organiza o caos mental com eficiência. Dê uma espiada e veja como a gente transforma "pensamentos aleatórios" em "próximos passos" (algo que seus projetos talvez precisem!). 😉
 Usuário: carolinesantosss
@@ -8198,7 +8198,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Paulo Victor Rios Pinto
-Votos: 12
+Votos: 13
 Link: https://github.com/riosvictor/poc-workflow-ia
 Descrição: Este projeto demonstra a integração de Inteligência Artificial (Google Gemini) com fluxos de trabalho automatizados, permitindo que usuários iniciem processos através de comandos em linguagem natural.
 Usuário: paulo.rios
