@@ -1,5 +1,5 @@
 Nome: Luiz Felipe Lima
-Votos: 145
+Votos: 146
 Link: https://github.com/flimaz/LumaGestante
 Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 Usuário: limalf
@@ -35,7 +35,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 91
+Votos: 92
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -188,7 +188,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Lucas Trajano
-Votos: 26
+Votos: 27
 Link: https://github.com/CoddeLk/Projeto_Lume.git
 Descrição: Este projeto é um chatbot chamado LUME, desenvolvido em Python, com o propósito de atuar como uma psicóloga virtual de apoio emocional.  Aqui está uma descrição detalhada de seus componentes e funcionalidades:  Objetivo Principal: LUME é projetada para:  Ajudar usuários a identificar e compreender suas emoções. Oferecer um espaço seguro e acolhedor para escuta. Sugerir técnicas leves de bem-estar emocional, como exercícios de respiração, journaling (escrita terapêutica) e escuta ativa. Indicar a importância de procurar um profissional de saúde mental quando necessário. Enfatizar que não substitui terapia profissional nem pode fornecer diagnósticos. Personalidade e Tom de Voz: LUME busca ter um tom de voz:  Acolhedor, calmo, gentil e humano. Evita uma linguagem robótica, utilizando palavras simples, informais e compassivas. Usa emojis com moderação para tornar a conversa mais leve. Funcionamento e Lógica:  Baseado em Fluxos de Conversa: A interação é guiada por "fluxos" pré-definidos que são ativados por "gati
 Usuário: menorlk_59278
@@ -215,7 +215,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Dérick Firmino da Silva
-Votos: 43
+Votos: 42
 Link: 8a8fe2a9823869232a57f9affc3cdc0c216e7fbc
 Descrição: Meu projeto é um Agente de IA professor. Escolhi esse projeto porque eu gosto muito de estudar usando IA, e, sempre que eu recomendava o uso de IA pra algum amigo, eles diziam não ter tido uma boa experiência nessas interações com IA. Os tópicos de reclamações eram sempre os mesmos, respostas muito longas; dificuldade de manter uma linha de estudos; alucinações com o decorrer do tempo; erros em algumas respostas e por ai vai. Tendo isso em vista, preparei e elaborei um professor, que fosse pré-definido para não cometer esses erros e mais, trazer uma didática e dinâmica no ensino que seja fluida e eficiente. Dividido em 5 chat-bots internos: (Chat-Bot_1, analisa seu prompt, identifica qual ou quais os temas que você deseja aprender e qual tipo de comando você enviou (pergunta, explicação, resumo…), identifica qual a profundidade da resposta que você espera e reformula seu prompt baseado na análise de desse conteúdo que ele coletou e estruturou em três etapas que eu as chamei de “tarefas”; Chat-Bot_2, esse rece
 Usuário: dk7845
@@ -620,7 +620,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Nícolas Alexandre de Assis e Silva
-Votos: 26
+Votos: 25
 Link: https://github.com/Salocin94/English_Teacher
 Descrição: Aprenda inglês de forma iterativa de acordo com o Nivel especificado. Obtenha correções em tempo real e tenha uma conversa fluida.
 Usuário: Nícolas Assis
@@ -2339,7 +2339,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Gabriel Henrique dos Anjos
-Votos: 15
+Votos: 16
 Link: https://github.com/Cripytou/RPG_Python_Alura.git
 Descrição: Meu projeto é um RPG de texto feito para ensinar programação básica de Python junto ao contexto de um mundo RPG. Onde vamos ter o Google Gemini de chat bot atuando como Mestre(GM) e professor de Python. Podendo jogar a partir do terminal e dando as respostas e vendo as mecânicas na hora. Feito com Google Colab.
 Usuário: cripytou
@@ -2420,7 +2420,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Robert Evangelista Nascimento
-Votos: 10
+Votos: 11
 Link: https://github.com/roberten2608/alura_imersao
 Descrição: agente_criacao_atividades_educativas
 Usuário: robert_nascimento
@@ -2429,7 +2429,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Andreas Pirker
-Votos: 10
+Votos: 11
 Link: https://github.com/Thjarkgh/cura-saudade/tree/main
 Descrição: Você está com saudades de viajar? Quer abandonar a sua rotina diária, só pegar a mala e viajar sem pensar nas consequências? Sonhador(a), vem aqui falar com o nosso agente!
 Usuário: Urjak#2018
@@ -2438,7 +2438,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Bruna Mirele
-Votos: 8
+Votos: 9
 Link: https://github.com/brunamirele/agentes_ia/blob/main/Agentes_de_IA_para_Radar.ipynb
 Descrição: Agentes de IA para buscar notícias de determinado tema no Google, permitir a seleção manual de notícias e direcionar para outro agente fazer o resumo da notícia
 Usuário: brunamirele9385
@@ -2447,7 +2447,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Etiene Teixeira da Silva
-Votos: 12
+Votos: 13
 Link: https://github.com/etienefortuna/agente-rota-certa
 Descrição: Bot inteligente para motoristas de aplicativo que calcula a rota mais curta (em km) entre origem e destino, ajudando a economizar combustível e evitar prejuízos com rotas mais longas.  Muitas vezes o Waze escolhe a rota mais rápida, mas não a mais curta? E quem paga o prejuízo com o combustível extra somos nós motorista.  Agente Rota Certa é um bot inteligente feito especialmente para motoristas de aplicativo, assim como eu, que estão cansados de perder dinheiro por causa de rotas mais longas e sem sentido.  Com ele, temos o poder de calcular a rota mais curta em quilômetros entre o ponto de partida e o destino — direto pelo Telegram, em segundos. Isso significa mais economia, menos desgaste no carro e muito mais controle sobre as nossas corridas.  🚗 Chega de ser refém de apps que pensam no passageiro, mas não no motorista. 💰 Economize combustível. Reduza seus custos. Aumente seus lucros. 📍 Planeje suas rotas com inteligência e autonomia.  Agente Rota Certa não é só um bot. É o copiloto que todo motorista
 Usuário: Etiene Teixeira
@@ -2456,7 +2456,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Sandra Reis Prata
-Votos: 11
+Votos: 12
 Link: https://github.com/SanReis/chatbot-mae-carreira.git
 Descrição: Chatbot Maternidade em Ação: Ajuda mães a identificar, traduzir e valorizar habilidades desenvolvidas na maternidade para impulsionar suas carreiras com o auxílio de IA.
 Usuário: sanreisprata
@@ -2465,7 +2465,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Kleber Klaar Ferreira Lima
-Votos: 10
+Votos: 11
 Link: https://github.com/KleberKlaar/Projeto-Alura
 Descrição: Uma ferramenta Python com interface gráfica para educadores criarem e exportarem planos de aula detalhados usando o poder dos Agentes Google Gemini.
 Usuário: kleberklaar
@@ -2474,7 +2474,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Erik da Silva Alves
-Votos: 14
+Votos: 15
 Link: https://github.com/esa1715/fixa-ai-dev
 Descrição: Dificuldades para aprender um conceito Tech? 🤔 Conheça o Fixa AI DEV! Em um chat interativo, a IA usa múltiplos agentes e consegue criar analogias até mesmo personalizadas para que você encontre uma conexão 🤝 com sua área e/ou seus hobbies. Além disso, ela te dá ideias de projetos 💡 para que você possa praticar e aprender de verdade. Tudo isso para tentar lhe ajudar a entender e FIXAR conceitos o mais rápido possível! 🚀
 Usuário: esa1715
@@ -2483,7 +2483,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Bruno Oliveira
-Votos: 12
+Votos: 13
 Link: https://github.com/bcnoliveira/escutai
 Descrição: Chatbot inteligente e empático que utiliza 4 multi agentes AI. Ele recebe a idade e a mensagem de como a pessoa está se sentindo, identifica sua emoção e responde com acolhimento e empatia, oferecendo conteúdo extra de vídeo reconfortante. Em casos mais graves, aconselha diretamente o CVV - Centro de Valorização da Vida
 Usuário: bcnoliveira_47129
@@ -2492,7 +2492,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: emanoel romario da silva
-Votos: 11
+Votos: 12
 Link: https://github.com/e-romario/assistente-ai-trabalhos-academicos
 Descrição: assistente de pesquisa acadêmica e formatação
 Usuário: neo4565
@@ -2501,7 +2501,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: CLAUDIO SILVA ALMEIDA
-Votos: 10
+Votos: 11
 Link: https://github.com/1975Claudio/Api/blob/main/Imers%C3%A3o_IA_Alura_Projeto_Agentes_Advocacia.ipynb
 Descrição: Sistema de Criação de Peças Processuais com Agentes de IA
 Usuário: Claudio_Almeida
@@ -2510,7 +2510,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Julia Barbara Mota
-Votos: 9
+Votos: 10
 Link: https://github.com/J1l2a/Projeto-Imers-o---IA
 Descrição: Projeto - Imersão IA ( chatbot Pré-Atendimento de vendas de moto)
 Usuário: j1l2a
@@ -2519,7 +2519,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Caio Cesar Vieira Cavalcanti
-Votos: 12
+Votos: 13
 Link: https://github.com/CesarImperas/agente-cidadao-inteligente
 Descrição: O projeto ACI (Agente Cidadão Inteligente) tem como objetivo facilitar o acesso dos cidadãos de uma determinada região, a informações sobre serviços sociais e recursos relacionados com áreas como: Educação, Saúde e Segurança. Ele utiliza um chatbot alimentado pela API do Google Gemini para responder a perguntas dos usuários de forma inteligente e fornecer detalhes relevantes sobre os serviços disponíveis. De forma sucinta, confiável e amigável, atingindo todos e qualquer público-alvo.
 Usuário: cesar.c4io
@@ -2528,7 +2528,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Nagela Martins Souza
-Votos: 12
+Votos: 13
 Link: https://github.com/nagelamartins/projeto-agente-IA
 Descrição: Este projeto explora o uso de agentes de IA para otimizar a experiência de aprendizado. O sistema emprega dois agentes colaborativos: um para selecionar os melhores recursos de estudo online sobre um tópico especificado pelo usuário, e outro para criar um plano de estudo personalizado, dividido em sprints de foco, no estilo Pomodoro. A solução demonstra o potencial da IA para personalizar a educação, tornando o estudo mais eficiente e engajador.
 Usuário: Nagela Martins
@@ -2708,7 +2708,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Thiago Aguiar Lima
-Votos: 18
+Votos: 19
 Link: https://github.com/xthiagolima/tradutor-de-pptx
 Descrição: Traduza automaticamente seus arquivos PowerPoint para qualquer idioma, mantendo o layout original intacto — com ajuda de agentes inteligentes e revisão automática. Traduza em segundos ou minutos. Ideal para equipes globais, apresentações corporativas e conferências.
 Usuário: cj_t4582
@@ -5399,7 +5399,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Hans rogério Zimermann
-Votos: 18
+Votos: 19
 Link: https://github.com/hansufsm/FisicaIA
 Descrição: Criar um sistema de múltiplos agentes que ajuda estudantes a resolver problemas complexos de física, especialmente em eletricidade e magnetismo, com visualização, explicação passo a passo e conexão com aplicações do mundo real.
 Usuário: zrhans.
@@ -6506,7 +6506,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Junynho Francisco Pereira Souza
-Votos: 17
+Votos: 18
 Link: https://github.com/JunynhoPereira/imersao-ia-alura
 Descrição: O EcoMente é um assistente pessoal desenvolvido com IA generativa que busca acolher e orientar pessoas com TDAH e TEA nível 1 no dia a dia.  O projeto oferece sugestões de rotina, registro emocional e dicas personalizadas com empatia e simplicidade.  Mais do que uma ferramenta de produtividade, o EcoMente é uma proposta de cuidado digital, promovendo bem-estar mental por meio da tecnologia.
 Usuário: junynhosouza8107
@@ -7577,7 +7577,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Victor Costacurta
-Votos: 35
+Votos: 34
 Link: https://github.com/profvictor/terapIA.git
 Descrição: 💬 terapIA – Sua saúde mental vale muito! Descubra como o Gemini pode ser seu aliado no cuidado emocional. Me ajude a realizar meu sonho de estudar! Clique, conheça e vote! ❤️🤖
 Usuário: prof_victor
@@ -7613,7 +7613,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leonel Francisco G. Dos Santos
-Votos: 10
+Votos: 11
 Link: https://github.com/leozuta/Plantinha-do-Conhecimento.git
 Descrição: Este projeto é uma plantinha que cresce a medido que você adquire conhecimentos dados por ela sobre alguma assunto acadêmico
 Usuário: kokonoi70
@@ -7622,7 +7622,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Rodrigo Ribeiro Neto
-Votos: 11
+Votos: 12
 Link: https://github.com/RodrigoNetoPro/imersao-alura-googlegemini-2025
 Descrição: Gerador de Roteiros para Vídeos do YouTube
 Usuário: rodrigonetopro
@@ -7649,7 +7649,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Vinicius calisto
-Votos: 10
+Votos: 11
 Link: https://github.com/viniton12/EcoAI
 Descrição: Projeto desenvolvido para gerar relatórios automatizados sobre espécies da biodiversidade brasileira, integrando a API do Gemini AI com Python. O sistema analisa informações biológicas e ecológicas e gera relatórios em Markdown para facilitar a divulgação científica e educação ambiental
 Usuário: condvin
@@ -7658,7 +7658,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Vinicius calisto
-Votos: 11
+Votos: 12
 Link: https://github.com/viniton12/biochat
 Descrição: BioChat é um assistente virtual inteligente voltado para estudantes, professores e entusiastas de biologia que desejam automatizar tarefas comuns de estudo e pesquisa, utilizando a poderosa API do Google Gemini. O BioChat consegue identificar espécies em textos científicos, gerar resumos curtos e criar questionários de múltipla escolha, facilitando o aprendizado e a revisão do conteúdo.
 Usuário: condvin
@@ -7667,7 +7667,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Alan Goncalves
-Votos: 13
+Votos: 14
 Link: https://github.com/Alangonc/healthBot
 Descrição: Este projeto demonstra a criação de um chatbot interativo utilizando a API Google Gemini para auxiliar usuários a entenderem suas receitas médicas. O chatbot é capaz de processar documentos PDF (receitas), extrair informações sobre medicamentos e insumos, e fornecer uma estimativa de custos simulada com base em consultas (simuladas) a três grandes redes de farmácias brasileiras.
 Usuário: Alan Goncalves
@@ -7694,7 +7694,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: WalkerTECH AI Financer
-Votos: 14
+Votos: 15
 Link: https://github.com/Walker10TECH/WalkerTECH-Financer-AI
 Descrição: WalkerTECH AI-Financer Pro é uma plataforma de análise financeira inteligente que utiliza inteligência artificial para ajudar você a tomar melhores decisões de investimento, aplicação, entre outros!
 Usuário: Willyan Walker(W3)
@@ -7712,7 +7712,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Giliano Gomes Novais
-Votos: 10
+Votos: 11
 Link: https://github.com/GilianoGN/AI-Contador-de-Hist-Alura.git
 Descrição: Contador de Histórias com Inteligência Artificial
 Usuário: giliano_64913
@@ -7784,7 +7784,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Raul Marcos da Rocha
-Votos: 37
+Votos: 38
 Link: https://github.com/raulrocha/reporta-ai-prototipo
 Descrição: O "Reporta Aí" é um protótipo de aplicativo cívico inovador que utiliza o poder da Inteligência Artificial para simplificar e otimizar o processo de reporte de problemas urbanos
 Usuário: raulmrocha
@@ -7793,7 +7793,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pedro Oliveira Silva
-Votos: 9
+Votos: 10
 Link: https://github.com/MVPetrus/imersao-IA-Alura---Alfred
 Descrição: Alfred: AI amigo e estoico para suporte prático no seu crescimento pessoal.
 Usuário: lothur
@@ -7802,7 +7802,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Robson Volnei Silva
-Votos: 10
+Votos: 11
 Link: https://github.com/caralhorobson/Sugestao-de-livro-por-Gemini.git
 Descrição: Chat Bot que faz sugestão de livro para o usuario com entrada de tema, com até 5 indicações de livros, um resumo com data de lançamento e numero de paginas e ao fim mostra links dos livros na internet.
 Usuário: XXXXXX
@@ -7964,7 +7964,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Angélica Alves Viana
-Votos: 46
+Votos: 47
 Link: https://github.com/angelica-ti/project-avia.git
 Descrição: No cenário digital atual, garantir que websites e aplicações sejam acessíveis é mais do que uma exigência legal ou uma boa prática; é um imperativo para a inclusão de milhões de pessoas. No entanto, a complexidade das diretrizes de acessibilidade, como a WCAG 2.2, pode representar um desafio significativo para desenvolvedores, designers e equipes que buscam construir ambientes online verdadeiramente universais.  É para atender a essa necessidade que surge o AVIA (Accessible Virtual Interface Assistant).  AVIA é uma assistente virtual especializada em acessibilidade digital, criada especificamente para apoiar desenvolvedores, designers e equipes no processo de construção de uma web mais inclusiva. A missão do AVIA é descomplicar as complexas diretrizes da WCAG 2.2, transformando um documento técnico em um diálogo prático e acionável.  Funcionando como uma ferramenta de suporte inteligente, AVIA permite que desenvolvedores, designers e equipes tirem dúvidas em tempo real sobre critérios de acessibilidade especí
 Usuário: angelica_viana
@@ -7973,7 +7973,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Ieda Ferreira Alves Flock
-Votos: 16
+Votos: 17
 Link: https://github.com/ieda-ia/imersao-ia-alura-gemini/blob/main/Imersao_IA_Alura_%2B_Google_Gemini_Projeto_Final_Agentes_IEDA.ipynb
 Descrição: O projeto é um agente que cria exercícios para treinamento e reabilitação cognitivos com exercícios de memorização, atenção e linguagem.
 Usuário: majestic_kitten_02755
@@ -7982,7 +7982,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leonardo Flach
-Votos: 12
+Votos: 13
 Link: https://github.com/leoflach/EcoScan-IA-Planeta-Sustentavel
 Descrição: EcoScan: Visão Inteligente para um Planeta Sustentável O EcoScan é uma solução revolucionária que utiliza inteligência artificial para transformar o modo como lidamos com nossos resíduos. Em um país onde apenas 3% do lixo é efetivamente reciclado, o EcoScan ataca diretamente a raiz do problema: a falta de conhecimento sobre descarte correto. Utilidade do Projeto O EcoScan oferece uma ferramenta prática e acessível que permite a qualquer pessoa identificar instantaneamente como descartar corretamente seus resíduos. Com uma simples foto, o usuário recebe instruções personalizadas, localiza pontos de coleta próximos e visualiza o impacto ambiental positivo de suas ações. Problema Real Resolvido O Brasil produz 79 milhões de toneladas de resíduos sólidos anualmente, com a maior parte indo para aterros sanitários ou lixões. A contaminação de materiais recicláveis por descarte incorreto impede que até 30% do potencial de reciclagem seja aproveitado. O EcoScan elimina a barreira do desconhecimento e facilita o desca
 Usuário: leonardoflach_49236
@@ -8036,7 +8036,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Leonardo Flach
-Votos: 13
+Votos: 14
 Link: https://github.com/leoflach/EcoScan-IA-Planeta-Sustentavel
 Descrição: EcoScan: Visão Inteligente para um Planeta Sustentável O EcoScan é uma solução revolucionária que utiliza inteligência artificial para transformar o modo como lidamos com nossos resíduos. Em um país onde apenas 3% do lixo é efetivamente reciclado, o EcoScan ataca diretamente a raiz do problema: a falta de conhecimento sobre descarte correto. Utilidade do Projeto O EcoScan oferece uma ferramenta prática e acessível que permite a qualquer pessoa identificar instantaneamente como descartar corretamente seus resíduos. Com uma simples foto, o usuário recebe instruções personalizadas, localiza pontos de coleta próximos e visualiza o impacto ambiental positivo de suas ações. Problema Real Resolvido O Brasil produz 79 milhões de toneladas de resíduos sólidos anualmente, com a maior parte indo para aterros sanitários ou lixões. A contaminação de materiais recicláveis por descarte incorreto impede que até 30% do potencial de reciclagem seja aproveitado. O EcoScan elimina a barreira do desconhecimento e facilita o desca
 Usuário: leof9566
