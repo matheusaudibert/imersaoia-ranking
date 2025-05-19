@@ -35,7 +35,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Renan Gustavo Carvalho Miranda
-Votos: 78
+Votos: 80
 Link: https://github.com/renangustavou/lumina.ai
 Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
 Usuário: kenan.w
@@ -53,7 +53,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jorge Alegretti
-Votos: 28
+Votos: 31
 Link: https://github.com/jorge-lba/nanny-agent
 Descrição: Agente para auxiliar pais com bebês
 Usuário: rahmai
@@ -62,7 +62,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Luis Henrique Figueiredo Germano
-Votos: 47
+Votos: 50
 Link: https://github.com/Dev-Ls-07/Projeto_Canvas/tree/main
 Descrição: É um Projeto sobre o Modelo De Negócios Canvas
 Usuário: ls04936
@@ -170,7 +170,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Davi Leite
-Votos: 28
+Votos: 29
 Link: https://github.com/davijleite/Projeto_Desafio_Alura_Google
 Descrição: Facilitador e Buscador de contatos para Idosos!
 Usuário: davileite4414
@@ -188,7 +188,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Lucas Trajano
-Votos: 21
+Votos: 23
 Link: https://github.com/CoddeLk/Projeto_Lume.git
 Descrição: Este projeto é um chatbot chamado LUME, desenvolvido em Python, com o propósito de atuar como uma psicóloga virtual de apoio emocional.  Aqui está uma descrição detalhada de seus componentes e funcionalidades:  Objetivo Principal: LUME é projetada para:  Ajudar usuários a identificar e compreender suas emoções. Oferecer um espaço seguro e acolhedor para escuta. Sugerir técnicas leves de bem-estar emocional, como exercícios de respiração, journaling (escrita terapêutica) e escuta ativa. Indicar a importância de procurar um profissional de saúde mental quando necessário. Enfatizar que não substitui terapia profissional nem pode fornecer diagnósticos. Personalidade e Tom de Voz: LUME busca ter um tom de voz:  Acolhedor, calmo, gentil e humano. Evita uma linguagem robótica, utilizando palavras simples, informais e compassivas. Usa emojis com moderação para tornar a conversa mais leve. Funcionamento e Lógica:  Baseado em Fluxos de Conversa: A interação é guiada por "fluxos" pré-definidos que são ativados por "gati
 Usuário: menorlk_59278
@@ -377,7 +377,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pâmella Santos Fialho
-Votos: 20
+Votos: 21
 Link: https://github.com/pamsfih/descomplicafood
 Descrição: Um chatbot inteligente que oferece informações acessíveis e dicas práticas para pessoas com intolerância a glúten e lactose, visando facilitar o dia a dia, aumentar a confiança e promover uma vida social ativa, sem que as restrições alimentares sejam um obstáculo.
 Usuário: pamsfih
@@ -611,7 +611,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Francisco Gabriel
-Votos: 33
+Votos: 34
 Link: https://github.com/PouDev/Projeto-Caderno-de-Dividas-IA
 Descrição: Meu projeto é um Caderno de Dividas com integração IA de fácil uso, feito pra uso real por qualquer pessoa. Ele foi feito pensando em resolver um problema real!! O problema que meu pai enfrenta ao trabalhar numa loja pequena e ter anotar e calcular um monte de dívidas manualmente, o Caderno de Dividas virtual foi feito pra guardar informações detalhadas sobre as dividas e fazer contas de forma rapida
 Usuário: imgabow
@@ -647,7 +647,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Aldilene Antonow
-Votos: 21
+Votos: 22
 Link: https://github.com/aldiantonow/imersao-alura
 Descrição: Projeto que utiliza agentes de IA para fornecer recomendações personalizadas de animes, analisando as preferências do usuário e refinando as sugestões em múltiplas etapas.
 Usuário: Aldi Antonow
@@ -1016,7 +1016,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Tcharles Sousa Coutinho
-Votos: 18
+Votos: 19
 Link: https://github.com/Tchacor/mao_na_roda.git
 Descrição: O projeto "Mão na Roda - Seu Faz-Tudo Digital" é um assistente inteligente e conversacional de IA. Ele visa democratizar o conhecimento em reparos domésticos básicos e DIY, empoderando usuários a resolverem problemas comuns em casa de forma autônoma, segura e eficiente. Atuando como um "Faz-Tudo Digital", guia passo a passo, diagnostica situações, sugere materiais e fornece instruções claras, promovendo autossuficiência, economia e sustentabilidade ao incentivar o reparo em vez do descarte.
 Usuário: tchacor
@@ -1124,7 +1124,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Enrico Souza Afonso
-Votos: 19
+Votos: 21
 Link: https://github.com/EnricoSouzaAfonso/ImersaoGemini_Alura_Conrad/tree/main
 Descrição: Apresento para vocês o Conrad, ele é um assistente de aprendizado, ele tem o foco de ensinar qualquer pessoa, seja sobre coisas simples(Porque o céu é azul?) ou coisas super complicadas(Explique a Teoria das cordas), ele tem 10 estilos de aprendizado diferente, pronto para ensinar e para estar com você sempre que precisar, ele te sugere trilhas de conhecimentos, resumos e muito mais, espero que gostem e que ele seja útil para vocês, obrigado e uma boa noite.
 Usuário: AnonymusFish
@@ -1349,7 +1349,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Bruno
-Votos: 14
+Votos: 15
 Link: https://github.com/BrunoNoraDevEng/PortfolioFree.git
 Descrição: O Agente Guardião da Saúde é um sistema inteligente e integrado, criado para ser seu aliado no gerenciamento de medicamentos. Desenvolvido com o objetivo de aumentar a segurança, a compreensão e a adesão aos tratamentos de saúde, este agente utiliza inteligência artificial para analisar prescrições médicas, buscar informações relevantes sobre medicamentos, encontrar alternativas mais acessíveis e auxiliar na organização da sua rotina de medicação.
 Usuário: bruno_nora
@@ -2789,7 +2789,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Gustavo Lopes dos Santos
-Votos: 34
+Votos: 33
 Link: https://github.com/Gust01-coder/TravelGemini
 Descrição: TravelGemini é um planejador de viagens com inteligência artificial que utiliza a API Gemini do Google para criar roteiros personalizados com base nas preferências do usuário. A aplicação foi desenvolvida com Next.js e oferece uma interface moderna para planejar todos os aspectos da sua viagem.
 Usuário: cowboyace
@@ -2825,7 +2825,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Amanda Soler
-Votos: 11
+Votos: 12
 Link: https://github.com/Amandasoler/projeto-leo-chatbot.git
 Descrição: Leo: O Lembrete Amigo é um projeto focado em criar um assistente pessoal acessível via WhatsApp para pessoas idosas e seus cuidadores. Inspirado no familiar mural de geladeira, Leo simplifica a gestão de lembretes essenciais de saúde (consultas, exames) e medicações, funcionando como um ponto central digital onde idosos e cuidadores podem facilmente cadastrar e consultar informações importantes através de uma interação simples por texto. A visão é que Leo evolua para um assistente completo no WhatsApp, utilizando Inteligência Artificial para entender linguagem natural, enviar lembretes automáticos e confiáveis, e facilitar a gestão compartilhada da rotina, trazendo simplicidade, conexão e paz de espírito para toda a família.
 Usuário: Amanda Soler
@@ -3401,7 +3401,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Diógenes de Melo e Silva
-Votos: 12
+Votos: 15
 Link: https://github.com/DiogenesDeMelo/ProjetoAlura-MentorFinaneiroIA
 Descrição: A gente sabe que a situação no Brasil não tá fácil pra todo mundo, com muita gente no vermelho e até superendividada. Por isso, criei essa ferramenta pra ser aquele empurrãozinho inicial rumo a uma vida financeira mais tranquila e saudável. Bora nessa? O projeto consiste em um mentor financeiro turbinado com inteligência Artificial da API Gemini do Google, que visa proporcionar planjementos financeiros personalizados com preocupações financeirais ou quadro financeiras bem descritos pelo usuário.
 Usuário: diogenes_melo.
@@ -3851,7 +3851,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Kauã Gomes
-Votos: 15
+Votos: 19
 Link: https://github.com/kauagomess1/Code-Buddy.git
 Descrição: O Code Buddy foi desenvolvido para ajudar iniciantes em programação Back-end e Front-End (básico)
 Usuário: kg_12
@@ -4445,7 +4445,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Rodrigo de Abreu Godinho
-Votos: 8
+Votos: 9
 Link: https://github.com/rodrigogodinho/ai_rpf_cm_ativos
 Descrição: É um assistente para facilitar uma tarefa MUITO CHATA de quem declara IRPF, que é ler todas as notas de corretarem e calcular o preço/custo médio dos ativos para lançar na ficha de Bens e Direitos. Com o AI_RPF_CM_Ativos é só selecionar os arquivos das notas de corretagem e os agentes legais do AI_RPF faz todo o tratalho.
 Usuário: rodrigogodinho.
@@ -4463,7 +4463,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Bruna Schwalm
-Votos: 10
+Votos: 11
 Link: https://github.com/BrunaSchwalm/Agente-contra-Fake-News
 Descrição: Este projeto implementa um agente de inteligência artificial desenvolvido em Python no Google Colaboratory para auxiliar na verificação da veracidade de notícias, com o objetivo de combater a disseminação de fake news.
 Usuário: .bruu.
@@ -5750,7 +5750,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Marcos Gabriel
-Votos: 15
+Votos: 16
 Link: https://github.com/Developer-Marcos/mapa-de-carreira
 Descrição: Descubra como se tornar qualquer profissional, de desenvolvedor até presidente do Brasil. Com este projeto, você gera um roadmap completo (com materiais prontos) para a carreira que quiser, ou faz um quiz com IA para descobrir qual profissão combina com você. Tudo de forma simples, prática e com a ajuda do Gemini.
 Usuário: Morph
@@ -5858,7 +5858,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Douglas Rustiguelli Vieira
-Votos: 12
+Votos: 13
 Link: https://github.com/douglasbatat/imersao-alura
 Descrição: Desenvolvido durante a Imersão Alura, este projeto apresenta um assistente de investimento inovador construído em Python. Sua principal característica reside na utilização de um chatbot interativo para coletar informações cruciais do usuário, seguido por um sistema robusto de **cinco agentes especializados** que trabalham em conjunto para fornecer recomendações de investimento personalizadas e otimização de portfólio.  O objetivo principal é simplificar o processo de investimento, guiando o usuário desde a coleta de suas necessidades e perfil até a sugestão de estratégias alinhadas com seus objetivos e tolerância a riscos.
 Usuário: DouglasRustiguelli
@@ -6776,7 +6776,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Pedro Paiva
-Votos: 21
+Votos: 24
 Link: https://github.com/pekapa/text-based-adventure/tree/main
 Descrição: ✨ Aventura Textual Dinâmica ✨  Um ChatBot educacional baseado na API do Google para Inteligência Artificial.  Este projeto é uma aventura textual interativa e educacional, impulsionada por um modelo de inteligência artificial generativa. Ele cria histórias dinâmicas com base em temas e níveis de dificuldade escolhidos pelo jogador, oferecendo uma experiência de aprendizado envolvente através da exploração e interação.
 Usuário: sgt.spook
@@ -6875,7 +6875,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Gabriel Paz
-Votos: 10
+Votos: 11
 Link: https://github.com/gabrielpazvd/ProjetoAluraSaude
 Descrição: Este projeto desenvolve um sistema inteligente para gerar planos de treino personalizados, com o objetivo de oferecer orientações de exercício físico adaptadas ao nível de condicionamento (iniciante ou avançado), objetivos específicos, frequência de treino e acesso a recursos (academia ou casa). Ao considerar essas variáveis, o sistema busca fornecer recomendações alinhadas às necessidades individuais, visando aumentar a adesão e otimizar os resultados dos usuários. A importância e a eficácia potencial do projeto residem em sua capacidade de democratizar o acesso a planos de treino estruturados e adaptáveis. Ao oferecer opções para diversos contextos e considerar princípios básicos do treinamento físico, como progressão e foco em diferentes grupos musculares, o sistema pode ajudar os usuários a iniciar suas jornadas de forma mais segura e organizada, incentivando a consistência e a obtenção de resultados a longo prazo, independentemente de suas condições iniciais ou acesso a ambientes de treino convencionais.
 Usuário: gabrielpazvd
@@ -6884,7 +6884,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Luana Araújo da Silva
-Votos: 12
+Votos: 13
 Link: https://github.com/Lua-shift/Obra.IA_Alura
 Descrição: Obra.IA é um sistema inteligente projetado para auxiliar pedreiros e profissionais da construção civil na criação de orçamentos detalhados e precisos para diversos tipos de obras.
 Usuário: lunaaraujos
@@ -7307,7 +7307,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jhuliani Cristina Amorim dos Santos
-Votos: 18
+Votos: 19
 Link: https://github.com/Jhuliani/agente-gerador-de-rpg
 Descrição: Gerador automático de campanhas de RPG. Gera automaticamente:  cenários de RPG completos, personagens (NPCs) com histórias detalhadas, missões e questlines prontas para jogar Itens especiais e tesouros balanceados
 Usuário: jhuliani
@@ -7694,7 +7694,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: WalkerTECH AI Financer
-Votos: 13
+Votos: 14
 Link: https://github.com/Walker10TECH/WalkerTECH-Financer-AI
 Descrição: WalkerTECH AI-Financer Pro é uma plataforma de análise financeira inteligente que utiliza inteligência artificial para ajudar você a tomar melhores decisões de investimento, aplicação, entre outros!
 Usuário: Willyan Walker(W3)
@@ -7829,7 +7829,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Mayara Fernandes (Cali)
-Votos: 19
+Votos: 20
 Link: https://github.com/sylksong/rpg-chatbot
 Descrição: PlotBot é um assistente IA especializado em Tabletop RPG (TTRPG), criado para solucionar o desafio do tempo e do bloqueio criativo na criação de campanhas, tanto para hobby quanto para uso educativo.  O projeto visa capacitar mestres e jogadores, mas também educadores que buscam usar o TTRPG como ferramenta de aprendizado, superando a barreira da criação de conteúdo didático em formato de jogo.  PlotBot atinge isso através de agentes de IA (Google Gemini/ADK) com duas funções principais:  Busca por Inspiração: Encontra referências do mundo real (história, ciência, etc.) via Google Search. Adaptação Criativa Contextual: Transforma ideias ou pesquisas em elementos de jogo concretos (NPCs, missões), personalizando-os para o sistema/gênero/tom (hobby) ou tema curricular/faixa etária (educação). O foco é acelerar a criação, impulsionar a criatividade e democratizar o uso do TTRPG – tornando a criação de histórias e o aprendizado imersivo mais acessíveis e eficientes para todos.
 Usuário: sylksong
@@ -7964,7 +7964,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Angélica Alves Viana
-Votos: 40
+Votos: 43
 Link: https://github.com/angelica-ti/project-avia.git
 Descrição: No cenário digital atual, garantir que websites e aplicações sejam acessíveis é mais do que uma exigência legal ou uma boa prática; é um imperativo para a inclusão de milhões de pessoas. No entanto, a complexidade das diretrizes de acessibilidade, como a WCAG 2.2, pode representar um desafio significativo para desenvolvedores, designers e equipes que buscam construir ambientes online verdadeiramente universais.  É para atender a essa necessidade que surge o AVIA (Accessible Virtual Interface Assistant).  AVIA é uma assistente virtual especializada em acessibilidade digital, criada especificamente para apoiar desenvolvedores, designers e equipes no processo de construção de uma web mais inclusiva. A missão do AVIA é descomplicar as complexas diretrizes da WCAG 2.2, transformando um documento técnico em um diálogo prático e acionável.  Funcionando como uma ferramenta de suporte inteligente, AVIA permite que desenvolvedores, designers e equipes tirem dúvidas em tempo real sobre critérios de acessibilidade especí
 Usuário: angelica_viana
