@@ -260,7 +260,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Otelo Santos Lucio Andrade
-Votos: 19
+Votos: 20
 Link: https://github.com/OteloSantos/Imersao-Alura?tab=readme-ov-file#readme
 Descrição: Sistema de Informação e Apoio para Famílias com Síndromes Raras
 Usuário: otelosantos
@@ -692,7 +692,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Hugnei Torres Pacheco
-Votos: 14
+Votos: 15
 Link: https://github.com/hugneiTP/Imersao-IA-Alura/blob/main/Projeto_Agente.ipynb
 Descrição: Agente de Inteligência para Investimentos (Buy/Sell Advisor)
 Usuário: hugnei_57520
@@ -1853,7 +1853,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jean Almeida
-Votos: 13
+Votos: 14
 Link: https://github.com/jeanheinriich/FinanceBot.git
 Descrição: O FinanceBot é um assistente financeiro pessoal inteligente que combina um chatbot conversacional com um dashboard interativo para ajudar você a organizar suas finanças de forma simples e intuitiva.  Com ele, você pode registrar, consultar e editar transações financeiras usando linguagem natural. As informações são armazenadas em um banco de dados SQLite e visualizadas em tempo real através de um dashboard desenvolvido com Streamlit.  O projeto integra modelos de linguagem (LLMs), como o Gemini da Google, para oferecer uma experiência fluida entre conversa e visualização de dados, além de gerar relatórios e insights financeiros personalizados.
 Usuário: jean049815
@@ -4013,7 +4013,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Eyshila Inácio de Oliveira
-Votos: 20
+Votos: 21
 Link: https://github.com/oliveiraeyshila/projetoimersaoiagoogle.git
 Descrição: Criei um chatbot chamado Ampara, que ajuda mulheres em situação de violência doméstica, disponibilizando informações como: vagas de emprego, ciclo menstrual e dores relacionadas, previsão do tempo e um quiz para saber se ela está em um relacionamento abusivo. Ele também pode agir como um amigo, escutando os desabafos e anseios da mulher.
 Usuário: eyshilaoliveira
@@ -6119,7 +6119,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Cristiano Pires e Silva
-Votos: 11
+Votos: 12
 Link: https://github.com/Cristianomanaus/professorX
 Descrição: Sou um professor universitário que dou aula de radiologia para meus alunos do 4 período e gostaria de usar os recursos do Google Gemini para poder desenvolver uma ferramenta que pode aumentar o desempenho dos alunos na matéria através de um conteúdo interativo que pode auxilia-los a fazer um melhor diagnóstico de cárie em dentes posteriores. Por isso pensei em desenvolver um projeto que posso chamar de ProfessorX, onde os alunos iriam tirar uma foto de uma radiografia do tipo proximal ou bit win, que é o modelo de rx no qual somente as coroas dos dentes posteriores da arcada superior e inferior aparecem, variando apenas o lado esquerdo ou direito e submeter ao programa para avaliar se o diagnostico deles é semelhante ao da iA.
 Usuário: cristianomanaus_32099
@@ -6470,7 +6470,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Cleiton Ribeiro
-Votos: 11
+Votos: 12
 Link: https://github.com/Cleitonrib/Cleitonrib/blob/main/Projeto_Imers%C3%A3o_IA.ipynb
 Descrição: O projeto se baseia em tutor de Língua Portuguesa para alunos do 6º ao 9º ano do Ensino Fundamental. A intenção do Tutor é ajudar o aluno com gramatica e ortografia.
 Usuário: cleitonribeiro8584
@@ -7307,7 +7307,7 @@ Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1
 ---
 
 Nome: Jhuliani Cristina Amorim dos Santos
-Votos: 19
+Votos: 20
 Link: https://github.com/Jhuliani/agente-gerador-de-rpg
 Descrição: Gerador automático de campanhas de RPG. Gera automaticamente:  cenários de RPG completos, personagens (NPCs) com histórias detalhadas, missões e questlines prontas para jogar Itens especiais e tesouros balanceados
 Usuário: jhuliani
