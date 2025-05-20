@@ -294,7 +294,7 @@ def main():
                 
     with st_vencedores:
         st.title("🏅 :orange[Vencedores] - :blue[Imersão IA]")
-        st.markdown("Lista :gray[oficial] dos vencedores da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
+        st.markdown("Lista :green[oficial] dos vencedores da Imersão IA :blue[Alura] + **:blue[G]:red[o]:orange[o]:blue[g]:green[l]:red[e]**!")
         st.info("Para mais detalhes sobre as premiações acesse o **[🤿 Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb#97d51e2c6df04a1e9b72ac90a701da30)**.")
         
         winners = load_messages_winners()
