@@ -221,7 +221,7 @@ def main():
         else:
             cols = st.columns(3)  # Três colunas para desktop
             
-        for idx, project in enumerate(sorted_projects[:60]):
+        for idx, project in enumerate(sorted_projects[:30]):
             col = cols[idx % len(cols)]
             with col:
                 medal_class = ''
