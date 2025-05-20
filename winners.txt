@@ -1,0 +1,97 @@
+Rank: 1
+Nome: Matheus Audibert
+Votos: 47
+Link: https://github.com/matheusaudibert/projeto-aprova
+Descrição: Plataforma Aprova - Tudo o que você precisa para se preparar para os vestibulares: resumos, exercício, correção de redação com IA e muito, chatbot e muito mais. Tudo em um só lugar!
+Usuário: grwx
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373142479859355749
+
+---
+
+Rank: 2
+Nome: Raul Marcos da Rocha
+Votos: 38
+Link: https://github.com/raulrocha/reporta-ai-prototipo
+Descrição: O "Reporta Aí" é um protótipo de aplicativo cívico inovador que utiliza o poder da Inteligência Artificial para simplificar e otimizar o processo de reporte de problemas urbanos
+Usuário: raulmrocha
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373231355764277358
+
+---
+
+Rank: 3
+Nome: Victor Costacurta
+Votos: 35
+Link: https://github.com/profvictor/terapIA.git
+Descrição: 💬 terapIA – Sua saúde mental vale muito! Descubra como o Gemini pode ser seu aliado no cuidado emocional. Me ajude a realizar meu sonho de estudar! Clique, conheça e vote! ❤️🤖
+Usuário: prof_victor
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373270985825976380
+
+---
+
+Rank: 4
+Nome: Luiz Felipe Lima
+Votos: 147
+Link: https://github.com/flimaz/LumaGestante
+Descrição: Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
+Usuário: limalf
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373495308734169250
+
+---
+
+Rank: 5
+Nome: Eric da Silva Alexandre dos Santos
+Votos: 35
+Link: https://github.com/Ehrikr/Anamnese/tree/main
+Descrição: Um RPG textual médico investigativo onde cada diagnóstico é um mistério e cada escolha é gerada pela IA Gemini.
+Usuário: ehrikr
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373495241193160765
+
+---
+
+Rank: 6
+Nome: Douglas Floriano
+Votos: 62
+Link: https://github.com/dougfani/horta_inteligente/tree/main
+Descrição: Horta Inteligente: Seu assistente com IA (Google Gemini) para cultivo personalizado de plantas comestíveis em pequenos espaços e vasos.
+Usuário: doug27fani
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373494873126207640
+
+---
+
+Rank: 7
+Nome: Caio Souza
+Votos: 13
+Link: https://github.com/Fcsscoder/learnlite
+Descrição: LearnLite é uma aplicação web construída com Next.js que utiliza Inteligência Artificial Generativa para oferecer aos usuários resumos, flashcards e quizzes gerados a partir de documentos PDF enviados. A interface é limpa e moderna, desenvolvida com Tailwind CSS e componentes da ShadCN UI.
+Usuário: qwzito
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373483361225539584
+
+---
+
+Rank: 8
+Nome: Maysa Gonçalves Nascimento dos Anjos
+Votos: 39
+Link: https://github.com/maysagoncalves29/imersao-alura2025.git
+Descrição: IncluiAI nasceu do amor pela minha avó, que tem baixa visão. Embora o aplicativo ainda esteja em desenvolvimento, meu propósito é claro: incluir pessoas idosas e com baixa visão no universo da tecnologia. Usando a API Gemini, criei um assistente digital que oferece dicas simples, acessíveis e acolhedoras, para que esses usuários se sintam mais seguros, conectados e valorizados no mundo digital.
+Usuário: maysa29
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373133945310412872
+
+---
+
+Rank: 9
+Nome: Renan Gustavo Carvalho Miranda
+Votos: 93
+Link: https://github.com/renangustavou/lumina.ai
+Descrição: Lumina é um sistema inteligente de detecção de golpes que utiliza IA para proteger usuários, especialmente idosos, contra fraudes digitais, analisando mensagens suspeitas e fornecendo alertas e recomendações
+Usuário: kenan.w
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373495215817625670
+
+---
+
+Rank: 10
+Nome: Fernanda Müller Ennes
+Votos: 39
+Link: https://github.com/FerEnnes/GerminAi/tree/main
+Descrição: GerminAI é um assistente inteligente desenvolvido para ajudar produtores, estudantes e entusiastas da agricultura sintrópica a planejarem e executarem sistemas agroflorestais regenerativos, seguindo os princípios de Ernst Götsch. A ferramenta utiliza modelos de linguagem (LLMs) e APIs geográficas para gerar planos personalizados de agrofloresta com base na localização, clima, solo, relevo e objetivos de cada usuário.
+Usuário: ferennes
+Redirect: https://discord.com/channels/1369193715989614684/1369193716434337849/1373494306072952915
