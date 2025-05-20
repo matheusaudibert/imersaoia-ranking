@@ -154,69 +154,29 @@ def main():
     
     st.info(f"O número mínimo para estar no **Top 30** desta imersão foi de :blue[**{min_votes} votos**].")
     
-    st.sidebar.error("**Votações encerradas. O resultado foi divulgado durante a [live de encerramento](www.youtube.com/watch?v=fjL7TnjlJMQ&feature=youtu.be).**")
+    st.sidebar.error("**Votações encerradas. O resultado foi divulgado durante a [🎥 Live de Encerramento](www.youtube.com/watch?v=fjL7TnjlJMQ&feature=youtu.be) e a lista de ganhadores esta no [🤿 Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb).**")
     st.sidebar.success("**Esta imersão contou com 918 projetos.**")
     
-    st.sidebar.title("🤿 Lista do vencedores:")
-    st.sidebar.markdown("""### 1º lugar: Matheus Audibert
-
-GitHub: https://github.com/matheusaudibert/projeto-aprova
-
-### 2º lugar: Raul Marcos da Rocha
-
-GitHub: https://github.com/raulrocha/reporta-ai-prototipo
-
-### 3º lugar: Victor Costacurta
-
-GitHub: https://github.com/profvictor/terapIA.git
-
-### 4º lugar: Luiz Felipe Lima
-
-GitHub: https://github.com/flimaz/LumaGestante
-
-### 5º lugar: Eric da Silva Alexandre dos Santos
-
-GitHub: https://github.com/Ehrikr/Anamnese/tree/main
-
-### 6º lugar: Douglas Floriano
-
-GitHub: https://github.com/dougfani/horta_inteligente/tree/main
-
-### 7º lugar: Caio Souza
-
-GitHub: https://github.com/Fcsscoder/learnlite
-
-### 8º lugar: Maysa Gonçalves Nascimento dos Anjos
-
-GitHub: https://github.com/maysagoncalves29/imersao-alura2025.git
-
-### 9º lugar: Renan Gustavo Carvalho Miranda
-
-GitHub: https://github.com/renangustavou/lumina.ai
-
-### 10º lugar: Fernanda Müller Ennes
-
-GitHub: https://github.com/FerEnnes/GerminAi/tree/main""")
-    # # Sidebar search
-    # st.sidebar.title("🔎 Pesquise o seu projeto!")
-    # search_term = st.sidebar.text_input("Digite o nome seu nome:").lower()
+    # Sidebar search
+    st.sidebar.title("🔎 Pesquise o seu projeto!")
+    search_term = st.sidebar.text_input("Digite o nome seu nome:").lower()
     
 
-    # if search_term:
-    #     search_results = [p for p in projects if search_term in p['nome'].lower()]
-    #     if search_results:
-    #         for project in search_results:
-    #             # Encontra a posição do projeto no ranking
-    #             position = sorted_projects.index(project) + 1
-    #             st.sidebar.markdown("---")
-    #             st.sidebar.markdown(f"### {position}. {project['nome']}")
-    #             st.sidebar.markdown(f"**Votos:** {project['votos']}")
-    #             st.sidebar.markdown(f"**Usuário Discord:** {project['usuario']}")
-    #             st.sidebar.markdown(f"**Descrição:** {project['descricao']}")
-    #             st.sidebar.markdown(f"[Abrir no Github]({project['link']})")
-    #             st.sidebar.markdown(f"[Votar do projeto]({project['votar']})")
-    #     else:
-    #         st.sidebar.warning("Nenhum projeto encontrado.")
+    if search_term:
+        search_results = [p for p in projects if search_term in p['nome'].lower()]
+        if search_results:
+            for project in search_results:
+                # Encontra a posição do projeto no ranking
+                position = sorted_projects.index(project) + 1
+                st.sidebar.markdown("---")
+                st.sidebar.markdown(f"### {position}. {project['nome']}")
+                st.sidebar.markdown(f"**Votos:** {project['votos']}")
+                st.sidebar.markdown(f"**Usuário Discord:** {project['usuario']}")
+                st.sidebar.markdown(f"**Descrição:** {project['descricao']}")
+                st.sidebar.markdown(f"[Abrir no Github]({project['link']})")
+                st.sidebar.markdown(f"[Votar do projeto]({project['votar']})")
+        else:
+            st.sidebar.warning("Nenhum projeto encontrado.")
 
     cols = st.columns(3)
     for idx, project in enumerate(sorted_projects[:60]):
