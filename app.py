@@ -215,9 +215,14 @@ def main():
             else:
                 st.sidebar.warning("Nenhum projeto encontrado.")
 
-        cols = st.columns(3)
+        # No ranking
+        if st.checkbox("Visualização para celular", value=False, key="mobile_view_ranking"):
+            cols = st.columns(1)  # Uma coluna para mobile
+        else:
+            cols = st.columns(3)  # Três colunas para desktop
+            
         for idx, project in enumerate(sorted_projects[:60]):
-            col = cols[idx % 3]
+            col = cols[idx % len(cols)]
             with col:
                 medal_class = ''
                 if idx == 0:
@@ -298,9 +303,14 @@ def main():
         st.info("Para mais detalhes sobre as premiações acesse o **[🤿 Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb#97d51e2c6df04a1e9b72ac90a701da30)**.")
         
         winners = load_messages_winners()
-        cols = st.columns(3)
+        # Na aba vencedores
+        if st.checkbox("Visualização para celular", value=False, key="mobile_view_winners"):
+            cols = st.columns(1)  # Uma coluna para mobile
+        else:
+            cols = st.columns(3)  # Três colunas para desktop
+            
         for idx, winner in enumerate(winners):
-            col = cols[idx % 3]
+            col = cols[idx % len(cols)]
             with col:
                 medal_class = ''
                 if idx == 0:
